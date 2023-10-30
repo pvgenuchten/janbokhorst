@@ -1,0 +1,25 @@
+---
+title: 'Kasteelt'
+date: 2023-10-28
+author: Jan Bokhorst
+---
+
+# Kasteelt
+
+[Zand en klei](./kasteelt-zand-en-klei.qmd)
+
+---
+
+
+
+
+
+
+       
+
+
+
+
+
+
+

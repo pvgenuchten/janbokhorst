@@ -1,0 +1,74 @@
+---
+title: 'Bodemstructuur'
+date: 2023-10-28
+author: Jan Bokhorst
+---
+
+# Bodemstructuur
+
+
+
+---
+
+
+
+
+
+
+        
+
+ ### BODEMSTRUCTUUR
+
+ Het is niet niet altijd eenvoudig om de bodemstructuur objectief te beoordelen. Kijk ook bij Bodem > Graaf een kuil. De bodemstructuur is wel een van de belangrijkste eigenschappen van een bodem.
+
+
+   **De bodemstructuur**  
+  
+**INHOUD**[Inleiding](bodemstructuur1.html#inleiding)[De bodemstructuur](bodemstructuur1.html#structuur)[Geschiedenis van de visuele waarneming van de bodem](bodemstructuur1.html#geschiedenis)  
+InleidingSituaties dat de bodem bijna onbeperkt doorwortelbaar is, komen vrijwel niet voor. Bij het bekijken van de wortels van planten valt direct op dat een schijnbaar nauwelijks verdichte kluit al niet meer doorwortelbaar is. Bij veel gronden zijn grote delen van de bouwvoor niet toegankelijk voor wortels. Voor de laag onder de bouwvoor is dit in nog veel sterkere mate het geval. Tussen niet doorwortelbare kluiten zoekt de wortel zijn weg in de bodem. Naast ondoordringbare kluiten zijn er ook anaerobe plekken die niet toegankelijk zijn. Via gangen van regenwormen of ander bodemleven en via oude wortelgangen kunnen plantenwortels wel snel en intensief een bodem doorwortelen. De wortel moet steeds kunnen doorgroeien. Het deel van de wortel dat actief is, het deel met de wortelharen, sterft steeds af en alleen het doorgroeiende deel met wortelharen is actief.  
+Dit laatste is van groot belang. Het is dus niet zo dat wanneer een wortel eenmaal in de bodem is, deze dan gedurende het leven van de plant vocht en voedingsstoffen op kan nemen. Het is alleen het actieve deel achter de wortelpunt dat dit doet. Deze eigenschap van de wortel benadrukt het belang van een goede bodemstructuur.  
+Een goed doorwortelbare bodem is essentieel voor de plant. Gronden met een goede structuur en een slechte groei komen wel voor, maar dat gebeurt niet vaak.  
+Hoe beoordeel je nu of de grond goed doorwortelbaar is? Een laboratoriummethode die hier duidelijkheid over geeft, bestaat niet. Een penetrometer (metalen staaf met verdikte punt) is wel een hulp maar na enkele vergelijkingen van penetrometerwaarden met de werkelijke beworteling in de grond worden de beperkingen direct al duidelijk. Ook bij andere methodes is dit steeds het geval. De enige goede methode is een visuele beoordeling in een grotere of kleinere profielkuil. Hiermee doet soms subjectiviteit zijn intrede. De ervaringen van telers, onderzoekers of voorlichters blijken niet altijd goed over te dragen. Een beschrijving van de beoordelingswijze van de bodemstructuur kan evenwel helpen en u treft deze in het hiernavolgende aan.  
+ **De bodemstructuur**  
+Aan de basis van vrijwel iedere bodem staan de minerale delen. Het zijn zanddeeltjes (van grof tot zeer fijn( en kleideeltjes. Komt daar nog organische stof en bodemleven bij, dan zijn de basiselementen van de bodemstructuur compleet.  
+Zand en klei dragen zelf al bij aan bodemeigenschappen:  
+**Zand:**Lucht in de grond  
+Drainage goedSnelle omzetting plantenrestenSnelle opwarming in het voorjaarBewerken na regen gaat goed  
+**Klei:**Hoog waterbindend vermogen  
+Trage omzetting plantenrestenGrote kans op verdichtingSterk krimpen en zwellenWeinig verlies voedingsstoffen na regenKan voedingsstoffen goed bindenGeringe veranderingen van pH-waarde  
+Wanneer er **organische stof** 
+in de grond bijkomt, veranderen de bodemeigenschappen.Meer lucht in de grondBetere drainage van kleiTragere opwarming in het voorjaar bij veel organische stofBetere bewerking, maar slechtere bij teveelHoger waterbindend vermogenMinder kans op verdichtingMinder verlies voedingsstoffenBetere binding voedingsstoffen  
+Tenslotte de plant en het **bodemleven:**Betere binding van bodemdeeltjes door slijmstoffen van bacteriën  
+Betere binding van bodemdeeltjes door schimmeldradenBetere binding van bodemdeeltjes door wortelharenMeer lucht door poriënBetere waterafvoer door poriënVrijmaking voedingstoffen  
+Het resultaat een bodem waar planten op kunnen groeien (Brady): ![](../img/f6b59c0b-2d87-49e1-9a28-6f64eb5ed4bf-1920w.jpg)
+**De geschiedenis van de visuele waarneming van de bodem**Bij toepassing van de spadeproef wordt een profielkuil gegraven. Deze is tenminste 40 cm diep. Er wordt vooral aandacht besteed aan het verband tussen de visueel waargenomen bodemstructuur en de ontwikkeling van het wortelstelsel van de planten. Om de doelstelling en toepassingsmogelijkheden van de spadeproef (Spatendiagnose) te leren kennen is het noodzakelijk kennis te nemen van de geschiedenis en achtergrond van deze door Johannes Görbing (1877-1946) ontwikkelde methode. Deze is door hem zelf tegen het einde van zijn leven beschreven en na zijn overlijden gepubliceerd (Görbing,1947); de citaten van Görbing zijn steeds afkomstig uit dit boek. Görbing studeerde in Halle en Göttingen biologie met als specialisatie fysiologie, botanie en microbiologie. Tot aan 1914 was hij werkzaam in Hamburg, eerst als microbioloog bij een waterleidingbedrijf en vervolgens bij een laboratorium voor warenkeuring. Tijdens de eerste wereldoorlog diende hij bij de intendance van het leger. Onder de indruk van de hongersnood, eerst in Palestina en Syrië en later in Duitsland, voelde hij het in november 1919 als zijn roeping zijn leven in dienst te stellen van de landbouw. Görbing vestigde zich als zelfstandig landbouwvoorlichter in de omgeving van Hamburg en stichtte een eigen laboratorium voor het onderzoek van grond- en gewasmonsters. In 1926 richtte hij te Pinnenburg-Rellingen zijn 'Forschungsanstalt für Bodemkunde und Pflanzenernährung' op en begon met cursussen bemestingsleer te geven. Deze hadden tot gevolg dat hij door cursisten gevraagd werd hun bedrijven te bezoeken.  
+“Ik streek neer op de akker en moest aanpakken. Hiermede begon, ik moet het eerlijk bekennen, ook voor mij het eigenlijke leren. Bodem en planten werden mijn directe leermeesters. Ze dwongen mij om veel bestaande kennis te toetsen. Daarbij kwamen echter andere leermeesters, de door mij bezochte landbouwers. Gezamenlijk stelden wij de vragen en zochten en vonden antwoorden, die de natuur ons gaf.”  
+En dan volgt de cruciale zin: “Hierbij was voor mij de spade van het begin af aan een vanzelfsprekend hulpmiddel, want zonder de wortels en hun ontwikkeling in de bodem zouden wij ons immers slechts met een deel van de planten, het bovenaardse deel, bezig houden. Het eigenlijk voor ons belangrijkste gedeelte, de beworteling, zou voor ons verborgen blijven."  
+“Wie gezien heeft hoe een wortelstelsel in dezelfde grondsoort zich totaal verschillend kan ontwikkelen en begrepen heeft dat de wortels een getrouw beeld geven van de anders zo geheime processen in de akkerbodem, zal ook inzien welke vooruitziende blik Justus von Liebig had, toen bij reeds in 1842 zei: 'Kennis van de beworteling van cultuurgewassen vormt de basis van de landbouw'.”  
+  
+**Het leerproces**  
+Het leerproces van Görbing berust op 'vergelijkende diagnostische waarnemingen' op percelen die verschillen in gewasontwikkeling laten zien, hetzij pleksgewijs, hetzij op gedeelten die verschillend behandeld zijn. Uit zijn onderzoek van de bodemstructuur en beworteling, in totaal naar schatting 50.000 profielkuilen, groeide geleidelijk het inzicht in de samenhang tussen de bodem als groeimilieu van de wortel en de bovenaardse ontwikkeling van de gewassen."Deze weg vanaf het begin tot volkomen helderheid en zekerheid was lang en moeilijk." Steeds werd voor elk perceel op basis van de diagnose een advies gegeven over de te nemen cultuurmaatregelen. De juistheid van deze adviezen werd getoetst door controle van de genomen maatregelen (b.v. de ploegdiepte) en de beoordeling van het resultaat. Doordat Görbing een aantal bedrijven jarenlang regelmatig bezocht, kreeg hij - mede dankzij een zeer sterk geheugen, systematische aantekeningen en een uitgebreid foto-archief - een inzicht in de levensloop van bedrijven en percelen in verschillende gebieden met verschillende grondsoorten onder jaarlijks wisselende weersomstandigheden. De waarde van zijn adviezen blijkt het duidelijkst uit de toenemende vraag hiernaar. Eerst in verschillende delen van Duitsland en later ook in het buitenland. Kenmerkend voor zijn wijze van voorlichting is het volgende citaat:  
+“Ik acht het noodzakelijk dat allen die verantwoordelijk zijn voor de uitvoering van de geadviseerde cultuurmaatregelen (Görbing adviseerde vooral op grote landgoederen) ons bezoek aan de percelen meemaken en aan de spadeproeven deelnemen. Dit bevordert hun geestelijke en morele medewerking. Ik heb vele malen ondervonden dat ook de eenvoudige man door aanschouwing ontvankelijk wordt voor wat de natuur ons openbaart en dat het hem duidelijk wordt hoe de door hem verrichte werkzaamheden de akker hebben beïnvloed. Het is immers niet belangrijk zware wetenschappelijke uiteenzettingen te geven. Belangrijk is bij de diagnose op het veld de feiten te tonen en te laten zien hoe hiermee de geadviseerde cultuurmaatregelen samenhangen.”   
+![Johannes Gorbing](../img/34792a5b-025d-4cb7-b18a-bca3907235f5-1920w.jpg)   
+Johannes Gorbing
+
+ 
+
+
+
+
+
+Nieuwe inzichtenWelke feiten bracht Görbing nu met zijn spadeproef aan het licht die nog niet eerder door anderen waren waargenomen? Bekend was reeds de grote betekenis van 'Gare', zoals blijkt uit een door Görbing vermeld citaat uit een in Duitsland destijds zeer bekende publicatie: “De 'Gare' is het hoogste doel van de landbouw.” 'Gare' is een alleen in Duitsland bestaand begrip, waarmee 'Gar' wordende bodem wordt vergeleken met rijzend brooddeeg. Met deze vergelijking wordt aangeduid dat de luchtige opbouw van de grond veerkrachtig is en zich kan herstellen, nadat de structuur door mechanische druk of neerslag is verdicht. Later is door van Ham (1988) het begrip 'Gare' vertaald met 'bodemkruim'. Hierin is de vergelijking met brood (broodkruim) terug te vinden en het kan ook duidelijk naast het begrip kruimelstructuur gehanteerd worden. Dit onderscheid tussen bodemkruim ('Gare') en kruimelstructuur blijkt uit de door Görbing gegeven definitie van 'Gare':  
+" 'Gar' is een grond waarvan de kruimelstructuur wordt gevormd door het leven zelf, variërend van de wortels van alle voorkomende planten tot de micro-organismen, in harmonisch krachtenspel met alle fysische, chemische en colloïd-chemische bodemprocessen."  
+Essentieel in deze definitie is het onderscheid tussen kruimelstructuur, die ook langs mechanische, chemische weg of door vorst kan ontstaan, en bodemkruim als het resultaat van biologische processen. De door Görbing gegeven nieuwe inzichten hebben nu, behalve op dit onderscheid tussen kruimelstructuur en bodemkruim, betrekking op de wijze waarop de bodemkruim in de landbouw tot stand kan worden gebracht. Görbing zelf beschrijft dat als volgt:  
+"De bestudering van deze publicatie (waarin de bodemkruim als hoogste doel van de landbouw wordt beschouwd; CJC) heeft mij echter niet geleerd welke wegen naar dit doel leiden. Eerst nadat ik 20 jaar naar de bronnen had gezocht kreeg ik inzicht in wat belangrijk was. Tijdens duizenden diagnoses van de bodem werd het beeld steeds meer afgerond en werden de samenhangen steeds duidelijker, tot zij tenslotte volkomen helder waren. Recepten, waar men echter steeds naar vraagt, zijn niet te geven. Hoe men 'Gare' maakt, is met boeken alleen niet te leren, omdat omstandigheden van grond en klimaat veel te sterk wisselen. Wel kan ik in dit boek de wegen tonen die naar het doel leiden en waarschuwen voor plaatsen waar men verdwalen kan. Maar ieder zal, zijn eigen verstand gebruikend, de weg alleen moeten afleggen."  
+De drievoudige weg naar 'de echte Gare' (bodemkruim)De drie wegen die volgens Görbing naar 'echte Gare' leiden hebben betrekking op bekalking, organische bemesting en grondbewerking. Deze drie cultuurmaatregelen werden reeds lang op basis van praktijkervaring en landbouwwetenschappelijk onderzoek toegepast.  
+Görbing was echter de eerste die deze cultuurmaatregelen in onderlinge samenhang bestudeerde met behulp van de visuele waarneming van de bodem en de beworteling (spadeproef) en zich op één doel richtte. Hierdoor werden het 'de drie fundamenten van Gare'. Deze drie cultuurmaatregelen krijgen door de nieuwe gemeenschappelijke doelstelling een andere betekenis dan voorheen. Kalk is geen meststof meer met hetzelfde karakter als N, P en K, maar krijgt een bijzondere betekenis voor de gehele levensgemeenschap in de bodem. Organische bemesting wordt niet meer in de eerste plaats gewaardeerd wegens haar gehalte aan minerale meststoffen of in verband gebracht met een verhoging of instandhouding van het humusgehalte van de grond (Dauerhumus). Maar de betekenis hiervan berust nu in de eerste plaats op de voeding van de bodemflora en -fauna (Nährhumus). "Het humusgehalte van de grond, of het ons nu lukt dat al of niet te verhogen, is niet het belangrijkste. Onze opgave in de praktijk is om de stofwisselingsketen van begin tot einde te sluiten; deze bronnen van de levende substantie niet te laten uitputten, maar op tijd te voeden. Voor het overige zorgt de natuur zelf. Deze bronnen zijn ook de bronnen van de bodemkruim omdat de organische stoffen als voedsel dienen voor de duizendvoudige werkzame levende wezens, die met de vertering de arbeid verrichten die wij als voorwaarde voor de opbouw van nieuw leven in zijn eeuwige kringloop opvatten."  
+Chronologisch kwam Görbing pas na het verwerven van inzicht in de betekenis van bekalking en organische bemesting tot de ontdekking van het derde fundament van de bodemkruim, de bodembewerking, omdat hij aanvankelijk veronderstelde dat grondbewerking een cultuurmaatregel was waarmee zoveel ervaring was opgedaan en waar zoveel over bekend was, dat hieraan niets meer te verbeteren zou zijn. Uit de spadeproef bleek hem echter geleidelijk dat de gangbare grondbewerking geheel gericht was op het verkrijgen van kruimelstructuur en zelden bodemkruim tot resultaat had. Voor de erkenning van dit derde fundament was beslissend dat Görbing met behulp van de spadeproef ontdekte dat de bodemkruim van nature begrensd is tot maximaal 22 cm diepte. Op grotere diepte is er onvoldoende zuurstof voor de aërobe vertering van organische bemesting. Door deze 'biologische Grundtatsache' wordt de dikte van Die tätige Krume in het traject 0-22 cm van levensbelang voor een gezonde ontwikkeling van de gewassen. Terwijl in het algemeen bij de visuele waarneming van de bodem alle aandacht is gevestigd op de gelaagdheid van een minstens één meter diep profiel, het aanwezig zijn van een ploegzool of de abrupte overgang van de ene naar de andere grondsoort, liet de spadeproef zien dat verschillen van enkele centimeters bodemkruim in de bovenlaag van 22 cm van veel grotere betekenis voor het gewas kunnen zijn.
+
+
+
+
+
+
+
