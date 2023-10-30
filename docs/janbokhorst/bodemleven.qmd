@@ -4,33 +4,14 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-# Bodemleven
 
 
-
----
-
+Het bodemleven bepaalt zeer veel in de bodem, maar is zeer divers. Het onderzoek naar analyses die een goed beeld geven van het bodemleven en te vertalen zijn naar praktijkmaatregelen heeft nog niet zoveel opgeleverd. Onderstaand een overzicht over het bodemleven en waar mogelijk handvatten voor de praktijk.
 
 
+**Inleiding**
 
-
-
-          
-  
-  
-  
-  
-
-
-
-   
-
- ### BODEMLEVEN
-
- het bodemleven bepaalt zeer veel in de bodem, maar is zeer divers. Het onderzoek naar analyses die een goed beeld geven van het bodemleven en te vertalen zijn naar praktijkmaatregelen heeft nog niet zoveel opgeleverd. Onderstaand een overzicht over het bodemleven en waar mogelijk handvatten voor de praktijk.
-
-
-   **Inleiding**Het bodemleven is van grote invloed op de plantengroei. Uit organische mest, gewasresten en groenbemesters moet het bodemleven de voedingsstoffen vrijmaken die onmisbaar zijn voor de plant. Daarnaast heeft het bodemleven nog diverse andere functies. Te onderscheiden zijn de volgende:- Afbraak van plantenresten, mest en dode bodemorganismen en vrijmaken van voedingsstoffen hieruit (mineralisatie)- Opbouw van organische stof die slechts traag wordt afgebroken (humusopbouw, humificatie)- Opbouw van een goede bodemstructuur- Losmaken van een te dichte grond door het graven van gangen- Vorming van slijmstoffen die de bodemdeeltjes aan elkaar kitten- Mengen van organische en anorganische bodemdelen.- Beperken van te grote aantallen ziekteverwekkende organismen  
+Het bodemleven is van grote invloed op de plantengroei. Uit organische mest, gewasresten en groenbemesters moet het bodemleven de voedingsstoffen vrijmaken die onmisbaar zijn voor de plant. Daarnaast heeft het bodemleven nog diverse andere functies. Te onderscheiden zijn de volgende:- Afbraak van plantenresten, mest en dode bodemorganismen en vrijmaken van voedingsstoffen hieruit (mineralisatie)- Opbouw van organische stof die slechts traag wordt afgebroken (humusopbouw, humificatie)- Opbouw van een goede bodemstructuur- Losmaken van een te dichte grond door het graven van gangen- Vorming van slijmstoffen die de bodemdeeltjes aan elkaar kitten- Mengen van organische en anorganische bodemdelen.- Beperken van te grote aantallen ziekteverwekkende organismen  
 De mate waarin de verschillende soorten aan bovenstaande effecten bijdragen, wisselt sterk per soort. Ook de mate waarin de verschillende soorten in een grond voorkomen, varieert sterk afhankelijk van grondsoort en bodemgebruik.  
 In een vruchtbare grond zijn aanwezig (Stockli, 1950):  
 bacteriën en actinomyceten 10.080 kg per haschimmels 10.000 kg per haprotozoën 379 kg per hanematoden (aaltjes) 50 kg per haspringstaarten 6,5 kg per hamijten 4,4 kg per haenchytraeen 15duizendpoten, insecten, spinnen 67 kg per haregenwormen 4000 kg per hamollen e.a. 1 kg per ha  
@@ -53,8 +34,15 @@ Schimmels in een bodemkluit
 
 
 
-**Bacteriën en schimmels in de grond****Vorm en functie**In de bodem komen vele soorten bacteriën voor met de meest uiteenlopende functies:-door omzetting van organische materialen komen voedingsstoffen vrij (vooral stikstof, fosfor en sporenelementen)-door slijmvorming wordt de bodemstructuur beïnvloed-de binding van stikstof door de wortelknolletjesbacteriën is een belangrijke stikstofbron  
-**Landbouwkundig**Er is een duidelijke tendens tot hogere bacterieactiviteit wanneer de grond minder zuur is (een hogere pH). Omdat bacteriën de neiging hebben organisch materiaal af te breken, kan dit tot humusafbraak leiden.Te sterk bekalken kan hierdoor een negatieve invloed op de grond hebben.   
+**Bacteriën en schimmels in de grond**
+
+**Vorm en functie**
+
+In de bodem komen vele soorten bacteriën voor met de meest uiteenlopende functies:-door omzetting van organische materialen komen voedingsstoffen vrij (vooral stikstof, fosfor en sporenelementen)-door slijmvorming wordt de bodemstructuur beïnvloed-de binding van stikstof door de wortelknolletjesbacteriën is een belangrijke stikstofbron  
+
+**Landbouwkundig**
+
+Er is een duidelijke tendens tot hogere bacterieactiviteit wanneer de grond minder zuur is (een hogere pH). Omdat bacteriën de neiging hebben organisch materiaal af te breken, kan dit tot humusafbraak leiden.Te sterk bekalken kan hierdoor een negatieve invloed op de grond hebben.   
 ![kalk bekalken](../img/bekalken-1920w.jpg)   
 Door bekalken wordt vooral de activiteit van bacterien vergroot
 

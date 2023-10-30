@@ -4,33 +4,15 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-# Bodemanalyses
 
-
-
----
-
-
-
-
-
-
-          
-  
-  
-  
-  
-
-
-
-   
-
- ### BODEMANALYSES
 
  Het is goed om af en toe eens een bodemanalyse uit te laten voeren. Heb er niet te hoge verwachtingen van. De ingewikkelde bodemprocessen die de bodemchemie en daarmee de voedingsstoffenvoorziening van planten bepalen kunnen nooit door een extractie van een bodemmonster op een enkel moment goed in beeld worden gebracht. Een bodemanalyses is wel een belangrijke aanvulling op visuele bodembeoordeling, eigen ervaring en bestaande kennis.
 
 
-   INHOUD[Wat is de plaats van de bodemanalyse](bodemonderzoek.html#plaats)[Naar welk laboratorium opsturen](bodemonderzoek.html#lab)[Welk extractiemiddel](bodemonderzoek.html#extractie)[Historie bodemanalyse Nederland](bodemonderzoek.html#histnl)[Historie bodemanalyse in de Verenigde staten van Amerika](bodemonderzoek.html#historievs)[Chroma’s en Albrecht method](bodemonderzoek.html#chroma)  
+INHOUD
+[Wat is de plaats van de bodemanalyse](bodemonderzoek.html#plaats)
+[Naar welk laboratorium opsturen](bodemonderzoek.html#lab)[Welk extractiemiddel](bodemonderzoek.html#extractie)[Historie bodemanalyse Nederland](bodemonderzoek.html#histnl)[Historie bodemanalyse in de Verenigde staten van Amerika](bodemonderzoek.html#historievs)
+[Chroma’s en Albrecht method](bodemonderzoek.html#chroma)  
 
 
 

@@ -4,35 +4,14 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-# Gewas en voedingsstoffen
+Een overzicht over welke voedingsstoffen van belang zijn voor een goede groei van gewassen. Verder hoe je aan plant kunt zien of er een tekort aan een bepaalde voedingsstof is.
 
-
-
----
-
-
-
-
-
-
-          
   
-  
-  
-  
-
-
-
-   
-
- ### GEWAS EN VOEDINGSSTOFFEN
-
- Een overzicht over welke voedingsstoffen van belang zijn voor een goede groei van gewassen. Verder hoe je aan plant kunt zien of er een tekort aan een bepaalde voedingsstof is.
-
-
-   **Gewas en voedingsstoffen**   
 **Inhoud**  
-[Inleiding](gewas-en-voedingsstoffen.html#vo)[Stikstof](gewas-en-voedingsstoffen.html#st)[Fosfor](gewas-en-voedingsstoffen.html#fo)[Kalium](gewas-en-voedingsstoffen.html#ka)[Calcium](gewas-en-voedingsstoffen.html#ca)[Magnesium](gewas-en-voedingsstoffen.html#mg)[IJzer](gewas-en-voedingsstoffen.html#fe)[Zink](gewas-en-voedingsstoffen.html#zn)[Borium](gewas-en-voedingsstoffen.html#bo)[Koper](gewas-en-voedingsstoffen.html#ko)[Zwavel](gewas-en-voedingsstoffen.html#zw)[Mangaan](gewas-en-voedingsstoffen.html#mg) **Inleiding**  
+[Inleiding](gewas-en-voedingsstoffen.html#vo)[Stikstof](gewas-en-voedingsstoffen.html#st)[Fosfor](gewas-en-voedingsstoffen.html#fo)[Kalium](gewas-en-voedingsstoffen.html#ka)[Calcium](gewas-en-voedingsstoffen.html#ca)[Magnesium](gewas-en-voedingsstoffen.html#mg)[IJzer](gewas-en-voedingsstoffen.html#fe)[Zink](gewas-en-voedingsstoffen.html#zn)[Borium](gewas-en-voedingsstoffen.html#bo)[Koper](gewas-en-voedingsstoffen.html#ko)[Zwavel](gewas-en-voedingsstoffen.html#zw)[Mangaan](gewas-en-voedingsstoffen.html#mg) 
+
+**Inleiding**  
+
 Het droge materiaal van planten komt voornamelijk uit lucht en water. De plant bestaat gemiddeld voor 45% uit zuurstof, 45% uit koolstof en 6% uit waterstof. Dat is 96%. De overige 4 % bestaat uit stoffen die uit de bodem opgenomen worden:  
 1,5% Stikstof1,5% Kalium0,2% Magnesium0,15% Fosfor0,5% Calcium0,1% Zwavel0,01% IJzer0,002% Borium0,002% Zink0,005% Mangaan0,006% Koper0,00001% Molybdeen  
 Met uitzondering van stikstof zijn al deze stoffen onderdeel van gesteenten. Op een bodem met verweerbare mineralen en met teelt van vlinderbloemigen kunnen planten groeien. In Nederland bevatten de meeste gronden weinig mineralen en moeten deze aangevoerd worden. Je zou denken voer dan verweerbare mineralen aan, bijvoorbeeld in de vorm van gesteentemeel, maar de hoeveelheden die dan aangevoerd moeten worden zijn zo groot dat dat zelden reëel is. Via geconcentreerde gesteentemelen is dat wel mogelijk. Dat zijn bijvoorbeeld kalirijke zouten, kalk (Calcium en magnesium), natuurfosfaat (fosfor) en gips (zwavel). Sporenelementen zijn zo weinig nodig dat bij een goede zuurgraad, goed organische stofgehalte en goede biologische activiteit er meestal voldoende beschikbaar is. Bij gronden die niet zelf voldoende verweerbare mineralen bevatten komt het er op aan goed te bemesten. Mochten er problemen zijn dan laat de plant dat meestal op een specifieke wijze zien. Stikstof In het algemeen is de gehele plant licht van kleur en groeit traag. Stikstofovermaat uit zich in een blauwgroene kleur. Vaak wordt deze kleur als gezond ervaren, maar is dat niet. De plant wordt gevoeliger voor ziekten, de voedingskwaliteit neemt af en smaak en houdbaarheid verminderen.   

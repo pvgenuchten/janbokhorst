@@ -4,35 +4,31 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-# Bodem en voedingsstoffen
+
+Een korte beschrijving van de belangrijkste voedingsstoffen voor de plant in de bodem.
 
 
+**Bodem en voedingsstoffen**   
 
----
-
-
-
-
-
-
-          
-  
-  
-  
-  
-
-
-
-   
-
- ### BODEM EN VOEDINGSSTOFFEN
-
- Een korte beschrijving van de belangrijkste voedingsstoffen voor de plant in de bodem.
-
-
-   **Bodem en voedingsstoffen**   
 De verschillende voedingsstoffen hebben steeds weer een heel ander gedrag in de bodem. Bij sommige (stikstof, fosfor, zwavel en veel sporenelementen) bepaalt het bodemleven sterk de beschikbaarheid.   
-**INHOUD**-Stikstof-Fosfor-Kalium-Magnesium-Calcium-IJzer-Mangaan-Borium-Zink-Koper-Molybdeen **Stikstof**Stikstof is in gesteenten maar zeer beperkt aanwezig, maar in de atmosfeer in grote hoeveelheden. Boven elke hectare bevindt zich 85000 ton stikstof. In een bodem met 25% lucht bevindt zich in de bovenste 50 cm 1250 kg stikstof per ha. Wil stikstof beschikbaar zijn voor plant en humus, dan moet het gebonden worden. Micro-organismen die in symbiose leven met planten zijn de belangrijkste bron van gebonden stikstof. De industriematige binding van stikstof bij de kunstmestfabricage komt op de tweede plaats.  
+
+**INHOUD**
+
+- Stikstof
+- Fosfor
+- Kalium
+- Magnesium
+- Calcium
+- IJzer
+- Mangaan
+- Borium
+- Zink
+- Koper
+- Molybdeen 
+
+**Stikstof**
+
+Stikstof is in gesteenten maar zeer beperkt aanwezig, maar in de atmosfeer in grote hoeveelheden. Boven elke hectare bevindt zich 85000 ton stikstof. In een bodem met 25% lucht bevindt zich in de bovenste 50 cm 1250 kg stikstof per ha. Wil stikstof beschikbaar zijn voor plant en humus, dan moet het gebonden worden. Micro-organismen die in symbiose leven met planten zijn de belangrijkste bron van gebonden stikstof. De industriematige binding van stikstof bij de kunstmestfabricage komt op de tweede plaats.  
 Wanneer de plantenresten die stikstof bevatten in de bodem komen, worden ze omgezet en komt er in eerste instantie ammonium uit vrij (NH4+). Onder luchtarme omstandigheden en bij een pH boven 7 kan deze ammonium als ammoniak (NH3) weer de lucht in gaan. De ammonium wordt ook aan humus en klei geboden (geadsorbeerd). Onder zuurstofrijke omstandigheden wordt de ammonium omgezet in nitraat (NO3-). Deze nitraat kan door de plant opgenomen worden, maar kan ook uitspoelen. Verder kan deze nitraat onder luchtarme omstandigheden gereduceerd worden tot NO2- en N2O (lachgas). Dit lachgas kan naar de atmosfeer ontwijken. De stikstof die in de plantenresten achterblijft wordt geleidelijk omgezet in humus, waarin de stikstof in een stabiele vorm aanwezig is.  
 De stikstofhuishouding is gezien de vele vormen waarin deze voorkomt en de overgang van de ene vorm in de andere zeer ingewikkeld. Hoewel stikstof voor de plant zeer belangrijk is, is er in het verleden nooit een bodemanalyse geweest die de stikstofbemesting begeleidde. Bij een aantal intensieve teelten wordt de nitraatbepaling als indicatie voor bijbemesting gebruikt. Verder wordt het per bodemtype gecorrigeerde totaal gehalte aan stikstof gebruikt (NLV). De processen zijn echter zo ingewikkeld, dat dit slechts een zeer globale hulp is. Modellering van het bodemleven op het gebied van stikstofvrijmaking wordt ook toegepast. Hoewel ook dit globaal is, geeft het toch inzicht in de dynamiek. Het is vooral een hulpmiddel om processen op het spoor te komen die op een bepaald moment het belangrijkste zijn. Het model NDICEA (www.NDICEA.nl) is in Nederland het best uitgetest en meest gebruikt. Lees hier meer over stikstof.  
 **Fosfor**Planten kunnen fosfor opnemen, nadat dit vrijkomt uit organische en minerale verbindingen. Planten werken actief mee aan dit proces. Maar als fosfor vrijkomt in de bodem, dan wordt het vastgelegd aan voornamelijk calcium, ijzer en aluminium. Hierdoor is fosfor zeer weinig in de bodemoplossing aanwezig. Deze slechte oplosbaarheid bepaalt het hele beheer van fosfor.  

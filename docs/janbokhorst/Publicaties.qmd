@@ -4,25 +4,12 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-# PUBLICATIES
+**Bestanden om vrij te downloaden** 
 
-
-
----
-
-
-
-
-
-
-        **Bestanden om vrij te downloaden** 
-
-
-   
-
- ### BODEMVRUCHTBAARHEID PER BODEMTYPE
+## BODEMVRUCHTBAARHEID PER BODEMTYPE
 
  De belangrijkste aandachtspunten per bodemtype met vele voorbeelden uit de praktijk. Een uniek overzicht over de verschillen in aanpak.  
+
 [Bodemvruchtbaarheid per bodemtype 6 mb](../files/bodemvruchtbaarheid_per_bodemtype.pdf)
 
 

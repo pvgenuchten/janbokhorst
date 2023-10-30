@@ -1,40 +1,29 @@
 ---
-title: 'Kalkarme klei'
+title: 'AKKERBOUW Kalkarme klei'
 date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-# Kalkarme klei
-
-
-
----
-
-
-
-
-
-
-          
   
-  
-  
-
-
-
-   
-
- ### AKKERBOUW KALKARME KLEI
-
- Akkerbouw op kalkarme klei is niet altijd eenvoudig
-
-
-   **Akkerbouw kalkarme klei**  
 Veel kleigronden worden kalkhoudend afgezet. De vegetatie die op een bodem groeit werkt zuur en lost de kalk op. Voor gebruik in de akkerbouw zijn de kalkloze kleigronden niet de makelijkste gronden.  
-1. Inleiding2. Voorbeelden2.1. Oude rivierklei bij Montferland2,2. Kalkarme zavelgrond langs de IJssel bij Brummen2.3. Zware kalkarme komklei in de Betuwe  
-**1. Inleiding**Kalkarme zavel- en kleigronden treffen we aan bij de Maas, de Rijn, de Oude IJssel in de Achterhoek en ook verder verspreid in Nederland. De wat lichtere gronden worden voor akkerbouw gebruikt, de wat zwaardere vooral voor weidebouw. Op de wat zwaardere wordt wel wat maïs en soms suikerbieten verbouwd. Dat de zwaardere gronden weinig akkerbouw kennen, hangt samen met de structuurproblemen. Ook de wat lichtere zijn niet altijd makkelijk te bewerken en vergen veel aandacht. Het klaarmaken van het zaaibed in het voorjaar, de onkruidbestrijding in de zomer en de oogst in de herfst zijn, vooral bij ongunstige weersomstandigheden niet altijd makkelijk.  
-**2. Voorbeelden**1. Oude rivierklei bij Montferland2. Jonge kalkarme rivierklei langs de IJssel3. Zware kalkarme komklei in de Betuwe  
-**2.1. Oude rivierklei bij Montferland**Het typische voor de gronden bij Montferland is dat het brikgronden zijn. Bij brikgronden is klei uit de bovengrond naar een wat diepere laag vlak onder de bouwvoor gespoeld. Deze laag verdicht gemakkelijk. Een van de problemen die daar uit voorkomt, is wateroverlast.   
+
+1. Inleiding
+2. Voorbeelden
+2.1. Oude rivierklei bij Montferland
+2.2. Kalkarme zavelgrond langs de IJssel bij Brummen
+2.3. Zware kalkarme komklei in de Betuwe  
+
+**1. Inleiding**
+
+Kalkarme zavel- en kleigronden treffen we aan bij de Maas, de Rijn, de Oude IJssel in de Achterhoek en ook verder verspreid in Nederland. De wat lichtere gronden worden voor akkerbouw gebruikt, de wat zwaardere vooral voor weidebouw. Op de wat zwaardere wordt wel wat maïs en soms suikerbieten verbouwd. Dat de zwaardere gronden weinig akkerbouw kennen, hangt samen met de structuurproblemen. Ook de wat lichtere zijn niet altijd makkelijk te bewerken en vergen veel aandacht. Het klaarmaken van het zaaibed in het voorjaar, de onkruidbestrijding in de zomer en de oogst in de herfst zijn, vooral bij ongunstige weersomstandigheden niet altijd makkelijk.  
+
+**2. Voorbeelden**
+
+1. Oude rivierklei bij Montferland2. Jonge kalkarme rivierklei langs de IJssel3. Zware kalkarme komklei in de Betuwe  
+
+**2.1. Oude rivierklei bij Montferland**
+
+Het typische voor de gronden bij Montferland is dat het brikgronden zijn. Bij brikgronden is klei uit de bovengrond naar een wat diepere laag vlak onder de bouwvoor gespoeld. Deze laag verdicht gemakkelijk. Een van de problemen die daar uit voorkomt, is wateroverlast.   
 ![bodemverdichting met wateroverlast](../img/kerk(Small)-1920w.jpg)   
 Wateroverlast bij Drempt in de Achterhoek.
 
@@ -85,6 +74,7 @@ Een van de oplossingen om de verdichte laag onder de bouwvoor los te krijgen is 
 
 
 **2.2. Kalkarme zavelgrond langs de IJssel bij Brummen**  
+
 De zavelgronden langs de IJssel zijn nog niet zo oud. De IJssel stroomt hier pas sinds ca 1100. In 1400 werd de bedijking afgesloten en in de tijd tussen 1100 en 1400 zijn kalkrijke materialen afgezet. Op wat nattere plekken zijn ze al ontkalkt en op een perceel bij Brummen wordt akkerbouw bedreven met granen, aardappel en gras/klaver.  
 Het perceel is een lichte zavelgrond met een pH-KCL van 4,9 en een organische stofgehalte van 1,9%.   
 ![verdichting op rivierklei](../img/meanderbrummen002(Small)-1920w.jpg)   

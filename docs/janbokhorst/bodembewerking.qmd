@@ -4,36 +4,20 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-# Bodembewerking
-
-
-
----
-
-
-
-
-
-
-          
-  
-  
-  
-
-
-
-   
-
- ### bodembewerking
-
- Het zijn de machines met hoge aslasten en brede banden die de grootste schade aan bodemkwaliteit toebrengen. Een overzicht van mogelijkheden om deze schade te beperken.
+Het zijn de machines met hoge aslasten en brede banden die de grootste schade aan bodemkwaliteit toebrengen. Een overzicht van mogelijkheden om deze schade te beperken.
 
 
      
-I**NHOUD****[Niet Kerende Grondbewerking](bodembewerking.html#nkg)****[Ondieper ploegen of cultivateren](bodembewerking.html#ondieper)  
-[Ploegen, spitten en cultivateren](bodembewerking.html#psc)**  
+## INHOUD
+
+- [Niet Kerende Grondbewerking](bodembewerking.html#nkg)
+- [Ondieper ploegen of cultivateren](bodembewerking.html#ondieper)  
+- [Ploegen, spitten en cultivateren](bodembewerking.html#psc) 
   
- **Niet Kerende Grondbewerking**Niet kerende grondbewerking (NKG) is prachtig voor een goede bodemkwaliteit. Op het moment evenwel op heel weing situaties mogelijk. Vooral op extensieve bedrijven zijn er wel mogelijkheden..   
+ **Niet Kerende Grondbewerking**
+ 
+ Niet kerende grondbewerking (NKG) is prachtig voor een goede bodemkwaliteit. Op het moment evenwel op heel weing situaties mogelijk. Vooral op extensieve bedrijven zijn er wel mogelijkheden..   
+ 
 Niet Kerende Grondbewerking  
 Bij Niet Kerende Grondbewerking (NKG) wordt grondbewerking zoveel mogelijk vermeden en wordt ernaar gestreefd de grond zoveel mogelijk bedekt te houden. In Nederland, Belgie en Duitsland zijn er meerdere proeven rond NKG uitgevoerd. Slechts weinig bedrijven zijn ermee gestart. De conclusie op dit moment moet zijn dat Niet Kerende Grondbewerking alleen succesvol is op extensieve bedrijven met weinig rooigewassen op zwaardere grond.  
 Nieuwe technieken of zeer hoge brandstofkosten kunnen in de toekomst de mogelijkheden van NKG misschien vergroten.  

@@ -4,32 +4,19 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-# Bandendruk
 
 
-
----
-
-
+Steeds zwaardere lasten en vaker rijden onder te natte omstandigheden. Let op de banden.
 
 
 
 
-        
-
- ### bandendruk
-
- Steeds zwaardere lasten en vaker rijden onder te natte omstandigheden. Let op de banden.
-
-
-     
-  
-  
-  
 
 
 
-   Bodemverdichting ontstaat door een onjuiste balans tussen de door berijding uitgeoefende drukken/krachten en de draagkracht van de grond. Bodemverdichting wordt voorkomen als de door banden uitgeoefende druk lager is dan de draagkracht van de bodem. In de praktijk worden de toelaatbare as en wiellasten meestal overschreden door de transportvoertuigen die bij de oogst en mesttransporten worden gebruikt.De reactie van de grond op het contact wiel-grond is zeer complex. Hierin zijn het vochtgehalte en verticale bodemdruk de belangrijkste parameters.  
+
+
+Bodemverdichting ontstaat door een onjuiste balans tussen de door berijding uitgeoefende drukken/krachten en de draagkracht van de grond. Bodemverdichting wordt voorkomen als de door banden uitgeoefende druk lager is dan de draagkracht van de bodem. In de praktijk worden de toelaatbare as en wiellasten meestal overschreden door de transportvoertuigen die bij de oogst en mesttransporten worden gebruikt.De reactie van de grond op het contact wiel-grond is zeer complex. Hierin zijn het vochtgehalte en verticale bodemdruk de belangrijkste parameters.  
 De volgende **vuistregels** 
 gelden voor de maximaal toelaatbare gemiddelde bodemdruk:  
 maximale bodemdruk normaal: 1 barvoorjaar (bouwland): 0,5 bar.  
