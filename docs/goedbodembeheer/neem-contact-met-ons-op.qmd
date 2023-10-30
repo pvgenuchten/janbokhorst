@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # Neem contact met ons op
 
-
-
 ---
-
-
-
-
 
 
        
@@ -32,13 +26,5 @@ author: Jan Bokhorst
 
 **info@gaiabodem.nl**
 
-
-
    
-
-
-
-
-
-
 

@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # Bodems van de wereld
 
-
-
 ---
-
-
-
-
 
 
         
@@ -21,26 +15,18 @@ author: Jan Bokhorst
 
     Van de voor de landbouw belangrijkste bodemtypen:-Verspreiding-Landschap en bodem-Bodembeheer in de landbouw  
 
-
-
+  
 
 
   
 
 
-
-
   
 
 
+   ## Inleiding
 
-
-  
-
-
-
-
-   **Inleiding**In een tijd dat optimale voedselproductie steeds belangrijker wordt bestaat er nog geen overzicht over hoe van de boer uit naar het beheer van de verschillende bodems van de wereld gekeken kan worden. Het volgende is een beknopte aanzet tot zoiets. Een verdere uitwerking is van belang.Het zijn de boeren die de voedingsgewassen moeten verbouwen. Schaars is de literatuur waarbij vanuit de boerenblik naar bodems wordt gekeken, maar nog schaarser zijn pogingen vanuit samenhangen naar de problematiek te kijken. In hoofdstuk 3 en 4 een poging dit wel te doen. Het doel is dus niet om tot in detail per situatie een gedetailleerd overzicht te geven, het doel is veel meer aandacht te vragen voor een blikrichting, waarbij het hele bodemprofiel centraal staat en de maatregelen per bodemtype in een grotere samenhang staan en daardoor gerichter kunnen worden toegepast.  
+In een tijd dat optimale voedselproductie steeds belangrijker wordt bestaat er nog geen overzicht over hoe van de boer uit naar het beheer van de verschillende bodems van de wereld gekeken kan worden. Het volgende is een beknopte aanzet tot zoiets. Een verdere uitwerking is van belang.Het zijn de boeren die de voedingsgewassen moeten verbouwen. Schaars is de literatuur waarbij vanuit de boerenblik naar bodems wordt gekeken, maar nog schaarser zijn pogingen vanuit samenhangen naar de problematiek te kijken. In hoofdstuk 3 en 4 een poging dit wel te doen. Het doel is dus niet om tot in detail per situatie een gedetailleerd overzicht te geven, het doel is veel meer aandacht te vragen voor een blikrichting, waarbij het hele bodemprofiel centraal staat en de maatregelen per bodemtype in een grotere samenhang staan en daardoor gerichter kunnen worden toegepast.  
 **De bodemvruchtbaarheid staat in grote delen van de wereld onder druk:****-Verenigde Staten**: teelt van gewassen die weinig plantenresten achterlaten zoals mais en soja. Gewasresten van mais worden gebruikt voor dierenvoedsel en energiewinning**-Noord-west Europa:** 
 akkerbouw met steeds minder granen en grassen. Teelt van snijmais met te geringe organische stofaanvoer.**-Oost-Europa:** 
 dalende organische stofgehalten door te intensief gebruik.**-Azie en ZuidAmerika:** 
@@ -115,31 +101,17 @@ Het bodemprofiel is homogeen van opbouw, er zijn geen duidelijke lagen. Aluminiu
 ![](../img/1%20kaart%20acrisol-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/2%20landschap%20acrisol-1920w.jpg)   
 Landschap van een rode Acrisol in noordoost Thailand.
 
  
 
-
-
-
-
   
 ![](../img/3%20acrisol%20bodem-1920w.jpg)   
 Bodemprofiel van een rode Acrisol in noordoost Thailand
 
  
-
-
-
-
 
   
 
@@ -170,21 +142,11 @@ In droge gebieden is extensieve veehouderij de belangrijkste vorm van landbouw. 
 ![](../img/4%20arenosol-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/5%20ls%20arenosol-1920w.jpg)   
 Landschap in Brazilie op een Arenosol, location: Paraiba State, Mamanguape, 4km Z van Camaratuba River. Foto: ISRIC World Soil Information.
 
  
-
-
-
-
 
   
 ![](../img/6%20ls%20arenosol-1920w.jpg)   
@@ -192,19 +154,11 @@ De Kalahari woestijn in Namibie. Foto LUH.
 
  
 
-
-
-
-
   
 ![](../img/7%20arenosol-1920w.jpg)   
 Bodemprofiel in de Kalahari woestijn. Foto LUH
 
  
-
-
-
-
 
   
 
@@ -227,20 +181,8 @@ Bodemprofiel in de Kalahari woestijn. Foto LUH
 ![](../img/8%20kaart%20fluvisol-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/9%20landschap%20fluvisol-1920w.jpg)     
-
-
-
-
-
-
 
 
   
@@ -248,10 +190,6 @@ Bodemprofiel in de Kalahari woestijn. Foto LUH
 Bodemprofiel fluvisol in West Canada. Foto Agpal
 
  
-
-
-
-
 
   
 
@@ -291,20 +229,12 @@ Landschap cambisol in Maryland USA
 
  
 
-
-
-
-
   
 ![](../img/13%20bodem%20cambisol-1920w.jpg)   
 Cambisol in Maryland USA.
 
  
 
-
-
-
-
   
 
 
@@ -312,8 +242,6 @@ Cambisol in Maryland USA.
 
 
   
-
-
 
 
   
@@ -358,19 +286,11 @@ Steppegrassen: Stipa (vedergras) , Koeleria (fakkelgras), Festuca (zwenkgras). D
 
  
 
-
-
-
-
   
 ![](../img/chernozem%20black%20uitgesneden%20elements%20en%20verbetere-1920w.jpg)   
 Een **zwarte chernozem** met een donkere laag van ruim 1 m. Deze chernozems ontstaan meer in het noorden onder relatief koude en natte omstandigheden. Grassen en kruiden leverden de organische stof.
 
  
-
-
-
-
 
   
 ![](../img/16%20bodem%20chernozem-01e6e88b-1920w.jpg)   
@@ -378,19 +298,11 @@ Een **bruine chernozem** met een donkere laag van 80 cm. De chernozems liggen t
 
  
 
-
-
-
-
   
 ![](../img/17%20bodem%20kastanozem-cbbc9439-1920w.jpg)   
 Een **kastanozem.** De donkere laag is  bruin tot bruinrood en veel dunner dan bij de chernozems. Deze chernozems liggen meer naar het zuiden waar het droger en warmer is. Korte ijle grassen die in de droge zomer verdroogden bouwden de humuslaag op. 
 
  
-
-
-
-
 
   
 
@@ -498,16 +410,8 @@ Volgens recente literatuurgegevens zou echter ook onder bos een chernozem kunnen
 
   
 
-
-
   
 ![](../img/14%20kaart%20chernozem-1920w.jpg)     
-
-
-
-
-
-
 
 
 Verspreiding chernozems op de wereld
@@ -518,10 +422,6 @@ Verspreiding chernozems op de wereld
 Landschap op chernozem in Rusland
 
  
-
-
-
-
 
   
   
@@ -536,31 +436,17 @@ Landschap op chernozem in Rusland
 ![](../img/18%20kaart%20podzol-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/19%20landschap%20podzol-1920w.jpg)   
 Berkenbos op podzol in Canada
 
  
 
-
-
-
-
   
 ![](../img/20%20bodem%20podzol-1920w.jpg)   
 Podzolprofiel onder berkenbos in Canada
 
  
-
-
-
-
 
   
 
@@ -611,21 +497,11 @@ In de tropen wordt veel veen door branden ontgonnen. Na enkele jaren is de vruch
 ![](../img/21%20kaart%20histosol-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/22%20landschap%20histosol-1920w.jpg)   
 Landschap op een histosol in Noord-Europa
 
  
-
-
-
-
 
   
 ![](../img/7c102145-7e86-4ad4-ba12-50eb68b4b536-1920w.jpg)   
@@ -633,18 +509,10 @@ Histosol in Noord Europa
 
  
 
-
-
-
-
   
 
 
    8. Donkere oude tropische cultuurgronden in Zuid-Amerika (Anthrosol, Terra Preta)
-
-
-
-
 
      
 
@@ -656,17 +524,11 @@ Tussen 18.000 en 15.000 jaar geleden trokken mensen uit Siberië  via Alaska Am
 
   
 
-
-
   
 ![](../img/Umberto%20Lombardo%20boseilanden-af75a3fb-1920w.JPG)   
 ***Ca. 10.000 jaar geleden vestigden de eesrste mensen zich op hogere gedeelten tussen rivieren in het Amazonegebied. Gedurende duizenden jaren vond verdere ophoging plaats. Er ontstond een dikke laag vruchtbare grond. De lagere delen tussen de hogere boseilanden waren in de het ene deel van het jaar te nat en het andere deel te droog en de grond werd  dan keihard.***
 
  
-
-
-
-
 
 De eerste landbouw in Noord- en Zuid=Amerika vond plaats in het Amazonegebied. Geteeld werden maniok, zoete aardappelen, wilde rijst, chilipepers, bonen, pompoenen en pinda’s. Onderzoekers uit Europa, Noord- en Zuid-Amerika (Universiteiten Bern, Exeter, Barcelona en Pennsylvania) zijn zo’10 jaar geleden gestart met onderzoek naar de oude vormen van landbouw. Toen de Spanjaarden het gebied veroverden is vooral door ziekten die ze meenamen uit Europa de hele landbouwcultuur verdwenen. Men nam  aanvankelijk aan dat de landbouw zo’n 2000 jaar geleden gestart was. Uit het  recente onderzoek blijkt dat dit ca. 10.000 jaar geleden was.
   
@@ -687,25 +549,15 @@ De oudste maniokresten die men vond waren 10.350 jaar oud. Pompoen 10.250 en mai
 
  
 
-
-
-
-
 De Terra preta bodem
 
 De Terra preta bodem is sterk door de mens beïnvloed. Ze heten daarom Anthrosolen. Anthro betekend mens. Onze enkeerdgronden horen tot dezelfde groep.
-
-
 
   
 ![](../img/1343824088700-48a4d12f-1920w.jpg)   
 ***Links de humusrijke Terra preta bodem, rechts een niet door de mens verrijkte bosbodem. Foto WRB.***
 
  
-
-
-
-
 
 De Terra pretabodems zijn gevormd door de indiaanse bevolking die voor Columbus in het Amazonegebied kwam. Hoe daar destijds landbouw werd gedreven is nu nergens meer re zien.   
  Wel is bekend waarmee de bodems zijn opgebouwd. Dat zijn etensresten en ander afval van de maaltijdbereiding, fecaliën van mens en dier, botten, visgraat en houtskool uit smeulend vuur. Dit materiaal werd in de buurt van de nederzetting gedeponeerd of gecomposteerd en ondergewerkt.
@@ -721,10 +573,6 @@ Het organische stofgehalte van de bodem kan tot 14% bedragen. Het organische sto
  -groei van micro-organismen en bodemdieren
 
 Houtskool is ontstaan uit natuurlijk organisch materiaal dat gedehydrateerd is en een zuurstof/ koolstofverhouding heeft van minder dan 60. De chemische structuur omvat polycyclische aromatische koolwaterstoffen.
-
-
-
-
 
 
    Literatuur
@@ -745,16 +593,6 @@ Zuidmeer, E.P., 2021. Het regenwoud als eetbaar bos. Archeologie magazine 02-202
 
 
 Wikipedia EN, 2012: Terras Preta.
-
-
-
-
-
-
-
-
-
-
 
 
 

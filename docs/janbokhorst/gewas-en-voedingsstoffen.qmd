@@ -10,7 +10,9 @@ Een overzicht over welke voedingsstoffen van belang zijn voor een goede groei va
 **Inhoud**  
 [Inleiding](gewas-en-voedingsstoffen.html#vo)[Stikstof](gewas-en-voedingsstoffen.html#st)[Fosfor](gewas-en-voedingsstoffen.html#fo)[Kalium](gewas-en-voedingsstoffen.html#ka)[Calcium](gewas-en-voedingsstoffen.html#ca)[Magnesium](gewas-en-voedingsstoffen.html#mg)[IJzer](gewas-en-voedingsstoffen.html#fe)[Zink](gewas-en-voedingsstoffen.html#zn)[Borium](gewas-en-voedingsstoffen.html#bo)[Koper](gewas-en-voedingsstoffen.html#ko)[Zwavel](gewas-en-voedingsstoffen.html#zw)[Mangaan](gewas-en-voedingsstoffen.html#mg) 
 
-**Inleiding**  
+## Inleiding
+
+  
 
 Het droge materiaal van planten komt voornamelijk uit lucht en water. De plant bestaat gemiddeld voor 45% uit zuurstof, 45% uit koolstof en 6% uit waterstof. Dat is 96%. De overige 4 % bestaat uit stoffen die uit de bodem opgenomen worden:  
 1,5% Stikstof1,5% Kalium0,2% Magnesium0,15% Fosfor0,5% Calcium0,1% Zwavel0,01% IJzer0,002% Borium0,002% Zink0,005% Mangaan0,006% Koper0,00001% Molybdeen  
@@ -20,19 +22,11 @@ Stikstofgebrek in mais
 
  
 
-
-
-
-
   
 ![stikstofgebrek suikerbiet](../img/ngebrekbiet-1920w.jpg)   
 Stikstofgebrek in suikerbiet
 
  
-
-
-
-
 
 Fosfor  
 Fosforgebrek uit zich in een gedrongen groei met donker blad. Het blad kan vaak ook naar het rode of paarse verkleuren. Gewassen kunnen bitter van smaak worden. Bloem- en vruchtzetting verminderen.  
@@ -43,10 +37,6 @@ Fosforgebrek in suikerbiet
 
  
 
-
-
-
-
 Kalium  
 Kaliumgebrek uit zich in waterige smaak. Het suikergehalte is laag. Stelen zijn vaak zwak en lang. Bladeren blijven klein en misvormd. Fruit valt te vroeg af ben het oudere blad wordt bruin. Maïs krijgt kleine gele bladeren en de planten vallen snel om.   
 ![kaliumgebrek mais](../img/M0689-1920w.jpg)   
@@ -54,19 +44,11 @@ Kaliumgebrek in mais
 
  
 
-
-
-
-
   
 ![kaliumgebrek aardappel](../img/M2294-1920w.jpg)   
 Kaliumgebrek in aardappel
 
  
-
-
-
-
 
 Calcium  
 Weinig calcium geeft gele of bleke bladeren. Bij tomaten en paprika rotten de bloemen. Tomaten kunnen zeer klein blijven. Bonen krijgen gele bladeren met opkrullende randen, kleine planten en zwarte, afstervende scheutpunten. Bij kool geeft calciumgebrek bruine bladpunten, bij bieten gespleten wortels. Bij maïs plakken de bladpunten aan elkaar en de plant blijft klein. Magnesium  
@@ -76,10 +58,6 @@ Magnesiumgebrek in koolzaad
 
  
 
-
-
-
-
 IJzer  
 IJzergebrek geeft gele bladeren met groene nerven. Bij bonen geeft ijzertekort vergeling tussen de nerven in oudere bladeren en helemaal geel worden van de jonge bladeren. Zink  
 Gebrek bij tomaat geeft klein smal blad met zwarte vlekken. Planten blijven klein.   
@@ -88,10 +66,6 @@ Zinkgebrek in mais
 
  
 
-
-
-
-
 Borium  
 Boriumgebrek vertraagd de groei aan de groeipunten. Planten hebben kleine, gekreukelde en misvormde bladeren, met grote verkleurde gebieden.   
 ![boriumgebrek koolzaad](../img/M1033-1920w.jpg)   
@@ -99,19 +73,11 @@ Boriumgebrek in koolzaad
 
  
 
-
-
-
-
   
 ![boriumgebrek mais](../img/k1598_custom-1920w.jpg)   
 Boriumgebrek in mais
 
  
-
-
-
-
 
 Koper  
 Kopergebrek vermindert smaak en suikergehalte van groenten en fruit. Het jonge blad krijgt een lichte kleur. Schimmelziektes nemen toe. Bij aardappels krult het jonge blad naar boven. Zwavel  
@@ -121,19 +87,11 @@ Zwavelgebrek in suikerbiet
 
  
 
-
-
-
-
   
 ![zwavelgebrek aardappel](../img/M2207-1920w.jpg)   
 Zwavelgebrek in aardappel
 
  
-
-
-
-
 
 Mangaan  
 Tekort geeft heeft vergeling tussen de nerven van het jonge blad tot gevolg. De groei wordt geremd.   
@@ -142,25 +100,11 @@ Mangaangebrek in mais
 
  
 
-
-
-
-
   
 ![mangaangebrek suikerbiet](../img/K0455-1920w.jpg)   
 Mangaangebrek in suikerbiet
 
  
-
-
-
-
-
-
-
-
-
-
 
 
 

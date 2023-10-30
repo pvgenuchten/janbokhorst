@@ -8,7 +8,7 @@ author: Jan Bokhorst
 De toemaak (mest, slootbagger, stadsafval) is er niet meer. Het doel van toemaak, verteerbaar voedsel voor het bodemleven, is nog steeds actueel. Op verschillende manieren worden nieuwe oplossingen gevonden. 
 
 
-**Inleiding**
+## Inleiding
 
 Veengronden komen voornamelijk voor in Noord- en Zuid-Holland, Friesland en Drenthe. De oppervlakte was vroeger aanzienlijk groter, maar vanwege erosie door zee en rivier, en door afgraven is veel veen verdwenen.Er zijn meerdere soorten veen:   
 
@@ -20,10 +20,6 @@ Dit veen ontstaat buiten de invloed van zee, rivier en grondwater om en alleen r
 
  
 
-
-
-
-
   
 ![zeggeveen](../img/zeggeveen(1)-1920w.jpg)   
 
@@ -32,10 +28,6 @@ Dit veen ontstaat buiten de invloed van zee, rivier en grondwater om en alleen r
 Het water is hier wat rijker door invloed van grondwater of water uit zee en rivier. Zeggen vormen de belangrijkste bron van het veen
 
  
-
-
-
-
 
   
 ![bosveen](../img/images-1920w.jpg)   
@@ -46,10 +38,6 @@ Wanneer zee of rivier klei aanvoeren, worden de omstandigheden gunstig voor de g
 
  
 
-
-
-
-
 Naast de bovengenoemde veensoorten is er ook **rietveen** 
 dat wordt gevormd onder brakke omstandigheden bij de kust.   
 ![overzicht veengronden Nederland](../img/kaart2000n(Small)-1920w.jpg)   
@@ -57,19 +45,11 @@ Overzicht veengronden in Nederland. Veengronden zijn bruin aangegeven.
 
  
 
-
-
-
-
   
 ![soorten veen west-nederland](../img/kaartveensoorten-1920w.jpg)   
 Overzicht veensoorten. Vooral veenmosveen is voor een groot deel verdwenen
 
  
-
-
-
-
 
 Na de veenvorming is veen bruin van kleur, niet gerijpt (makkelijk door de vingers te knijpen) en de oorspronkelijke plantenresten zijn nog goed te herkennen. Komt het veen in contact met lucht omdat het bijvoorbeeld wordt ontwaterd en voor landbouw in gebruik genomen, dan vinden de volgende processen plaats:  
 1. VerweringDoor luchttoetreding oxideren de makkelijk oxideerbare organische verbindingen en wordt het materiaal zwart. Verwering is een onomkeerbaar proces. Verwering kan snel optreden bij luchttoetreding. Komt bruin veen in contact met de lucht, dan wordt de buitenkant binnen enkele minuten zwart.  
@@ -78,10 +58,6 @@ Na de veenvorming is veen bruin van kleur, niet gerijpt (makkelijk door de vinge
 Ongerijpt veen kan gemakkelijk door de vingers worden geknepen (foto). Gerijpt veen in het geheel niet
 
  
-
-
-
-
 
 3. VeraardingBij voldoende lucht in de bodem kan het bodemleven zich ontwikkelen en worden de plant- en dierresten verteerd. Wanneer niet meer zichtbaar is welke planten aan veenvorming bijdroegen, is het materiaal veraard. De dikte van de veraarde laag bepaalt mede de bodemkwaliteit van een veengrond. Tijdens het veraardingsproces gaat wel een deel van het materiaal verloren en komt de oppervlakte lager te liggen Het bodemprofielGlobaal zijn bij veengronden drie lagen te onderscheiden. In onderstaande afbeelding zijn ze als afzonderlijke kluiten neergelegd   
 ![veen veraarding rijping verwering](../img/023d0e2a-1f3a-4825-a169-82c052cf1d4e-1920w.jpg)   
@@ -95,19 +71,11 @@ onder: verweerd, gerijpt, veraard.
 
  
 
-
-
-
-
 Drie voorbeelden van een niet verweerde, niet gerijpte, niet veraarde diepere laag:   
 ![kluit ongerijpt veen](../img/veen2027(Small)-1920w.jpg)   
 Ondergrond 75-85 cm diepte Kwadijk Noord-Holland
 
  
-
-
-
-
 
   
 ![ten dele gerijpt veen](../img/veen1macros95008(Small)-1920w.jpg)   
@@ -115,19 +83,11 @@ Ondergrond 80-90 cm diepte veengrond Zegveld Utrecht
 
  
 
-
-
-
-
   
 ![ongerijpt veen](../img/veen1macros95003(Small)-1920w.jpg)   
 Ondergrond 80-90 cm diepte veengrond Stolwijk Zuid-Holland
 
  
-
-
-
-
 
 Voorbeeld van een deels verweerde, deels gerijpte, deels veraarde diepere laag   
 ![beworteling van veen](../img/veen2013(Small)-1920w.jpg)   
@@ -137,32 +97,18 @@ Tussen de veraarde bovenlaag en de ongerijpte ondergrond bevindt zich een laag d
 
  
 
-
-
-
-
 Voorbeeld van een deels verweerde, deels gerijpte, deels veraarde diepere laag   
 ![veen met goede bodemstructuur](../img/veen1macros95019(Small)-1920w.jpg)     
-
-
 
 Bovenlaag veengrond onder Purmerend met een goede doorworteling tot ruim 20 cm diepte
 
  
-
-
-
-
 
   
 ![veen met slechte bodemstructuur](../img/veen1macros95029(Small)-1920w.jpg)   
 Bovenlaag veengrond onder Purmerend met een slechte doorworteling dieper dan 5 cm
 
  
-
-
-
-
 
 Bovenstaande twee kluiten van verweerde, gerijpte en veraarde grond onder gras laten zien dat er grote verschillen in doorworteling voor kunnen komen. De oorzaak van dergelijke verschillen is veelzijdig. Berijden onder te natte omstandigheden is de belangrijkste, maar maïsteelt of teveel vee op een moment dat dat nog niet kan is soms ook de oorzaak. Het achterwege laten van mest die het bodemleven voedt speelt ook een rol. Vaak is het een samengaan van meerdere ongunstige maatregelen die elkaar versterken.   
 ![veen op klei](../img/veen2060(Small)-1920w.jpg)   
@@ -174,22 +120,16 @@ Hieronder een zwarte deels veraarde laag met geringe bewortelingsmogelijkheden. 
 
  
 
-
-
-
-
 Indrogend veenIndrogend veen wordt overal in West-Nederland aangetroffen, maar ook elders: randen van veenkoloniën en in het buitenland de Po-vlakte in Italië en in Indonesië op Java en Sumatra. Het probleem is dat na indrogen het veen moeilijk weer water opneemt. In april bijvoorbeeld kan de grond kurkdroog zijn. De grond is korrelig en het contact tussen wortel en bodem verdwijnt. Er kan bovenin wortelvilt ontstaan. Het verschijnsel treedt vooral op bij een pH-KCl van 3,3 – 4,5 en een Fe-gehalte van meer dan 4%. Het verschijnsel wordt niet veroorzaakt door krimp van humus of dicht opeen zitten van deeltjes, maar wel door colloïdale humus die een soort watervaste lijm vormt. De oplossing voor dit probleem in het verleden was het gebruik van toemaak (een mengsel van bagger en stalmest) die het bodemleven stimuleert en verhoging van de pH-waarde door gebruik van kalk. Belangrijk is ook dat het grondwater niet te laag staat in de zomer.   
 ![irreversibel indrogend veen](../img/2015-10-03%20veen%20droog%20002%20%28Medium%29-1920w.JPG)   
 Alleen de door het bodemleven veraarde bovenlaag wordt vochtig bij regen. Zelfs bij regen gedurende een hele winter blijft de laag onder de vochtige bovenlaag droog.
 
  
 
-
-
-
-
 KnippigheidKnippigheid komt voor op plaatsen waar vroeger klei werd afgezet in een rietmoeras met brak water. Het komt in het hele veengebied van West-Nederland voor, zelfs tot in de buurt van Utrecht. Door knippigheid kan de bodemstructuur zeer slecht zijn door een overmaat aan geadsorbeerde natrium en magnesium aan de klei. Om de structuur te verbeteren werd vroeger toemaak (een mengsel van bagger en stalmest) toegepast. Nu dat niet mogelijk is kan kalk de bodemstructuur wat verbeteren. Verder is stimulering van het bodemleven van belang. **Maatregelen**  
-**Inleiding**  
+## Inleiding
+
+  
 De eigenschappen van de bodems in het veengebied verschillen sterk van die van zand en klei. Het hoge organischestofgehalte en de waterhuishouding zijn geheel anders. Verder moet voorkomen worden dat het materiaal verdwijnt door oxidatie. Een aantal maatregelen die hier specifiek betrekking op hebben worden in het volgende besproken.  
 **Toemaak**In de Nederlandse landbouw krijgt de organischestofvoorziening veel aandacht. De bodemkwaliteit wordt er sterk door bepaald en aan maatschappelijke eisen rond milieu en klimaat kan beter worden voldaan door een goed organischestofbeheer. Er wordt daarom veel waarde aan het organischestofgehalte gehecht. Interessant is dat het evenwel niet om het gehalte alleen gaat, maar ook om de organischestofkwaliteit. Organische stof is in veengronden ruim voorhanden. Toch wordt er sinds het begin van de ontginning bemest met organischestofrijke mest. Deze stimuleert het bodemleven en dat is essentieel voor een goede bodem. Het centrale product was gedurende vele eeuwen de toemaak. Toemaak is een mengsel van slootbagger en stalmest. Stadsafval werd hier ook vaak aan toegevoegd. Toemaak was van belang voor de verzorging van het bodemleven, de basis voor de veraarding, en bevatte ook voedingsstoffen. Drie verschijnselen benadrukken het belang van toemaak in het verleden:  
   
@@ -201,19 +141,11 @@ Toemaakbereiding. De bagger werd bij de slootrand gelegd om op te drogen en door
 
  
 
-
-
-
-
   
 ![veen baggeren met baggerboot](../img/boot-1920w.jpg)   
 Herinnering aan de voormalige baggerwinning voor de toemaakbereiding
 
  
-
-
-
-
 
   
 ![resten stadsafval  bij bereiding toemaak](../img/veen2018(Small)-1920w.jpg)   
@@ -222,29 +154,17 @@ Resten van stadsafval door gebruik van toemaak in een veengrond onder Amsterdam
   
  
 
-
-
-
-
   
 ![Jan Duindam maakt toemaak](../img/janduijndam-1920w.jpg)   
 Jan Duindam in Delfgauw bij Delft mengt slootbagger met potstalmest en maakt zo een eigentijdse toemaak
 
  
 
-
-
-
-
   
 ![veen in de potstal](../img/veen1023(Small)-1920w.jpg)   
 Een andere manier van toemaakbereiding nieuwe stijl is een potstal met GFT-compost waar de koeien de uitwerpselen bij voegen. Hier bij Marinus de Vries in Stolwijk.
 
  
-
-
-
-
 
 **Geen maïs**  
 Maïs is in de melkveehouderij gewild als aanvulling op gras bij het voer. De maïsteelt betekent evenwel een versterkte afbraak van de organische stof. Verder heeft de inzaai, maar vooral de oogst met zware machines bij natte omstandigheden, een negatieve invloed op de bodemstructuur. Teelt van maïs moet zoveel mogelijk beperkt worden.   
@@ -253,26 +173,12 @@ Perceel bij Nieuwerbrug na de maïsoogst. Een dergelijke aanslag op de bodemstru
 
  
 
-
-
-
-
 **Berijden en betreden**  
 Juist op veen is het van belang om onder natte omstandigheden gebruik van zware machines en beweiden met veel koeien op een kleinere oppervlakte zoveel mogelijk te voorkomen. Kies bij beweiden de percelen uit die dat het beste kunnen verdragen. Let bij mechanisatie op de juiste banden en de juiste bandenspanning. **Onderwaterdrains**   
 ![onderwaterdrains](../img/veen1016(Small)-1920w.jpg)   
 Perceel met onderwaterdrains bij Zegveld.
 
  
-
-
-
-
-
-
-
-
-
-
 
 
 

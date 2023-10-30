@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # BODEM
 
-
-
 ---
-
-
-
-
 
 
 **BODEM**  

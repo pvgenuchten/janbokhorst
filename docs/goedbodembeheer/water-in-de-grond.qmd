@@ -4,8 +4,6 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-
-
 Met het veranderende klimaat wordt water in de grond steeds belangrijker. Teveel en te weinig. Beide komen vaker voor. 
 
 
@@ -28,10 +26,4 @@ Wat in bovenstaande tabel opvalt is dat een zware klei minder vocht kan leveren 
 Naast de regen en het beschikbare vocht in de grond speelt ook nog een andere factor bij veel gronden een rol, namelijk de capillaire opstijging. Wanneer het grondwater niet te diep staat, kunnen de wortels water aan het grondwater onttrekken.Hierbij kunnen de volgende waarden aangehouden worden: er kan tenminste 2 mm water per 24 uur uit de ondergrond aangevoerd worden wanneer de afstand tussen de diepste wortel en het grondwater in de zomer kleiner is dan 65 cm bij klei, 100 cm bij zavel en 80 cm bij zand.Met deze gegevens kan de hoeveelheid beschikbaar bodemvocht uitgerekend worden.  
 
 **Rekenvoorbeeld beschikbaar vocht op een zavelgrond**-zomergrondwaterstand 150 cm onder maaiveld-doorwortelbare diepte 70 cmDe doorwortelbare laag levert 70/10 x 21 = 147 mm waterDe afstand tussen diepste wortels en het grondwater is 150 -70 = 80 cm, maar mag bij een zavelgrond 100 cm zijn. Er is dus een capillaire opstijging van 2 mm per etmaal mogelijk en er kan bij een groei periode van 90 dagen 90 x 2 = 180 mm nageleverd worden. De totale beschikbaarheid is147 + 180 = 327 mm. Nodig is 150 tot 220 mm en op deze grond zijndus geen vochtproblemen te verwachten.
-
-
-
-
-
-
 

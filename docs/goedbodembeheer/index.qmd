@@ -8,8 +8,6 @@ title: 'Index'
 
 ACTUEEL 2023  
 
-
-
 Overlijdensbericht Jan Bokhorst
 -------------------------------
 
@@ -83,8 +81,6 @@ Zandgronden
 
 Een sterk verdichte zandgrond. Hoe je de structuur van bodems kunt verbeteren lees je onder bodembeheer en maatregelen
 
-
-
 ![](../img/2%20praktijkdag-juni-2008--240x360-1920w.jpg)
 
 Zavel- en kleigronden  
@@ -146,8 +142,6 @@ De chemische bodemanalyse is een belangrijk hulpmiddel bij de bemestingskeuze. B
 - [Overzicht Nederland](nederland-per-bodemtype.html#ankernlperbdtype)
 
 
-
-
 ## Nederland per gebruikstype
 
 - [Akkerbouw Flevoland](nederland-per-bodemtype.html#Flevoland2019)
@@ -168,8 +162,6 @@ De chemische bodemanalyse is een belangrijk hulpmiddel bij de bemestingskeuze. B
 - [Kasteelt](kasteelt-zand-en-klei.html#ankerkas)
 
 
-
-
 ## Stad Sport Moestuin
 
 - [Stadslandbouw](stadslandbouw.html#ankerstadslandb)
@@ -178,15 +170,11 @@ De chemische bodemanalyse is een belangrijk hulpmiddel bij de bemestingskeuze. B
 - [Moestuin](moestuin.html#ankermoestuin)  
 
 
-
-
 ![](../img/15%20zode%206%20mooi-fe0a3a31-1920w.png)
 
 Noord Friesland
 
 Bij gras op zware klei draait alles om de dikte van de donkere doorwortelbare graszode. Hier is deze zeer dik namelijk 13 cm.
-
-
 
 ![](../img/7%20akkerbouw-01-home-400x266-1920w.jpg)
 
@@ -204,8 +192,6 @@ Teelt op karton gaat vaak mis. De grond eronder is te dicht en regenwormen kunne
 
 Op een voetbalveld moeten wortels tot 40 cm diep gaan. Dat is hier niet het geval.
 
-
-
 ![](../img/vordendruiven043(Small)-1920w.jpg)
 
 Achterhoek  
@@ -219,54 +205,24 @@ Bij groenteteelt op zand is het op deze grond niet makkelijk. De plantenwortels 
 
 In moestuinen kan vaak veel verbeterd worden aan de bodem. Steek eens een kluit uit. Bij deze slaplant zie je op 20 cm diepte veel wortels. Zo hoort dat! Vaak is de bodem daar al te dicht.
 
-
-
-
-
 ## Maatregelen
 
-
-
-
-
 Direct naar
-
-
 
 
 [Kalk](kalk.html#ankerkalk)
 
 
-
-
 [Groenbemesters](groenbemesters.html#ankergroenbemesters)
-
-
 
 
 [Draineren](draineren.html#ankerdraineren)
 
 
-
-
 [Bandendruk](bandendruk.html#ankerbandendruk)
 
 
-
-
 [Mest en compost](mest-en-compost.html#ankermestencompost)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -276,13 +232,9 @@ Direct naar
 
 Groen: goede zuurgraad van gras. Geel, oranje en rood: de grond is te zuur.
 
-
-
 ![](../img/Vredepeel077(Small)-1920w.jpg)
 
 Soms moet de ondergrond losgemaakt worden door te woelen. Beter is het om verdichting te voorkomen door op vaste rijpaden te rijden of diepgravende regenwormen het werk te laten doen.
-
-
 
 
 ![](../img/IMG_0926-Custom-1920w.JPG)
@@ -294,26 +246,14 @@ Vaste rundermest. Nog steeds is niet helemaal duidelijk waarom die zo'n buitenge
 
 Vlinderbloemigen zijn er in vele soorten en heel belangrijk voor voldoende aanvoer van organische stof. De afgebeelde gele mosterd heeft een diepe penwortel en houdt de bodem toegankleijk naar de diepte. Veel andere wortels heeft dit gewas niet. Voor veel wortels moet je naar de granen en de grassen. Rogge is dan de kampioen.
 
-
-
 .
 
 
 .
-
-
-
-
 
 Achtergronden
 
-
-
-
-
 Direct naar
-
-
 
 
 Biologische landbouw
@@ -321,8 +261,6 @@ Biologische landbouw
 [Biologische landbouw en bodem](bodem-en-biodynamisch.html#bdenbodem)
 
 [Resultaten biologische bedrijven](bodem-en-biodynamisch.html#result2)
-
-
 
 
 Productkwaliteit
@@ -335,13 +273,9 @@ Productkwaliteit
 [Meer over kwaliteit](kwaliteitsnormen-e-d.html#ankermeeroverkwal)
 
 
-
-
 Maatschappelijke vraagstukken
 
 [Bodem  en klimaat](klimaat-en-bodem.html#ankerbodemenklimaat)
-
-
 
 
 Bodems van de wereld  
@@ -350,29 +284,9 @@ Bodems van de wereld
 [Bodems van de wereld](bodems-wereld.html#ankerbodemswereld)  
 [Diagnosis of soil related crop problems](Publicatie.html#ankerdiagnosis) 
 
-
-
-
-
 Bodem en opvoeding
 
 [De wortelkindertjes](sibyle-von-olfers-de-wortellkindertjes.html#ankerwortelkindertjes)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -387,17 +301,9 @@ De terra preta in het Amazongebied. Links een vruchtbare grond door duizenden ja
 
 Het is belangrijk om al jong bij kinderen bewustzijn voor de bodem bij te brengen. Om voor te lezen: het boekje de Wortelkindertjes
 
-
-
 ![](../img/texas-2f7658d1-1920w.jpg)
 
 Periodiek ontploffen er fabrieken of voorraden van kunstmeststikstof. Dit geeft aan hoeveel energie er in stikstofkunstmest zit. Stikstof alleen kan een bodem niet vruchtbaar maken. Deze verbrandt als het ware de humus. Bij stikstof moeten ook koolstofrijke materialen komen. Meng dus stikstofrijk (vlinderbloemige gewassen, mest) met koolstofrijk (wortels van planten, stro)
-
-
-
-
-
-
 
 ---
 
@@ -405,21 +311,13 @@ Periodiek ontploffen er fabrieken of voorraden van kunstmeststikstof. Dit geeft 
 ACTUEEL
 
 
-
-
 Actueel 2021
-
-
-
-
 
 PRAKTIJKGIDS WERKEN AAN BODEMVRUCHTBAARHEID GRATIS TE DOWNLOADEN
 
 ![](../img/voorkant-1920w.JPG)
 
 De uitgebreide publicatie WERKEN AAN BODEMVRUCHTBAARHEID gericht op een groot aantal maatregelen in akkerbouw, tuinbouw en grasland als PDF te downloaden. Eerste versie oktober 2021.
-
-
 
 
 Download
@@ -431,8 +329,6 @@ DE EERSTE LANDBOUW IN ZUID-AMERIKA BEGON 8000 JAAR EERDER DAN VOORHEEN WERD GEDA
 ![](../img/vestigingen%2010.400%20jaar%20geleden-0ce336af-1920w.png)
 
 18.000 jaar geleden trokken de eerste mensen uit Siberië via Alaska Amerika in. Voorheen werd gedacht dat de landbouw pas 2000 jaar geleden begon. Door veel onderzoek de afgelopen 10 jaar blijkt de landbouw al 10.000 jaar geleden begonnen te zijn. De dikke zwarte bodems (Terras pretas) zijn daar getuige van                                               [Lees meer](bodems-wereld.html#AnkerTPetra)
-
-
 
 DE VOEDING VAN DE MENS LIJKT WEL WAT OP DIE VAN DE BODEM
 
@@ -455,17 +351,11 @@ bodem: stro, gewasresten en groenbemesters met stevige stengels, groen- en GFT-c
 Een van beide mag bij mens of bodem nooit overheersen.
 
 
-
-
-
-
 REGENWORMHOOPJES IN DE SNEEUW
 
 ![](../img/20210216_113135%20%28Middel%29-1920w.jpg)
 
 Je houdt het niet voor mogelijk. De sneeuw is nog niet helemaal weg en de regenwormen werken al weer aan bodemvruchtbaarheid.
-
-
 
 IN DE TOEKOMST VEEL VOEDSEL UIT ZEE? NEE!
 
@@ -485,8 +375,6 @@ De landplatworm komt in toenemende mate voor in Nederland. Vaak wordt gedacht da
 Regenwormen leveren een grote bijdrage aan de bodemvruchtbaarheid en kunnen door landplatwormen worden gedood. Hoewel vaak het tegenovergestelde wordt gezegd zijn ze toch geen echt gevaar voor de regenwormen.
 
 [Lees meer](landplatworm.html#ankerlandplatworm)
-
-
 
 
 DE FAO ORGANISEERDE EEN WEDSRIJD VOOR HET MOOISTE BODEM KINDERBOEK
@@ -520,8 +408,6 @@ In akkerbouw en groenteteelt werkt drijfmest alleen goed bij voldoende aanbod va
 
 [Lees meer](drijfmest-en-regenwormen.html#ankerdrijfmestenregenwormen) 
 
-
-
 KRINGLOOPLANDBOUW IN CHINA, KOREA EN JAPAN
 
 ![compost in china lang geleden](../img/Kuil%20gevuld%20met%20paardenmest-1920w.jpg)
@@ -531,21 +417,13 @@ Gedurende meer dan 3000 jaar was er in het verre oosten een perfecte kringloopla
 [Lees meer](bodem-en-kringlooplandbouw.html#ankerbodemenkringloopl)
 
 
-
-
 Actueel 2020
-
-
-
-
 
 KISS THE GROUND OP NETFLIX. Je mist niet veel wanneer je het niet ziet
 
 ![](../img/Ej0icB6X0AEGG5M-1920w.jpg)
 
 De op zich indrukwekkende film kan bij mensen die totaal niets van de bodem afweten ertoe leiden dat voor hen de bodem en het begrip bodemvruchtbaarheid in beeld komen. Er wordt evenwel veel onzin over de bodem gezegd. Het gevaar bestaat dat voorstanders van een industrielandbouw, met veel kunstmest en gif, het gevoel krijgen dat alternatieve ideeën op drijfzand zijn gebouwd en dat je er geen aandacht aan hoeft te besteden.
-
-
 
 
 [Lees meer](kiss-the-ground.html#ankerkisstheground)
@@ -559,8 +437,6 @@ Nick van Eekeren in verslag Vruchtbare Kringloop Overijssel:
 
 Dingen die melkveehouders gelijk morgen kunnen doen: naast Engels raaigras ook kruiden en klavers inzaaien. Mengsels met cichorei en smalle weegbree kunnen dieper wortelen, rode grasklaver verdampt veel minder water. Veel boeren zijn ook enthousiast over het kweken van sorghum als veevoer, een graan dat minder water dan mais vraagt. Pendelende regenwormen maken diepe wormengangen en kunnen je waterinfiltratie verdrievoudigen. We doen hier onderzoek naar. Meer info: www.vruchtbarekringloopoverijssel.nl
 
-
-
 DUITS ONDERZOEK NAAR DE INVLOED VAN RESTPRODUCTEN VAN DE BIOGASPRODUCTIE OP DE BODEM
 
 ![wortelstelsel groenbemesters](../img/ElhC9tbXgAADN-l-1920w.jpg)
@@ -570,13 +446,7 @@ Duits onderzoek naar effect van restproducten van biogasproductie voor de bodem 
 [Lees meer](beieren-biogas.html#ankerbeieren)
 
 
-
-
 Oktober 2020
-
-
-
-
 
 **PLANTSAPANALYSES ZIJN NOG NIET KLAAR VOOR DE PRAKTIJK**  ![](../img/PLANTSAPANALYSE-1920w.jpg)
 
@@ -599,8 +469,6 @@ Dit jaar is ontdekt waar Vincent van Gogh zijn laatste schilderij maakte. Het sc
 
 Frank Verhoeven van Boerenverstand.nl heeft in het vakblad Melkvee concrete voorstellen geformuleerd voor oplossing van het stikstofprobleem. Het gaat om normen voor minimale weidegang, maximaal ureumgehalte in melk, zelf stikstof binden, lage ammoniakemissie, beperkte stikstofaanvoer. [Lees meer](verhoeven.html#ankerplanverhoeven)
 
-
-
 **HET BODEMLEVEN NA DROOGTE**  ![](../img/droge%20grondbew-1920w.jpg)
 
 Wanneer het na een periode van droogte gaat regenen kunnen planten weer beter groeien. Dat komt niet alleen door een betere watervoorziening. Het vrijkomen van voedingsstoffen door bacterien en de uitscheiding van wortelexudaten spelen ook een rol.            [Lees meer](bodem-na-droogte.html#ankerbodemnadroogte)  
@@ -615,22 +483,12 @@ Bij regen na droogte hangt er een specifieke geur in de lucht. Die vinden we aan
 
 De Duitse bodemkundige vereniging kiest ieder jaar de bodem van het jaar. Dit jaar is het de wadbodem.  
 
-
-
 [Lees meer](wadbodems.html#ankerwadbodem)
-
-
 
 
 **VIRUSSEN. ZITTEN DIE OOK IN DE BODEM?**  ![](../img/VIRUS400%20300-1920w.jpg)
 
 In de zee zijn virussen onmisbaar. In mens, dier en plant geven ze problemen, soms zeer grote. Hoe is het nu met virussen in de bodem?   
-
-
-
-
-
-
 
 
 
@@ -760,8 +618,6 @@ Bodem onder het Landschap . Nu een derde aangevulde druk.
 - [Bandendruk](bandendruk.html#ankerbandendruk)
 
 
-
-
 ## Mest en compost  
 
 - [Handboek mest en compost](mest-en-compost.html#ankermestencompost)
@@ -771,8 +627,6 @@ Bodem onder het Landschap . Nu een derde aangevulde druk.
 
 - [Biologische landbouw en bodem](bodem-en-biodynamisch.html#bdenbodem)
 - [Resultaten biologische bedrijven](bodem-en-biodynamisch.html#result2)
-
-
 
 ## Smaak en gezondheid voeding
 

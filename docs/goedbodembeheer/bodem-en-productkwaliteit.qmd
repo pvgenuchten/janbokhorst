@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # De teelt
 
-
-
 ---
-
-
-
-
 
 
         
@@ -23,10 +17,6 @@ author: Jan Bokhorst
 Een uitvoerige tekst over dit onderwerp kunt u [hier](../files/productkwaliteit.pdf) 
 als pdf  (4 mb) downloaden  
   
-
-
-
-
 
     De teelt van producten met hoge kwaliteit
   
@@ -40,7 +30,9 @@ als pdf  (4 mb) downloaden
   
   
 
- **Inleiding**In de landbouw, zowel biologisch als gangbaar, wordt in het algemeen naar opbrengst uitbetaald en niet naar smaak en gezondheid van de producten.  
+ ## Inleiding
+
+In de landbouw, zowel biologisch als gangbaar, wordt in het algemeen naar opbrengst uitbetaald en niet naar smaak en gezondheid van de producten.  
 Een hoge opbrengst nastreven middels **bemesting** 
 gaat altijd ten koste van de kwaliteit.  
 **Veredeling** 
@@ -58,10 +50,6 @@ Tekening Leen Janmaat
 
  
 
-
-
-
-
   
   
 **Klei Flevoland**   
@@ -69,10 +57,6 @@ Tekening Leen Janmaat
 Een minder goede smaak komt veel voor in Flevoland.Een laag bemestingsniveau, goede voorvrucht bijvoorbeeld graan, een goed ras en wat grotere plantafstand kunnen bij peen hier wat aan doen.
 
  
-
-
-
-
 
 **Zeeklei Wieringermeer**   
 ![](../img/peen%20vd%20grracht-1920w.jpg)   
@@ -83,10 +67,6 @@ Bladeren kleuren deels geel, goede smaak.
 Oppassen dat de bodem niet te rijk is en niet teveel stikstof bemesten. Dan kunnen goede wortels geteeld worden.
 
  
-
-
-
-
 
 **Zand Veluwe**   
 ![](../img/geffen%20lunteren-1920w.jpg)   
@@ -100,24 +80,18 @@ Op zand worden de mooiste wortels geteeld bij bruine organische stof. Bij zwarte
   
  
 
-
-
-
-
   
   
 [Naar inhoudsopgave](bodem-en-productkwaliteit.html#Inhoud)  
- **Bemesting** **Inleiding**Bemesting is de belangrijkste maatregel waarmee de kwaliteit beïnvloed kan worden. Zowel in positieve als negatieve zin. In negatieve zin gaat het vooral om stikstof. Stikstof heeft een positieve invloed op de opbrengst en teveel stikstof een negatieve op de kwaliteit. Geleidelijk vrijkomen van stikstof is ook belangrijk. In het volgende wat voorbeelden rond het thema bemesting en kwaliteit. **Knolselderij, stalmest en drijfmest**Dat stalmest goed is en drijfmest slecht kan niet in zijn algemeenheid gezegd worden. Drijfmest kan op een goede wijze ingezet worden. In het volgende wel een voorbeeld ten gunste van stalmest.   
+ **Bemesting** ## Inleiding
+
+Bemesting is de belangrijkste maatregel waarmee de kwaliteit beïnvloed kan worden. Zowel in positieve als negatieve zin. In negatieve zin gaat het vooral om stikstof. Stikstof heeft een positieve invloed op de opbrengst en teveel stikstof een negatieve op de kwaliteit. Geleidelijk vrijkomen van stikstof is ook belangrijk. In het volgende wat voorbeelden rond het thema bemesting en kwaliteit. **Knolselderij, stalmest en drijfmest**Dat stalmest goed is en drijfmest slecht kan niet in zijn algemeenheid gezegd worden. Drijfmest kan op een goede wijze ingezet worden. In het volgende wel een voorbeeld ten gunste van stalmest.   
 ![](../img/stalmest%20reeh-1920w.jpg)   
 *Stalmest*
 
 Een relatief trage begingroei. Daarna afrijping en matige aantasting door bladvlekkenziekte
 
  
-
-
-
-
 
   
 ![](../img/drijfmest%20reeh-1920w.jpg)   
@@ -127,10 +101,6 @@ Bij drijfmest een uitbundige begingroei. Daarna een zeer sterke aantasting door 
 
  
 
-
-
-
-
 **Prei, lichte en zware bemesting**   
 ![](1bce804b/dms3rep/multi/prei%203.bmp)   
 Lichte bemesting, groei meer in de breedte. Zeer goed houdbaar. Nitraatgehalte 
@@ -138,10 +108,6 @@ Lichte bemesting, groei meer in de breedte. Zeer goed houdbaar. Nitraatgehalte 
 495 mg/kg
 
  
-
-
-
-
 
   
 ![](1bce804b/dms3rep/multi/prei%206.bmp)   
@@ -155,10 +121,6 @@ Niitraatgehalte 
 
  
 
-
-
-
-
 **Prei, met en zonder hulpmeststof**   
 ![](../img/prei%20verb%201-1920w.jpg)   
 *Geen hulpmeststof*
@@ -166,10 +128,6 @@ Niitraatgehalte 
 Groei sterk in de breedte, gezonde plant. Opbrengst 29 ton per ha.
 
  
-
-
-
-
 
   
 ![](../img/prei%20verb%204-1920w.jpg)   
@@ -180,10 +138,6 @@ Groei sterk in de hoogte. Opbrengst39 ton per ha.
 (Bokhorst, 1989)
 
  
-
-
-
-
 
   
   
@@ -205,19 +159,11 @@ Opbrengst (ton per ha) 29
 
  
 
-
-
-
-
   
 ![](../img/biet%201k-1920w.jpg)   
 Kristallisatiebeeld drijfmest: Weelderig en wanordelijk
 
  
-
-
-
-
 
   
 ![](../img/bietn-1920w.jpg)   
@@ -236,19 +182,11 @@ Opbrengst (ton per ha) 18
 
  
 
-
-
-
-
   
 ![](../img/biet%202d-1920w.jpg)   
 Compost: Dunne structuur en zwakke ordening
 
  
-
-
-
-
 
 **Tomaat, licht en zwaar bemest**   
 ![](../img/2%20tomaten%20klein-1920w.jpg)   
@@ -256,19 +194,11 @@ Links licht bemeste tomaat, rechts zwaar bemest.
 
  
 
-
-
-
-
   
 ![](../img/Afbeelding1kopie-1920w.jpg)   
 Blad, links licht bemeste teelt, rechts zwaar bemeste teelt.
 
  
-
-
-
-
 
 Bij zware bemesting is het blad sterker uitgegroeid. De tomaat is wateriger en heeft een dunnere schil.   
   
@@ -299,28 +229,12 @@ tekeningen Gerda Peters
 
  
 
-
-
-
-
 **Witte kool**   
 ![](../img/bd%20en%20gb-1920w.JPG)     
 
 
-
-
-
-
-
-
 De gangbare planten hebben meer schimmelziekten, de biologisch-dynamische meer vraat door duiven, aardvlooien en koolrupsen. Dit duidt op een grotere innerlijke weerstand van de biologisch-dynamische planten.   
 ![](../img/gangbaar%20en%20b-1920w.JPG)     
-
-
-
-
-
-
 
 
   
@@ -340,10 +254,6 @@ Gehalten aan omega 3 vetzuren op 5 biologische (groen) en 5 gangbare (blauw) bed
 
  
 
-
-
-
-
   
   
 [Naar inhoudsopgave](bodem-en-productkwaliteit.html#Inhoud)  
@@ -353,10 +263,4 @@ Gehalten aan omega 3 vetzuren op 5 biologische (groen) en 5 gangbare (blauw) bed
 4. aanvoer van organisch materiaalZorg voor een constante aanvoer van organisch materiaal via gewasresten, groenbemesters, compost en mest. Streefhoeveelheid ca 2500 kg eos (effectieve organische stof) per jaar per ha.  
 5. BewortelingsdiepteZorg voor een bewortelingsdiepte van tenminste 40 cm. Belangrijk voor een evenwichtige groei. Verzorg bodemstructuur en bodemleven. Zie www.goedbodembeheer.nl. Graaf een kuil!  
 6. Evalueer uw inspanningenVergelijk de smaak eens met producten van elders en volg de gewasontwikkeling, vergelijk uw product met de streefwaarden. Kijk naar groei en afrijpen. Ander ras misschien?
-
-
-
-
-
-
 

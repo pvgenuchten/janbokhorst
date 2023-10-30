@@ -8,45 +8,15 @@ Steeds meer adviesbureaus bieden plantsapanalyses aan. De methode is evenwel nog
 
 Plantsapanalyses (metingen van voedingsstoffen in het vocht van uitgeperst blad) werden voorheen vooral in meerjarige gewassen toegepast. Daar zijn onderbouwde bemestingsadviesbases voor. De laatste jaren worden ze ook elders, toegepast. Meestal in de kasteelt, maar ook wel in de vollegrond.  Het probleem is dat er, ook in de kasteelt,  geen onderbouwde adviesbasis is. Het is nog niet mogelijk de metingen om te zetten in een bemestingsadvies. Daar waar dat wel gebeurt wordt uitgegaan van een veel te simpel idee over wat er in en om de plant gebeurt. Het gebeurt niet op basis van onderbouwd onderzoek.
 
-
-  
-
-
 Waarom is er geen goede adviesbasis voor plantsapanalyses? Daar zijn meerdere redenen voor:
 
-  
-
-
-1-Tijdens de groei van planten  is er een herverdeling van voedingsstoffen. Belangrijke voedingsstoffen zoals stikstof, fosfor, kalium kunnen tijdens de groei van het oudere blad naar het nieuwe blad dat zich vormt getransporteerd worden. Magnesium kan beperkt van oud naar jong getransporteerd worden. Bij veel andere voedingsstoffen, zoals calcium, kan dit vrijwel niet. Wanneer in het plantsap van het jonge blad een laag gehalte wordt aangetroffen van een bepaald element is het niet zonder meer goed om direct bij te bemesten. De plant kan vaak zelf door herverdeling het tekort opheffen. Bijmesten kan tot een onevenwichtige situatie leiden en tekorten van andere voedingsstoffen veroorzaken.   
-  
-
-
-2-Verschillen in gehalte door het weer. Bij veel instraling van de zon is de verdamping hoger en kan er soms niet voldoende water aangevoerd worden. Het droge stofgehalte gaat dan omhoog en daarmee ook de gehalten aan voedingsstoffen. Onderzoek van Eurofins in 2020 wees uit dat dat bij het ene gewas wel gebeurt en bij een ander gewas niet. Een goede adviesbasis moet hier rekening mee houden en dat vergt veel onderzoekswerk.
-
-  
-
-
-3-Onduidelijkheid over de goede wijze van monstername. Welk deel van de plant moet bemonsterd worden. Soms  wordt er voor het blad gekozen, soms voor de bladstelen, soms voor beide.
-
-  
-
-
-4-Tijdstip monstername. Door de dag heen treden er grote verschillen op en deze verschillen wisselen weer per dag.  
- 
-
-
-5-Transport. Tijdens het verzenden veranderen de gehalten. Hier is nog geen goede oplossing voor. Direct na oogst invriezen is mogelijk belangrijk.
-
-  
-
-
-6-De plant heeft een laag gehalte, maar er is geen gebrek. Dit kan voorkomen. Het lage gehalte komt door overmaat van andere elementen.  
-
-
-  
-
-
-7-Ieder gewas kent weer andere opnameprocessen van voedingsstoffen en daarmee een andere wijze van beoordelen van voedingsstoffen.
+- Tijdens de groei van planten  is er een herverdeling van voedingsstoffen. Belangrijke voedingsstoffen zoals stikstof, fosfor, kalium kunnen tijdens de groei van het oudere blad naar het nieuwe blad dat zich vormt getransporteerd worden. Magnesium kan beperkt van oud naar jong getransporteerd worden. Bij veel andere voedingsstoffen, zoals calcium, kan dit vrijwel niet. Wanneer in het plantsap van het jonge blad een laag gehalte wordt aangetroffen van een bepaald element is het niet zonder meer goed om direct bij te bemesten. De plant kan vaak zelf door herverdeling het tekort opheffen. Bijmesten kan tot een onevenwichtige situatie leiden en tekorten van andere voedingsstoffen veroorzaken.   
+- Verschillen in gehalte door het weer. Bij veel instraling van de zon is de verdamping hoger en kan er soms niet voldoende water aangevoerd worden. Het droge stofgehalte gaat dan omhoog en daarmee ook de gehalten aan voedingsstoffen. Onderzoek van Eurofins in 2020 wees uit dat dat bij het ene gewas wel gebeurt en bij een ander gewas niet. Een goede adviesbasis moet hier rekening mee houden en dat vergt veel onderzoekswerk.
+- Onduidelijkheid over de goede wijze van monstername. Welk deel van de plant moet bemonsterd worden. Soms  wordt er voor het blad gekozen, soms voor de bladstelen, soms voor beide.
+- Tijdstip monstername. Door de dag heen treden er grote verschillen op en deze verschillen wisselen weer per dag.  
+- Transport. Tijdens het verzenden veranderen de gehalten. Hier is nog geen goede oplossing voor. Direct na oogst invriezen is mogelijk belangrijk.
+- De plant heeft een laag gehalte, maar er is geen gebrek. Dit kan voorkomen. Het lage gehalte komt door overmaat van andere elementen.  
+- Ieder gewas kent weer andere opnameprocessen van voedingsstoffen en daarmee een andere wijze van beoordelen van voedingsstoffen.
 
 
   
@@ -69,39 +39,30 @@ Plantsapanalyse rukt op als instrument om de bemesting af te stemmen op de behoe
 
 Voogt, W., Heuvelink, E., & Kierkels, T. (2017). Ontbreken van goede normen zwakke schakel bij plantsapmetingen : methode bruikbaar voor aantal elementen. Onder Glas, 2017(5), 17-19. <https://edepot.wur.nl/425147>
 
-  
-
-
-Justine Dewitte (2015) (www.cctb.be):
+Justine Dewitte (2015) ([cctb.be](https://cctb.be)):
 
 Om de analyses echt te gaan hanteren als bemestingstool, moet er eerst een uitgebreide database worden opgebouwd over de verschillende seizoenen heen.   
 Bladsapanalyses kunnen echter wel een indicatie geven of men al geruime tijd aan het over- of onderbemesten is. Wanneer de waarden consequent een stuk boven de maximale of onder de minimale streefwaarde zitten, wordt dit al gauw duidelijk. Ook aan de hand van sapanalyses van de vruchten kan dit vrij eenvoudig worden achterhaald.
 
-
-  
-
-
-Eurofins Wageningen (www.eurofins.nl)
+[Eurofins Wageningen](https://www.eurofins.nl)
 
 Onderzoek in 2020 op twee praktijkbedrijven met paprika en komkommer wees uit:
 
--Op een warme dag met veel instraling ging het droge stofgehalte van het oude blad van paprika wel omhoog en van komkommer niet. Bij het jonge blad ging bij paprika het droge stofgehalte met 30% omhoog en bij komkommer met 20%.  
- -Op een warme dag neemt bij het jonge blad van komkommer het Ca en Mg gehalte met resp. 30 en 20% af, op een koele dag met 24 en 5%
-
-  
+- Op een warme dag met veel instraling ging het droge stofgehalte van het oude blad van paprika wel omhoog en van komkommer niet. Bij het jonge blad ging bij paprika het droge stofgehalte met 30% omhoog en bij komkommer met 20%.  
+- Op een warme dag neemt bij het jonge blad van komkommer het Ca en Mg gehalte met resp. 30 en 20% af, op een koele dag met 24 en 5%
 
 
 De conclusie moet zijn dat er nog heel wat uit te zoeken is.  
 
-
-  
-
-
 Wie voert plantsapmetingen uit?
 
+Plantsapmetingen worden onder meer aangeboden door: 
 
-
-Plantsapmetingen worden onder meer aangeboden door: Agrocontrol.nl, Cropsolutions.nl, Eurofins-agro.com, Groeibalans.nl en Hortinovan.nl.
+- [Agrocontrol.nl](https://Agrocontrol.nl) 
+- [Cropsolutions.nl](https://Cropsolutions.nl) 
+- [Eurofins-agro.com](Eurofins-agro.com) 
+- [Groeibalans.nl](https://Groeibalans.nl) 
+- [Hortinovan.nl](https://Hortinovan.nl).
 
   
     
@@ -109,14 +70,6 @@ Plantsapmetingen worden onder meer aangeboden door: Agrocontrol.nl, Cropsolution
 
 
   
-
-
-
-
-
-
-
-
 
 
 

@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # Mest en compost
 
-
-
 ---
-
-
-
-
 
 
         
@@ -40,12 +34,6 @@ Principes bij het toepassen van mest en compost meer in detail.
 **2. Belang van de bodem**Bemesting in relatie tot de bodem. Wanneer welke mest of compost?Globaal is Nederland in te delen in drie groepen bodems die ieder een geheel ander beleid vereisen richting bodembeheer en mest- en compostgebruik. We noemen ze jong, midden en oud en de verspreiding is in onderstaande kaart weergegeven.  
    
 ![](../img/kaartNederland%20%281%29-1920w.jpg)     
-
-
-
-
-
-
 
 
 **Bodemkaart van Nederland: jonge, midden en oude bodems**  
@@ -81,31 +69,13 @@ De samenstellingen van meststoffen worden vermeld als standaard (forfaitaire) ge
 ![](../img/23aa(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/23bb(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **De mestsamenstelling**Wat kun je aan de mestsamenstelling aflezen? Het is nodig om de samenstelling van de mest te weten wanneer de aanvoer van mest beperkt is door de mestwetgeving of, bij biologische bedrijven, wanneer biologische meststoffen moeilijk verkrijgbaar zijn. Daarbij is het fosfaatgehalte bij gebruik van dierlijke mest en compost bepalend voor de hoeveelheid aan te voeren mest en compost. Bij deze beperking in fosfaat is het van belang om de stikstofvoorziening goed te sturen. De samenstelling van de mest kan dan worden gebruikt om de totale balans te berekenen tussen invoer van buiten het bedrijf (door middel van meststoffen) en de totale uitvoer (door middel van gewassen). Zie hoofdstuk 7.  
 De samenstelling maakt ook duidelijk wanneer een meststof gewasgericht kan worden ingezet. Dit is het geval wanneer een meststof voedingstoffen levert die direct beschikbaar zijn voor het gewas, bijvoorbeeld bij een hoog gehalte aan minerale stikstof (N-min).De samenstelling laat vervolgens zien:• wanneer een mestsoort niet direct plantenvoedende eigenschappen bezit (lage N-min)• of de mest door zijn gehalten aan totale stikstof, fosfaat, kali en organische stof eigenschappen bezit die de humusvoorziening verbeteren, het bodemleven stimuleren en de voeding op de lange termijn verzorgen.   
 ![](../img/25(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **Werking**De in de meststof voorkomende elementen zijn niet allemaal direct beschikbaar voor het gewas. Dit hangt namelijk af van de vorm waarin de elementen in de meststoffen voorkomen. Hieronder wordt ingegaan op de drie belangrijkste elementen. Meer over de plantenvoedende waarde van meststoffen is te vinden in hoofdstuk 5.  
@@ -122,34 +92,16 @@ In tabel 3.4 is de samenstelling weergegeven voor biologische drijfmest en vaste
 ![](../img/27(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **Mestprijzen**De prijzen op de mestmarkt zijn in ontwikkeling en mede afhankelijk van het gebied in Nederland. Behalve naar de marktprijzen kan je ook kijken naar de ‘reële waarde’, maar hoe bepaal je die waarde van bijvoorbeeld vaste mest? Daarvoor kun je de kosten nemen die nodig zijn om deze mest te vervangen. In organische mest zitten onder meer stikstof, fosfaat, kali, sporenelementen en organische stof, die door een mestverkopende veehouder allemaal afgevoerd worden.  
 Voor vaste stalmestsoorten als runderpotstalmest en geitenpotstalmest wordt ongeveer € 5,50 per ton betaald. Dit bedrag dekt niet de kosten voor aankoop van het stro in de stal. Wanneer de veehouder alleen de kosten van het stro vergoed zou krijgen dan wordt de mestprijs als volgt berekend: 1 melkkoe heeft in een stalperiode van 180 dagen gemiddeld 10 kg stro per dag nodig. Dit is in totaal 1800 kg à € 70 per ton = € 126. Deze koe produceert ongeveer 10 ton mest in die periode. De prijs voor 1 ton mest wordt dan € 126:10 = € 12,60. In dit voorbeeld zijn alleen de kosten voor het stro meegenomen in de prijs van de mest. In de praktijk zijn er vele andere factoren die de prijs beïnvloeden. De prijs voor het transport is de grootste kostenpost. Door de mestwetgeving is het voor veehouders vaak verplicht om de mest af te laten voeren met geld toe.  
 Dat geldt ook voor de prijs van compost. Professionele composteerbedrijven krijgen bij inname geld om de afvalstoffen te verwerken. De prijs van de compost wordt dan vaak bepaald door de kosten voor het transport of door de schaarste van het product. De variatie in prijs is daardoor groot: van € 3 tot € 16 per ton voor GFT- en groencompostsoorten. Naast deze producten van de grote composteerbedrijven is er ook aanbod van gespecialiseerde composteerbedrijven die op verzoek van de klant producten maken, die voor de kasteelt, champignonteelt of andere specifieke doeleinden geschikt zijn. De prijs van deze producten is dan aanzienlijk hoger en kan variëren tussen € 25 en € 50 per ton.   
 ![](../img/28b(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **Afkortingen**Betekenis van de gebruikte afkortingen in dit hoofdstuk:  
 C/N koolstof : stikstof verhouding (gebaseerd op 56% C in OS)OS organische stofDS droge stofP2O5 fosfaatK2O kaliMgO magnesiaNa2O natronN-min minerale stikstofN-tot totale stikstof  
 Tabel 3.5 Samenstelling van meststoffen in kg per 1000 kg product   
 ![](../img/3%2C5-1920w.JPG)     
-
-
-
-
-
-
 
 
 
@@ -230,20 +182,8 @@ In het jaar na toediening is de stikstofwerking 10%, de fosfaatwerking 50% en de
 ![](../img/61(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/62(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **Hulpmeststoffen biologische landbouw**Behalve dierlijke mest en gecomposteerde dierlijke mest zijn maar een beperkt aantal meststoffen en bodemverbeteraars aanvullend toegelaten in de biologische landbouw. In tabel 3.3.2 staat een overzicht van deze meststoffen en bodemverbeteraars.  
@@ -258,18 +198,14 @@ Tabel 3.3.2. Meststoffen en bodemverbeteraars die zijn toegelaten in de biologis
 **Inhoud:****4.1 Het composteringsproces****4.2 Composteertechnieken****4.3 De opslag van mest en compost****4.4 Beperking van verliezen**  
 **4.1 Het composteringsproces**  
   
-**Inleiding**Tijdens de compostering worden de makkelijk afbreekbare organische verbindingen afgebroken of omgevormd tot meer stabiele verbindingen. Door de afbraak van het makkelijk afbreekbare materiaal nemen massa en volume af. Bij deze massa-afname speelt vochtverlies ook een belangrijke rol.  
+## Inleiding
+
+Tijdens de compostering worden de makkelijk afbreekbare organische verbindingen afgebroken of omgevormd tot meer stabiele verbindingen. Door de afbraak van het makkelijk afbreekbare materiaal nemen massa en volume af. Bij deze massa-afname speelt vochtverlies ook een belangrijke rol.  
 Of dit proces goed verloopt is met name afhankelijk van de luchttoevoer, want daar draait alles om bij de compostering. De luchttoevoer moet er voor zorgen dat:  
 -voldoende zuurstof wordt aangevoerd-koeling plaatsvindt-warmte wordt afgevoerd-water in de vorm van waterverzadigde lucht wordt afgevoerd  
 Deze toevoer kan gebeuren door natuurlijke luchtstromen, maar ook door het regelmatig omzetten met een machine of door geforceerde beluchting met ventilatoren. In hoofdstuk 4.2.3 wordt hier nader op ingegaan. Bij al deze systemen is de aanwezigheid onmisbaar van structuurvormend materiaal, zoals stro en hout.  
 Zijn de omstandigheden goed gekozen dan zullen temperatuur en chemische eigenschappen van het materiaal veranderen.   
 ![](../img/64(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **Temperatuur**De intensieve omzetting van makkelijk afbreekbare koolhydraten in het begin van het proces is zowel het gevolg als de oorzaak van de warmte. Er is dus sprake van een zichzelf versterkend proces. De temperaturen lopen op van 50 tot 60 en soms wel 75°C. Wordt het nog warmer, dan is het meeste microleven gedood. Bij sommige soorten compost kunnen er chemische reacties ontstaan die zo heftig verlopen dat de temperatuur totverbranden boven de 100°C stijgt. Hierbij is eerder sprake van verbranden dan van composteren. Voor een goede compostering is een temperatuur nodig die onder de 65°C ligt. Hoe hoger de temperatuur hoe meer onkruidzaden en ziekteverwekkers afsterven, maar ook hoe meer stikstof er verloren gaat. Dat komt doordat het chemische evenwicht verschuift van een ammoniumoplossing in water (NH4+ ) naar gas (NH3), dat vervliegt.Bij een lagere temperatuur duurt het proces langer. In de literatuur worden optimale waarden aangegeven tussen 50 en 60°C.Omdat de temperatuur in de hoop hoger is dan aan de buitenkant zal de reinigende werking van de warmte niet overal even sterk zijn. Zuurstof regelt de temperatuur en die kan beïnvloed worden door variaties aan te brengen in de structuur en het watergehalte. Natuurlijk zijn er locale verschillen, zoals plekken waar weinig zuurstof aanwezig is. Dan kan er N2O ontstaan dat als gas ontwijkt.  
@@ -279,12 +215,6 @@ Zijn de omstandigheden goed gekozen dan zullen temperatuur en chemische eigensch
 **Zuurgraad**Hoewel composteren bij verschillende zuurgraden goed kan verlopen is er een optimaal traject van pH 5,5 – 8. De biomassa zorgt tijdens het composteren eerst voor een wat lagere (zuurdere) en later voor een wat hogere (meer basische) pH, maar uiteindelijk zal de compost geleidelijk aan wat zuurder worden. Een te hoge pH geeft een groter stikstofverlies omdat door verschuiving van het chemische evenwicht meer NH3 als gas in de lucht verdwijnt.  
 kader Stalmestcompostering; een kwalitatieve benadering van het procesComposteren is het maken van een overgang tussen de bodem en bovengrondse resten van planten en dieren. Deze brug moet worden gebouwd omdat het materiaal van plant en dier te grof is om uit te rijden en hindert bij het klaarmaken van het zaaibed of de bestrijding van onkruid. Dat is een mechanische reden. Vaker nog zijn het chemische of biologische redenen omdat de plantaardige stoffen zich niet direct in de bodem laten inpassen. Inzicht in chemische en biologische veranderingen tijdens het proces van composteren is van belang om een keuze te kunnen maken tussen niet, kort of lang composteren.In het volgende voorbeeld, over het composteren van strorijke stalmest, zal duidelijk worden hoe belangrijk het procesverloop is.   
 ![](../img/73(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **Het proces als geheel**De compostering verloopt altijd in fasen, in dit geval vier. Deze fasen lijken wel een verkorte herhaling van de evolutie van het leven op aarde: eerste de micro-organismen (eerste fase), dan de lagere planten (tweede fase), gevolgd door lagere diersoorten (derde fase). De diersoorten worden vervolgens steeds complexer van vorm en functie (vierde fase). Behalve deze ontwikkeling van levensvormen laat het composteringsproces ook nog een samenspel zien van a-biotische factoren, die ieder hun eigen ontwikkeling volgen: temperatuur (warmte), zuurstof (lucht), vochthuishouding (water) en de C/N verhouding (aarde). Alles bijeen genomen heeft het composteringsproces een aantal kenmerken dat ook aan levende organismen wordt toegeschreven en in die zin is het composteren op te vatten als het ‘levend maken’ van de bodem.De eerste fase: het opwarmen. De composthoop wordt warmer door de activiteit van micro-organismen die de makkelijk om te zetten organische stoffen afbreken. Het zijn weinig soorten in enorme aantallen. Als de hoop anaëroob is kan de ontstane ammoniak door gebrek aan zuurstof niet verder oxideren. Deze zuurstofloosheid treedt altijd op en zal enige tijd blijven bestaan. Ook als er meer lucht in de hoop komt blijven de omstandigheden in de kern van de kluiten mest nog anaëroob, maar de ammoniak verdwijnt wel na enige tijd (zie grafiek). De compost zit nu nog vol meststoffen die vijandig voor de plant zijn en ook op de bodem een negatieve invloed kunnen uitoefenen. Net als in de evolutie van het leven op aarde zijn het eerst de voorlopers van plant en dier, de bacteriën die de dienst uitmaken en helpen bij het ‘plant- en bodemvriendelijk’ maken van de compost. In de volgende fase komen er hoger georganiseerde plantaardige vormen bij: de schimmels.De tweede fase: het afkoelen. Er dringt meer lucht in de hoop door en vanaf de buitenkant worden schimmels actief. Dat is soms te merken aan het verschijnen van paddestoelen, de vruchtlichamen van deze schimmels. Door de wisselwerking met de lucht koelt de hoop weer af, maar hij blijft warmer dan de omgeving. Nu de planten hun ontwikkeling in de hoop hebben gehad is het de beurt aan de dieren.De derde fase: het verschijnen van dieren. Kleine diertjes worden actief, met name springstaarten. Aanvankelijk zijn deze insecten wormachtig van uiterlijk en weinig gedifferentieerd, later komen er soorten bij die een ingewikkelder uiterlijk krijgen. Er verschijnen ogen, kleuren, beharing, staarten om mee te springen en de bewegingsactiviteit neemt toe. Behalve een proces in de tijd is hier ook sprake van een proces in de ruimte, want de diepere lagen herbergen primitievere vormen dan de hogere lagen in de hoop. Er is hier sprake van een evolutieproces in mini-formaat en in een kort tijdsbestek. Het lijkt wel alsof de ontwikkeling van de dierlijke vormenrijkdom parallel loopt met de ontwikkeling van de composthoop (zie figuur). Niet alleen de springstaarten doorlopen een dergelijk proces, ook de wormen doen hieraan mee. Eerst dringen van buitenaf mestwormen de hoop binnen. Ze kunnen niet tegen de anaërobe beginomstandigheden en brengen met hun gangen lucht in de hoop.Vaak wordt mest al gebruikt voordat de wormen hun intrede doen. Het uitrijden van kort gecomposteerde mest kan voor de voeding van het bodemleven en de gewassen een belangrijke rol spelen, maar op minder vruchtbare gronden kunnen anaërobe processen in de grond optreden. Die hebben dan gedurende het groeiseizoen een negatieve invloed op de gewassen. Bij lang composteren gaat de compost zo veel op grond lijken dat er geen effecten meer worden bereikt in de bodemprocessen. Er wordt bij wijze van spreken alleen maar extra grondachtig materiaal toegevoegd.De vierde fase: het dierenleven ontvouwt zich. De soortenrijkdom van bacteriën, schimmels en kleinere dieren neemt sterk toe. De mestwormen verdwijnen weer en maken plaats voor grondwormen in meerdere soorten. Niet alleen bij de wormen, maar ook bij de andere organismen gaat de soortensamenstelling steeds meer lijken op die van een gewone bodem. In poëtische taal: de composthoop is aan het gronden en wordt meer ge-aard. Ook gaan de processen steeds langzamer verlopen. De makkelijk aan te tasten stoffen uit dierlijke uitwerpselen en stro zijn omgezet in stabiele stoffen, die overeenkomen met de organische stof in de grond. De compost is rijp en kan uitgereden worden.  
@@ -300,32 +230,14 @@ Centraal bij iedere aërobe (zuurstofrijke) compostering staat de vraag: hoe kri
 ![](../img/75(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **vochtgehalte**Het optimale vochtgehalte hangt af van de structuur en de hoeveelheid organische stof in de uitgangsmaterialen. Te weinig vocht geeft geen omzetting omdat de organismen dan niet kunnen leven; teveel vocht geeft plaatselijke anaërobe condities. Als wenselijke waarden wordt in de literatuur meest waarden tussen 50% en 60% genoemd. Materialen als stro en hout kunnen bij een vochtgehalte van 75-90% evenwel nog steeds goed doorlucht zijn, terwijl structuurarme materialen als keukenafval al boven de 50% dicht komen te zitten.  
 **omzetten**Makkelijk afbreekbaar materiaal kan vanwege het inklinken niet meer beschikbaar zijn voor het composteren. Omzetten is dan nodig om het materiaal weer met lucht in contact te brengen. Dit geldt zowel voor compostsoorten die mede bereid zijn uit dierlijk materiaal als voor soorten die uit puur plantaardig materiaal bestaan. Vooral bij relatief natte compost, zoals dierlijke mestcompost, betekent omzetten ook dat de convectiestroming, de stroming van binnen naar boven, sneller wordt. Homogenisering en verkleining van de massa is een andere belangrijke functie van omzetten. De hoeveelheid lucht die op het moment van omzetten in de hoop komt speelt geen rol van betekenis in het composteringsproces. Wat lucht betreft gaat het bij omzetten om het onderhouden van de convectiestroming.  
 **geforceerde beluchting**Bedrijven die groenafval en GFT verwerken gebruiken vaak geforceerde beluchting, zoals het wegzuigen van de lucht via de bodem. Omzetten is dan beperkt nodig. Om een uniforme doorluchting te krijgen mogen de hopen niet veel hoger zijn dan 2,5 tot 3 meter. Door het wegzuigen van lucht wordt het mogelijk deze te reinigen met een zogenaamde ammoniakwasser en een biofilter. Ammoniak en geur worden zo opgevangen. Om een evenredige temperatuurverdeling te krijgen wordt de hoop soms afgedekt met een warmte-isolerende laag, zoals rijpe compost.Een andere manier van beluchten is het blazen van lucht van onderaf in de hoop. Nadeel hiervan is het uitdrogen en afkoelen van de onderste laag.Er is ook een systeem waarbij afwisselend geblazen en gezogen wordt   
 ![](../img/77(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **C/N verhouding**Een belangrijke parameter bij de keuze van de uitgangsmaterialen en de hoeveelheden daarvan is de C/N verhouding. De goede waarde bij het starten van het composteren ligt tussen de 20 en de 35.Voor het uitrekenen van de C/N verhouding van een mengsel moeten de gehaltes aan C en N in de uitgangsmaterialen bekend zijn. Het stikstofgehalte volgt vaak uit de standaard mest- of compostanalyse, of er zijn vuistwaarden bekend.Met name bij mest blijken er overigens grote variaties in de C/N verhouding tussen partijen van dezelfde soort te zijn: voor goed bemesten en/of goed composteren is het raadzaam om de mest te bemonsteren. Bij plantenresten is de leeftijd van grote invloed: hoe jonger de plant, hoe lager de C/N verhouding. Dit komt omdat oude planten meer houtig worden. Vuistwaarden voor droge stof, C , N en C/N verhouding staan in de tabel 4.2.1.   
 ![](../img/78(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 Om de uiteindelijke C/N verhouding te bepalen wordt van een gegeven hoeveelheid uitgangsmateriaal de totale hoeveelheid C en N uitgerekend en op elkaar gedeeld. In de praktijk wordt vaak op het gevoel en ervaring een mengsel gemaakt van stoffen met een hoge en een lage C/N verhouding, waarbij ook nog een goede vochtigheid bereikt wordt. In het volgende een voorbeeld van de wijze waarop een berekening uitgevoerd kan worden.  
@@ -348,12 +260,6 @@ tarwe 1,82gerst 0,65haver 0,73rogge 0,53maïs 0,51
 ![](../img/80a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 Gerstestro, met vrijwel hetzelfde C/N gehalte als tarwestro, breekt sneller af vanwege de dunnere celwanden, het geringere ligninegehalte en het betere vochtopnemend vermogen.Hoewel tarwestro minder vocht opneemt heeft het meestal toch de voorkeur, omdat het een betere structuur geeft.  
 De mate waarin houtzaagsel wordt afgebroken is mede afhankelijk van de kenmerken van de houtsoorten, zoals het vezeltype en de hoeveelheid hars. Populier en wilg worden sneller afgebroken dan beuk, eik of naaldhout.  
 **homogeniteit**Tijdens het opzetten is het belangrijk dat de uitgangsmaterialen zo goed mogelijk gemengd worden, om te voorkomen dat er natte en droge, zuurstofarme en zuurstofrijke plekken ontstaan. Water kan het beste tijdens het mengen toegevoegd worden. Soms worden verschillende materialen in afwisselende, dunne lagen aangebracht.  
@@ -370,12 +276,6 @@ Gebruikelijke afmetingen voor rijen zijn: 2 tot 3 meter breed en 2 meter hoog.
 ![](../img/82(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **opzetten**Stalmest wordt meestal op een hoop gestort door kipkarren of vrachtwagens. Meestal verdroogt de buitenkant van de hoop na opwarming. Omzetten verkleint het materiaal en geeft een nieuwe impuls voor de vertering.Opzetten van vaste mest gebeurt ook wel eens met mestverspreiders. Door te variëren met rijsnelheid, toerental en snelheid van de schuifketting kan de vorm en de luchtigheid van de hoop beïnvloed worden. Een meststrooier met horizontale strooi-assen is hiervoor het meest geschikt. In afwezigheid hiervan kan met bijvoorbeeld platen aan de zijkant voorkomen worden dat de hoop te breed wordt.  
 De mestverspreider geeft vaak een te luchtige hoop. Dit kan opgelost worden door aan te stampen, water toe te voegen of af te dekken met aarde, maar dat zijn arbeidsintensieve methodes. Behalve dat geven aanstampen en water toevoegen het risico van anaërobe zones. Het is ook mogelijk om de verspreid-as van de mestverspreider te verwijderen en alleen de schuifketting te gebruiken. Er blijft dan meer structuur in de hoop. Bij gebruik van een mestverspreider is het van belang goed op te letten of het luchtige materiaal niet in elkaar zakt en te dicht wordt. Vooral bij nat uitgangsmateriaal kan dit optreden en het is moeilijk weer goed te krijgen. Het is dan beter de mestverspreider niet te gebruiken.  
 afvoer van lek- en regenwater Er moet bij voorkeur een afvoer zijn van lek- en regenwater. Een hoop mag geen 'natte voeten' hebben. Als er geen afvoer mogelijk is moet de hoop zeker niet te nat worden opgezet. Te nat wil zeggen dat bij knijpen in het materiaal er makkelijk vocht uit komt.  
@@ -386,30 +286,12 @@ Incidenteel wordt er op bedrijfsniveau gebruik gemaakt van een overkapping.
 ![](../img/83a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 omzetmachine Gebruik van een speciale omzetmachine is ook mogelijk. Intensief machinaal omzetten kan ook negatief werken. Een natte mest of compost kan na gebruik van de omzetmachine extra inzakken, een wat drogere kan extra warm worden. In beide gevallen kan dit verholpen worden door herhaaldelijk omzetten. Dit moet soms wel twee maal per dag gebeuren, vervolgens om de week en in een periode van 6 weken wel 10 tot 15 keer. Wanneer alleen mest gebruikt wordt gaat dit gepaard met hoge verliezen aan organische stof en stikstof (zie hoofdstuk 4.4). Die verliezen zijn te beperken als meer dan 50% groenafval wordt bijgemengd. Deze methode wordt als CMC methode nog nader beschreven.   
 ![](../img/83b(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **uitbrengen**De nauwkeurigheid van meststrooiers laat in het algemeen vaak te wensen over. Compost met een homogene structuur en samenstelling heeft hier minder last van omdat hij zich fijner laat verdelen. Een breedwerkende meststrooier met verticale strooi-assen verdient de voorkeur.   
 ![](../img/84(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **2. Intensieve compostering op rillen met omzetmachines**  
@@ -428,50 +310,20 @@ Bij getrokken mestomzetters (doorgaans hangen deze in de hef en hebben ze een st
 ![](../img/85a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/85b(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
   
 ![](../img/87b(Small)(1)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/88a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/88b(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **3. Compostering van groencompost**Groencompost wordt op gespecialiseerde bedrijven gemaakt. Een groot aantal organische materialen wordt gebruikt, waarvan berm- en slootmaaisel de belangrijke bestanddelen zijn. Deze maken vaak niet meer dan 30% van het materiaal uit omdat ze te weinig structuurvormende eigenschappen bezitten. Het houtige afval uit groenvoorzieningen moet de nodige structuur geven. Dit afval wordt eerst verkleind met messen die goed composteerbare vezels opleveren of verwerkt tot chips die minder goed composteren. Er zijn ook machines die mengvormen geven.  
@@ -480,62 +332,26 @@ Bij het opzetten van de hoop wordt de verhouding tussen wel- en niet structuurvo
 ![](../img/89(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/90a(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
   
 ![](../img/90b(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/91a(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
   
 ![](../img/91b(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **4. Continue reactors**continue proces Bij continue processen wordt er steeds materiaal toegevoegd en onttrokken in een voortdurend proces. Dat is anders bij de normale compostering waarbij de materialen worden gestort, het proces  
 batch proces eenmalig doorlopen en de plaat weer schoongemaakt (een 'batch proces').Het bekende VAM-compostvat bijvoorbeeld is een kleine uitvoering van de 'continue verticale reactor'. Materialen worden van boven toegevoerd, ondergaan het composteringsproces en worden onderaan verwijderd.Er bestaan 9 meter hoge installaties met hetzelfde principe en een inhoud van 2000 m3. Doorgaans geven hoogten groter dan 3 meter al problemen met de goede uniforme luchtdoorstroming.  
 Als de materialen horizontaal door de reactor worden gevoerd, spreken we van een 'continue horizontale reactor'. De hoogte daarvan is nooit meer dan 2 tot 3 meter. Zuurstof kan zowel geforceerd als door omzetten toegevoerd worden en het proces is goed beheersbaar in zuurstoftoevoer en temperatuur.   
 ![](../img/92(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **5. Wormencompostering**In een normale composthoop zullen vaak gedurende de rijpingsfase wormen gaan leven. Dit is vooral de rode mestworm. Deze soort voelt zich beter thuis in de wat hogere temperaturen en het rijke substraat dan in de bodem.  
@@ -549,12 +365,6 @@ De ideale temperatuur voor E. foetida ligt tussen de 20 en 29°C. Bij te lage te
 ![](../img/93(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **stikstofverlies**Het is niet duidelijk of wormencompostering een lager stikstofverlies geeft. Er is slechts één onderzoek bekend. Hier was het stikstofverlies 50%. Omdat er geen thermofiele fase is, en er dus minder N in de vorm van ammoniak zal verdwijnen, is het aannemelijk dat het verlies vaak duidelijk onder de 50% zal zijn.  
 **ziekteverwekkers** Ook bij wormencompostering verdwijnt een deel van de ziekteverwekkers, ondanks het ontbreken van de thermofiele fase. Dit wordt veroorzaakt door de afwijkende omstandigheden, met name in het wormdarmkanaal. Concurrentie tussen micro-organismen om voedsel speelt mogelijk een rol. Of de reiniging net zo effectief is als bij een compostering met een thermofiele fase, is niet duidelijk. Er zijn systemen ontwikkeld waarbij het uitgangsmateriaal eerst gewoon gecomposteerd wordt en waarbij later, na de temperatuurpiek, wormen worden ingezet.  
 In een Duits onderzoek is de kwaliteit van wormencompost vergeleken met gewone compost. Hierbij is onder meer gekeken naar gehalten en beschikbaarheid van voedingsstoffen, humus en zout. Het bleek dat verschillen tussen wel- en geen wormencompost niet zo groot waren als de verschillen veroorzaakt door de uitgangsmaterialen. Er was geen aantoonbaar verschil in de beschikbaarheid van voedingsstoffen en het vóórkomen van plantenhormoonachtige stoffen. In principe is wormencompost een uitstekende meststof, zij het niet beter dan gewone compost.**6. Anaërobe vergisting**Dit is strikt genomen geen compostering maar een zuurstofloze omzetting. Hierbij wordt gas gevormd met een gehalte van 50 tot 70% methaan. Dit proces vindt in warmere landen ook in moerassen plaats en daarom heet methaan ook wel moerasgas.  
@@ -563,17 +373,13 @@ Vergisten is een vorm van gecontroleerd verbranden, waarbij minder organische st
 ![](../img/95(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
   
 4.3 Opslag mest en compost  
   
-**Inleiding**  
+## Inleiding
+
+  
 Bij de keuze van de juiste opslagmethode voor vaste mest en compost gaat het er vooral om wat de wet toestaat. Hoewel de wetgeving tamelijk eenduidig is wordt in de praktijk soms een streng en soms een soepel beleid gehanteerd. Onderzoek laat zien dat uit vaste mest van goede kwaliteit zeer weinig nutriënten uitspoelen en daar hangt het soepele beleid dan ook mee samen.Vaak is een vloeistofdichte laag verplicht en bij de keuze van de methode spelen financiële en praktische overwegingen een belangrijke rol. Een steeds terugkerende vraag is de wenselijkheid van het afdekken van hopen. Op al deze thema’s gaat dit hoofdstuk in. Eerst op de wetgeving, dan op de verschillende methodieken en tenslotte op het afdekken. Ook wordt een overzicht gepresenteerd van onderzoek naar uitspoeling uit vaste mest, die direct op de grond wordt opgeslagen.  
 **Wetgeving**Er is wettelijk voorgeschreven dat vaste mest op een vloeistofdichte plaat moet worden bewaard. In het besluit melkrundveebedrijven (Staatsblad van 18 juni 1991) staat de volgende formulering (besluit 324):  
 "Art. 1.1.7. De opslag van vaste mest buiten de stal moet geschiedenmestdichte plaat op een mestdichte plaat, die is voorzien van een opstaande rand of een gelijkwaardige voorziening; de stapeling moet zodanig geschieden dat uitzakkend vocht niet van de mestplaat kan vloeien. Dit vocht moet door middel van een gesloten, mestdichte riolering worden afgevoerd naar een mestdichte opslagruimte."  
@@ -598,20 +404,8 @@ Doorlatendheid diverse afdichtingsmaterialenbeton 0-13 m/secHDPE folie 10-12 - 1
 ![](../img/100a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/100b(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **dikte laag**Uit bovenstaande tabel valt af te lezen dat een verdichte kleilaag 100 maal zo dik moet zijn als plastic folie om eenzelfde afdichting te krijgen. In de praktijk is een verdichte kleilaag van ongeveer 20 cm dikte voldoende om aan het criterium van vloeistofdichtheid te voldoen. Een dikkere laag is natuurlijk wel minder gevoelig voor beschadiging.  
@@ -620,12 +414,6 @@ Naast de basiskosten komen bij gebruik van beton vaak nog de kosten van een opst
 klei, leem en bentoniet/grondmengsels Het voordeel van vloeistofdichte lagen waarbij gebruik wordt gemaakt van kleihoudende materialen is dat ze goedkoper zijn dan beton en dat de kwaliteit niet afneemt na verloop van tijd.Er is ook een belangrijk nadeel: het berijden van de vloeistofdichte laag is niet of slechts beperkt mogelijk.  
 Bij het kiezen van een ondergrond moet onderscheid worden gemaakt tussen gronden met meer dan 35% lutum (ongeveer 60% afslibbaar) en gronden met minder dan 35% lutum. Bij meer dan 35% lutum kan direct van de aanwezige grond gebruik worden gemaakt. Bij lichtere gronden moet bentoniet met de grond gemengd worden.Om een wettelijk toegestane situatie te krijgen kan de volgende werkwijze worden gevolgd:Ga uit van een niet te natte en niet te droge zavel of klei. Optimaal is de vochtigheid die vereist is voor het ruggenfrezen van aardappels.   
 ![](../img/103(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 Breng zoveel natriumbentoniet (zwelklei) gelijkmatig aan de oppervlakte aan dat na menging van deze bentoniet met een 20 tot 25 cm dikke kleilaag een bentonietgehalte van 6 gewichtsprocenten ontstaat. Klei in natuurlijke ligging weegt 1,2 tot 1,5 kg per liter. Meng met een landbouwfrees met zeer lage rijsnelheid en zeer hoog toerental de bentoniet door de bovenste 20 tot 25 cm. Herhaal dit enige malen. Er mogen geen kluiten overblijven. Wals vervolgens de laag aan.  
@@ -643,20 +431,8 @@ Onderzoek naar uitspoeling uit opgeslagen vaste mest en compost is in Nederland 
 ![](../img/106(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/106bb(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 Als bewaren van mest en niet het composteren hoofddoel is, dan is het dus wenselijk tamelijk anaëroob te werken. Hiermee kan bij het opzetten van de hoop rekening worden gehouden. Verder is beperking van het strogebruik van belang om verliezen bij bewaring te voorkomen. Aan de temperatuur is makkelijk af te lezen of dit gelukt is: wordt deze hoog dan is er geen sprake van een anaërobe situatie.  
@@ -664,20 +440,8 @@ Als bewaren van mest en niet het composteren hoofddoel is, dan is het dus wensel
 ![](../img/107a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/108(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
   
@@ -689,32 +453,14 @@ Onderzoek met varkensmest geeft inzicht in de invloed van de hoeveelheid stro di
 ![](../img/109a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 Uit de resultaten blijkt dat een relatief nattere compost de minste verliezen kent. De mest blijft dus beter bewaard. Bij meer stro neemt het verlies sterk toe en ontstaat er vooral meer nitraat-stikstof.  
 Bij meer stro neemt het C/N verhouding toe en in dit geval het totale N verlies niet. Dat is geheel in overeenstemming met wat bij de bewaring van mest is vermeld. Bij een C/N verhouding van 30 of hoger zijn er nauwelijks meer verliezen aan stikstof.  
 **omzetten**Omzetten heeft invloed op de verliezen.25 Tabel 4.4.5 laat de verliezen zien van varkensmest bij niet omzetten en na 3 maal omzetten.   
 ![](../img/109b(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/110a(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 Niet omzetten geeft vooral emissies van de broeikasgassen N2O en CH4 en ook het grootste verlies aan totaal stikstof.  
@@ -735,20 +481,8 @@ Voor uitgebreide informatie over EM is het volgende boek aan te raden: Effectiev
 ![](../img/114ham(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/tabel_bokashi-1920w.JPG)     
-
-
-
-
-
-
 
 
 In 2016 is Bokashi door de Bedrijfsvereniging Organische Reststoffen (BVOR) geevalueerd.Opvallend zijn de hoge kosten (bijna 10 euro per m3) van de hulpmiddelen die moeten worden toegevoegd. Onderzoek dat uitwijst dat dit de moeite waard is, is nog niet voorhanden, maar er lopen diverse experimenten.  
@@ -759,10 +493,6 @@ Het Louis Bolk Instituut heeft in 2015 onderzoek gedaan naar het verschil tussen
 Bereiden van Bokashi uit bladafval bij Leusden in een plastic luchtdichte tunnel, oktober 2016. Of dit wettelijk toegestaan is, is nog niet duidelijk, zie hieronder
 
  
-
-
-
-
 
 **Op 14 februari 2017 publiceerde de BVOR onderstaan de tekst (vet) met kritiek op Bokashi.**  
 **De Bokashi-hype ontrafelt door de BVOR**  
@@ -780,43 +510,21 @@ In de praktijk blijkt dat bij droog natuurhooi (ongeveer 80% DS) en bij weinig o
 ![](../img/117(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/118a(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
   
 ![](../img/118b(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/119(Small)-1920w.jpg)     
 
 
+Wat opvalt bij alle drie de composten is dat de C/N verhouding 30 of hoger is en dat er op korte termijn geen stikstoflevering te verwachten is. Omdat de groencompost van alleen bermgras en snippers een laag fosfaatgehalte van 2,3 kg per ton heeft, zijn er binnen MINAS ruime toepassingsmogelijkheden. Door het mengen met de strofiltermest neemt het fosfaatgehalte toe en daarmee de gebruiksmogelijkheden binnen MINAS af. Dit lijkt ongunstig, maar de compost is veel rijker aan voedingsstoffen en waarschijnlijk ook rijker aan makkelijk verteerbare organische stof. De positieve invloed op bodemleven, bodemstructuur en ziektewerendheid van de bodem is daarom mogelijk groter.**4.7 Overleven van ziektekiemen tijdens de compostering**## Inleiding
 
-
-
-
-
-
-Wat opvalt bij alle drie de composten is dat de C/N verhouding 30 of hoger is en dat er op korte termijn geen stikstoflevering te verwachten is. Omdat de groencompost van alleen bermgras en snippers een laag fosfaatgehalte van 2,3 kg per ton heeft, zijn er binnen MINAS ruime toepassingsmogelijkheden. Door het mengen met de strofiltermest neemt het fosfaatgehalte toe en daarmee de gebruiksmogelijkheden binnen MINAS af. Dit lijkt ongunstig, maar de compost is veel rijker aan voedingsstoffen en waarschijnlijk ook rijker aan makkelijk verteerbare organische stof. De positieve invloed op bodemleven, bodemstructuur en ziektewerendheid van de bodem is daarom mogelijk groter.**4.7 Overleven van ziektekiemen tijdens de compostering****Inleiding**  
+  
 In mest en groenafval kunnen zich ziekteverwekkers bevinden. Tijdens het composteren zullen de meeste ziekteverwekkers het loodje leggen of geïnactiveerd worden. In welke mate hangt af van de omstandigheden: niet alleen de temperatuur, maar ook de mate van anaërobie en de vochtigheid spelen mee. Ook de gebruikte mechanisatie en de manier van werken van de composteerder hebben invloed.In deze paragraaf wordt vooral gekeken naar ziekteverwekkers waar planten last van hebben en die in de bodem voorkomen: schimmels, bacteriën, virussen en aaltjes. In de volgende paragraaf worden de voor mensen vervelende ziekteverwekkers bekeken.  
 **analyse**Het is vaak lastig om door een simpele test de aanwezigheid van ziekteverwekkers in het eindproduct van de compostering aan te tonen. Dat komt omdat je lage concentraties al moet opsporen. Daarom zijn er gespecialiseerde bedrijven, zoals het Bedrijfslaboratorium voor Grond- en Gewasonderzoek (BLGG) in Oosterbeek, die bijvoorbeeld testen uitvoeren op aaltjes, virussen en schimmels in compost.  
 **toetsplant**Een andere test om besmetting aan te tonen is een gevoelige plant te laten groeien in een mengsel van compost en steriele grond. Dit kan sneller tot resultaat leiden dan het daadwerkelijk opsporen van de organismen. Het is belangrijk dan de plant te kiezen die later geteeld zal worden. Op het moment worden komkommer, bloemkool en rode biet veel gebruikt.  
@@ -826,20 +534,8 @@ Om een idee te krijgen van de overlevingstemperaturen van verschillende schadeli
 ![](../img/120(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/121(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **Overleven van aaltjes**Proefresultaten tonen aan dat aaltjes het composteerproces vrijwel nooit overleven. Dit geldt ook voor de cyste-vormende soorten en de wortelknobbelaaltjes die in de bodem doorgaans veel droogte en chemicaliën kunnen weerstaan.De weinige studies naar het overleven van aaltjes tijdens composteren, laten zien dat een goed bereide compost met een warmte- en een rijpingsfase vrij is van plantenziekten veroorzakende aaltjes.  
@@ -851,20 +547,8 @@ Door aaltjes overgedragen bodemvirussenEr is van ongeveer 20 plantenvirussen bek
 ![](../img/122a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/122b(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 Het is mogelijk dat virushoudende compost wordt toegediend aan een bodem die besmet is met virus-overbrengende aaltjes. De aaltjessoorten die virussen aan planten kunnen overdragen zijn doorgaans parasitair. Die voeden zich met levende plantenwortels en niet met micro-organismen of andere elementen uit de compost. Deze aaltjes doorboren de celwand van de wortelcellen met een ‘stylet’, waarna ze zich tegoed kunnen doen aan het celvocht. Als het aaltje zich verplaatst wordt de stylet ingetrokken en die komt daarbij niet in aanraking met de composthoudende grond. Het is daarom onwaarschijnlijk dat op deze manier, via besmetting door compost en grond, een plant besmet wordt.**Door schimmels overgedragen virussen**De schimmels die als drager functioneren kunnen zich alleen vermeerderen als ze parasitair leven op planten. In de bodem vormen ze sporen en overleven op die manier de ongunstige condities.  
@@ -872,20 +556,8 @@ Het is mogelijk dat virushoudende compost wordt toegediend aan een bodem die bes
 ![](../img/123a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/123b(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **Schimmels**  
@@ -904,7 +576,9 @@ Gebaseerd op: G.J. Bollen en D. Volker in: The science of composting : European 
 Wanneer bij de compostering een temperatuur van 60°C bereikt wordt hebben onkruidzaden hun kiemkracht verloren ( , , , ). Ook bij lagere temperaturen kunnen onkruidzaden hun kiemkracht verliezen, afhankelijk af van de composteringsduur, het vochtgehalte, het aantal keren dat de hoop wordt omgezet, de aanwezigheid van giftige stoffen voor planten en van het soort onkruid.In een onderzoek van Eghball verloren vrijwel alle onkruidzaden hun kiemkracht, als ze 3 maanden in stalmest bij een temperatuur van maximaal 45°C verbleven.Bij een temperatuur van 70ºC waren in 1 week alle zaden gedood. In nattere mest gaat de kiemkracht sneller verloren dan in droge, ook als daar de temperatuur hoger is. Eghball vond kleine verschillen tussen de soorten onkruid. Vaker omzetten bleek het onkruidzaad sneller te doden. Het toevoegen van een waterextract van een 3 weken oude groencompost laat de zaden hun kiemkracht sneller verliezen, aldus Shiralipour die onkruidzaden na drie uur bij 60°C in compost onderzocht. Hieruit werd geconcludeerd dat giftige stoffen voor planten ook een rol spelen.  
 De meeste zekerheid over het verlies aan kiemkracht wordt verkregen wanneer de temperatuur de 60°C haalt. Dit hoeft maar kort het geval te zijn, bijvoorbeeld enkele dagen. Deze temperatuur kan bij een compostering met de juiste uitgangsmaterialen en de juiste techniek bereikt worden. Dat geldt niet voor de buitenkant van de hoop. Deze blijft koeler en door omzetten moet ervoor gezorgd worden dat alle materiaal een hoge temperatuur bereikt. Ook een afdekking met isolerend materiaal kan helpen een voldoende hoge temperatuur te bereiken.  
 **4.9 Veiligheid van voedsel na gebruik van mest en compost**  
-**Inleiding**Voedselveiligheid is een aandachtspunt bij de productie en verwerking van voedselproducten. Dierlijke mest en plantaardig afval afkomstig uit industrie of huishoudens worden in de landbouw veelvuldig gebruikt. In dit hoofdstuk wordt gekeken welke gezondheidsrisico’s hiermee samenhangen en hoe deze beperkt kunnen worden. Ook zal kort worden ingegaan op gezondheidsrisico’s voor werknemers van composteerbedrijven.  
+## Inleiding
+
+Voedselveiligheid is een aandachtspunt bij de productie en verwerking van voedselproducten. Dierlijke mest en plantaardig afval afkomstig uit industrie of huishoudens worden in de landbouw veelvuldig gebruikt. In dit hoofdstuk wordt gekeken welke gezondheidsrisico’s hiermee samenhangen en hoe deze beperkt kunnen worden. Ook zal kort worden ingegaan op gezondheidsrisico’s voor werknemers van composteerbedrijven.  
 **Soorten pathogenen**  
 **primaire pathogenen**Een probleem kunnen vormen bacteriën, virussen, parasieten, cysten, eitjes en prionen, die met het uitgangsmateriaal meekomen. Dit is een potentieel probleem bij rioolslib en mest. Sommige bacteriën kunnen zich ook in de compost vermeerderen.  
 **secondaire pathogenen**Dit zijn pathogenen die tijdens bewaring en compostering ontstaan. Het betreft vooral schimmels (bijvoorbeeld Aspergillus fumigatus) en actinomyceten.  
@@ -921,22 +595,10 @@ Andere ziekteverwekkers:VirussenPrionen
 ![](../img/132(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 De bacterie kan meerdere weken overleven in water van 5°C. Hij kan niet tegen droogte of teveel zuurstof, maar geeft de voorkeur aan wat meer CO2 dan in de buitenlucht voorkomt. Hij kan niet zo goed tegen verhitting. Zo'n 6 seconden op 60 °C geeft al een decimering.De beste weerstand van de bacterie is in de buurt van pH 7.  
 Samenvattend: bij een goede compostering op 50°C of meer mag er eigenlijk geen probleem optreden.  
 **Salmonella spp.** Salmonella is een heel bekende en vaak voorkomende besmetting. Het is een bacterie die voorkomt in de ingewanden van mensen en dieren. Buiten een gastheer kan hij echter lang overleven en blijven groeien, als de omstandigheden het toelaten. Enkele voorbeelden:   
 ![](../img/132b%28Small%29%20%281%29-1920w.jpg)     
-
-
-
-
-
-
 
 
 Lichte verhitting werkt voldoende: 30 minuten pasteuriseren op meer dan 63°C is volstrekt dodelijk. Bij experimenten met S. typhimurium inkippenwaswater bleek dat de D-waarde (de tijd die nodig is om de populatie te decimeren) bij 52°C varieerde van minder dan een minuut tot maximaal 35 minuten, afhankelijk van de pH en het zoutgehalte van het water.  
@@ -945,30 +607,12 @@ Er zijn twee bronnen van besmetting: producten van dierlijke herkomst en product
 ![](../img/133a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/134a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **Listeria monocytogenes**Behalve mensen kunnen ook veel soorten dieren besmet raken met Listeria monocytogenes. Bij de dieren gaat het om herkauwers, vissen en vogels. Besmettingsbronnen zijn bijvoorbeeld kuilvoer voor koeien en melk voor mensen. Een belangrijke Listeria-uitbraak betrof een besmetting van 50 mensen in Canada. Ze hadden koolsalade gegeten, die bemest was met schapenmest uit een kudde, waarvan enkele dieren gestorven waren door listeriosis.Een andere besmetting kwam waarschijnlijk voort uit besmette rauwe groenten. Ook is bekend dat gepasteuriseerde melk van een geïnfecteerde koeienstapel deze ziekte kan veroorzaken. Blijkbaar is normaal pasteuriseren niet altijd genoeg. Ook is besmetting bekend via zachte kaas of niet genoeg verhit vlees.De mortaliteit bij mensen kan wel 30% bedragen. De meeste mensen zijn resistent en problemen ontstaan bij mensen met verminderde afweer en bij zwangere vrouwen.   
 ![](../img/134b(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 Listeria kan relatief minder goed tegen UV-licht, maar wel goed tegen droogte. Het is niet onwaarschijnlijk dat het goed kan overleven op gewassen in het veld.43 De bacterie kan meer dan 500 dagen overleven in mestflatten en 700 dagen in een vochtige bodem.  
@@ -976,12 +620,6 @@ Bij een temperatuur van 50°C wordt in verschillende substraten (koolsap, vlees)
 Ter voorkomen van besmetting is het van belang de graskuil zó te maken dat deze snel zuur wordt. Hiermee wordt voorkomen dat Listeria zich in de kuil vermeerdert. De kans dat deze ziektekiem in de melk - en via ongepasteuriseerde melk in de zachte kaas - of in de mest terecht komt wordt dan kleiner.43  
 **E. coli.**Deze darmbacterie komt in verse mest algemeen voor en wordt zelfs als een soort indicator gebruikt voor de hygiëne tijdens het composteren. Lang niet alle vormen zijn ziekteverwekkend. Problemen kunnen optreden met de E. coli variant O157:H7, die een ernstig ziektebeeld kan geven. Over het algemeen kan deze bacterie minder goed tegen hitte dan Salmonella.   
 ![](../img/135(Small)-e817f871-1920w.jpg)     
-
-
-
-
-
-
 
 
 Bij 50°C is de D-waarde ongeveer 30 minuten. Bij 60°C ongeveer 1 minuut. Bij een goed uitgevoerde compostering mag E. coli geen probleem vormen. 43Toch is er na 70 dagen composteren nog levende E. coli in rundermest aangetroffen.Er is een groeiend bewijs dat E. coli O157:H7 kan overleven op sla en komkommer en bij de juiste omstandigheden van temperatuur en atmosfeer zelfs in aantal kan vermeerderen. 43  
@@ -1008,22 +646,10 @@ In principe kan het gebruik van bloed- en beendermeel kans geven op besmetting v
 ![](../img/143(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 Zoals uit tabel 5.1.1 blijkt kan de hoeveelheid minerale stikstof variëren van zeer laag tot zeer hoog. Bij de toepassing moet hiermee rekening worden gehouden. Dit behandelen we in de hoofdstukken rekenregels en simulatiemodellen in hoofdstuk 7.  
 **organische stikstof**Omdat de meeste stikstof vaak in organische vorm aanwezig is, is het tempo waarin deze vrijkomt van belang. Een probleem hierbij is dat de organische verbindingen waarin deze stikstof voorkomt zeer uiteenlopend van karakter zijn. Soms zijn ze makkelijk afbreekbaar en soms zeer stabiel. Vooral de stabielere verbindingen zullen bij regelmatig gebruik een vaste stikstofbron van de bodem worden en zo bijdragen aan de ‘oude kracht’. Met simulatiemodellen is hier inzicht in te krijgen (Hoofdstuk 7.2).  
 **experimenten**Ook zijn er diverse pogingen gedaan om dit inzicht met praktische experimenten te krijgen:• Veldproeven hebben geleid tot het onderscheid tussen Nm, Ne en Nr. Nm is de direct beschikbare minerale stikstof, Ne is de stikstof die in het eerste jaar door mineralisatie van de organische stikstof vrijkomt en Nr is de stikstof die in volgende jaren vrijkomt. De benodigde veldproeven zijn evenwel tijdrovend en kostbaar en een individueel monster is niet eenvoudig te beoordelen.• Incubatieproeven, dat wil zeggen het mengen van de mest of compost met grond en vervolgens meten hoeveel stikstof er vrijkomt, hebben als nadeel dat ze kostbaar zijn en de situatie in de grond niet goed nabootsen.• Extractiemethoden hebben dit laatste nadeel nog sterker, maar zijn wel eenvoudig en snel. Diverse extractiemethoden zijn in het verleden uitgeprobeerd, maar geen ervan is goed onderzocht. De praktijk kan er dus niet voldoende op vertrouwen.• Een veelbelovende methode is het meten van oplosbare stikstof in het 0,01 M CaCl2 extract. Over deze methode komt steeds meer onderzoek beschikbaar. Bij diverse organische materialen die op het proefbedrijf voor de bollenteelt in St. Maartensbrug werden toegepast gaf deze methode een goede correlatie tussen de hoeveelheid oplosbare stikstof in het extract en de gemeten mineralisatie (Fig. 5.1.1).   
 ![](../img/144(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 De CaCl2 methode toegepast op een aantal mest- en compostsoorten binnne het project "Mest als Kans" gaf opvallende resultaten (tabel 5.1.2). Zo is het te verwachten dat binnen GFT-composten er grote verschillen in stikstoflevering bestaan.  
@@ -1032,70 +658,28 @@ De CaCl2 methode toegepast op een aantal mest- en compostsoorten binnne het proj
 ![](../img/146a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **kali**Algemeen wordt aangenomen dat de kali in mest en compost voor 100% beschikbaar is. Toch kan ook hier compostering tot een zekere binding leiden (tabel 5.1.4).   
 ![](../img/146b(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **sporenelementen**Mest en compost vinden hun oorsprong in planten en bevatten daarom ook de sporenelementen die planten nodig hebben. Met mest en compost is daardoor de kans op een evenwichtige bemesting groter dan bij gebruik van minerale mest. Toch is weinig bekend over het belang van sporenelementen in mest en compost. Wel is er bekend dat bepaalde organische verbindingen (chelaten) in compost de sporenementen binden en daarmee beter beschikbaar maken voor de plant .Het al wat oudere overzicht in tabel 5.1.5 laat zien dat de hoeveelheid sporenelementen in mest of compost landbouwkundig van belang zijn. Een matige bemesting met 10 ton stalmest per ha verzorgt geheel of voor een belangrijk deel de behoefte aan sporenelementen.   
 ![](../img/146c(Small)(1)-1920w.jpg)     
 
 
-
-
-
-
-
-
 Over sporenelementen in compost is weinig informatie bekend. Tabel 5.1.6 laat zien dat de gehalten van betekenis zijn en door vervuiling bij koper en zink zelfs zeer hoog kunnen zijn   
 ![](../img/147a(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 5.2 Opbouw van het organische stofgehalte door mest en compostEr is nog geen eenvoudige, algemeen aanvaarde methode ontwikkeld die laat zien of een mest of compost in de grond snel of juist traag verdwijnt. , Snelle afbraak betekent een geringe bijdrage aan het organische stofgehalte, trage afbraak een relatief grote. In de literatuur zijn tabellen te vinden waarin het percentage effectieve organische stof van verschillende meststoffen staat aangegeven (zie tabel 5.2.1). Deze cijfers zijn aannames en berusten slechts zeer ten dele op metingen. In de praktijk blijken de verschillen veel groter dan nu wordt aangenomen.   
 ![](../img/148(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 In 2016 is er door het NMI in opdracht van de BVOR bij 3 monsters GFT-compost en 3 monsters groencompost onderzoek gedaan naar het percentage organische stof dat na een jaar nog over is. Tevens werd nieuwe literatuur geanalyseerd. De conclusie was dat 90% van de organische stof nog over is na een jaar. Dit onderzoek op zandgrond komst overeen met de conclusie uit 2001 van tabel 5.2.1. waar ook kalkrijke klei met een mogelijk hogere afbraaksnelheid bij betrokken was. De conclusie blijft dat bij GFT-compost en groencompost toch wel heel weinig voedsel voor het bodemleven beschikbaar komt. Hieronder twee tabellen uit de NMI studie.HC is de humificatiecoefficient, het percentage organische stof na 1 jaar nog over.   
 ![](../img/gft_en_groencompost_custom-1920w.JPG)     
 
 
-
-
-
-
-
-
   
 ![](../img/literatuur-1920w.JPG)     
-
-
-
-
-
-
 
 
 Koolzuurproductie na toevoegen van mest of compost aan de bodem  
@@ -1104,22 +688,10 @@ De opbouw van organische stof kan zo meer in detail beoordeeld worden. De result
 ![](../img/149a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 Bij kippenmest gaat in 4 weken bijna een kwart van de koolstof verloren. Deze mest zal beperkt aan organische stofopbouw bijdragen. Bij boomschorscompost is het tegenovergestelde het geval. Bij de mate van opbouw van organische stof door een mest of compost spelen het gehalte aan stikstof en fosfor en de composteringsduur een belangrijke rol. Een rijkere mest (met veel stikstof en fosfor) breekt sneller af dan een armere mest. Na langer composteren blijft een meer stabiele organische stof over. Om een indruk te krijgen van de afbreekbaarheid van een mest of compost kan gebruik worden gemaakt van een eenvoudige doe-het-zelf- test: de Solvita test (Woodsend). Zie hoofdstuk 9 voor adressen. **5.3 Mest en compost: overige eigenschappen en meerwaarde**Mest en compost leveren voedingsstoffen en organische stof. Hun werking is echter zelden uitsluitend hieruit te verklaren. Er zijn diversemeerwaarde extra effecten die met ‘meerwaarde’ worden aangeduid. Deze kan een belangrijke reden zijn om voor mest of compost te kiezen boven kunstmest. Verschillende factoren verklaren de meerwaarde. Te denken valt aan een invloed van mest en compost op:• de bodemstructuur als gevolg van slijmstoffen van bacteriën• de ziektewerendheid van de grond• de wijze van vrijkomen van voedingsstoffen• het wortelstelsel• de productkwaliteit (ziektegevoeligheid gewas, voedingskwaliteit)  
 Een overzicht van Nederlands onderzoek naar de meerwaarde van mest geeft de la Lande Cremer. De meerwaarde wordt hier ‘resteffect’ genoemd. Een overzicht van buitenlands onderzoek geven Dick en McCoy .  
 **meerwaarde stalmest**We geven nu een voorbeeld van meerwaarde aan de hand van stalmest. Tussen 1972 en 1979 werden op een Veluwse zandgrond verschillende hoeveelheden stalmest toegepast op snijmaïs. Tevens werden stikstoftrappen aangelegd. De resultaten zijn afgebeeld in de bijgaande figuur. Het blijkt dat het onmogelijk is om met alleen kunstmest een zelfde opbrengst te halen als met een combinatie van kunstmest en stalmest. Laatstgenoemde heeft een invloed op grond en gewas die niet alleen door de werking van stikstof, fosfor of kalium te verklaren is en ook niet uit de zeer geringe toename van het organische stofgehalte door de mest zelf (figuur 5.3.1).   
 ![](../img/150(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **meerwaarde GFT**Ook onderzoek naar GFT illustreert het bestaan van de meerwaarde. Bij spinazie op zavelgrond gaf een eenmalige gift van 16 ton GFT per ha een opbrengstverhoging van meer dan 25% (figuur 5.3.2 ). Ook met hogere kunstmestgiften konden de opbrengsten door de GFT niet behaald worden. Het effect trad met dezelfde GFT bij prei op zand beperkt op en bij aardappel en suikerbiet op zavel in het geheel niet.  
@@ -1129,13 +701,9 @@ Voorbeelden van een aantal in 1999 onderzochte mestsoorten.
 ![](../img/152(Small)-1920w.jpg)     
 
 
+**5.4 Ziektewerendheid van grond bij gebruik van mest en compost**## Inleiding
 
-
-
-
-
-
-**5.4 Ziektewerendheid van grond bij gebruik van mest en compost****Inleiding**In de Verenigde Staten is al veel onderzoek gedaan naar de ziekteon-derdrukkende werking van compost. Deze werking is toevallig ontdekt in de jaren zeventig, bij het verwerken van afvalproducten uit de houtindustrie in potgrond. Het bleek toen commercieel en milieutechnisch interessant om de turf, die gebruikt wordt in potgrond, gedeeltelijk te vervangen door gecomposteerde boomschors.Vanwege de ziektewerendheid van dit product kon aanzienlijk bespaard worden op het gebruik van bestrijdingsmiddelen tegen met name bodemschimmels. Ook andere soorten compost (onder meer gecomposteerde stalmest) zijn sindsdien onderzocht op bruikbaarheid voor ziekteonderdrukking, met verschillende effecten op de ziektewerendheid.**uitgevoerd onderzoek** Het meeste onderzoek was en is gericht op het directe ziekteonderdrukkende effect in potgrond en grondmengels voor opkweek. In deze proeven bestaat minstens 10% van het totaalvolume uit compost en dat mengsel wordt vergeleken met een vrijwel steriel turf-potgrondmengsel of een ander medium. Een dergelijke opzet is niet helemaal te vergelijken met de praktijk van de grondgebonden teelten want daar wordt compost in een lagere dose¬ring toegepast, is de uitgangsituatie niet steriel en spelen ook langere termijn effecten een rol. Met name van de laatste is veel minder bekend en vaak worden de resultaten van experimenten in het laboratorium of op proefveldjes te gemakkelijk geëxtrapoleerd naar veldomstandigheden. Daarbij is het moeilijk het directe effect van de ziekteonderdrukking in het veld te scheiden van andere effecten van compost, zoals de voedingswaarde, de invloed op de bodemstructuur en andere eigenschappen die ook voor een gezondere plant kunnen zorgen.  
+In de Verenigde Staten is al veel onderzoek gedaan naar de ziekteon-derdrukkende werking van compost. Deze werking is toevallig ontdekt in de jaren zeventig, bij het verwerken van afvalproducten uit de houtindustrie in potgrond. Het bleek toen commercieel en milieutechnisch interessant om de turf, die gebruikt wordt in potgrond, gedeeltelijk te vervangen door gecomposteerde boomschors.Vanwege de ziektewerendheid van dit product kon aanzienlijk bespaard worden op het gebruik van bestrijdingsmiddelen tegen met name bodemschimmels. Ook andere soorten compost (onder meer gecomposteerde stalmest) zijn sindsdien onderzocht op bruikbaarheid voor ziekteonderdrukking, met verschillende effecten op de ziektewerendheid.**uitgevoerd onderzoek** Het meeste onderzoek was en is gericht op het directe ziekteonderdrukkende effect in potgrond en grondmengels voor opkweek. In deze proeven bestaat minstens 10% van het totaalvolume uit compost en dat mengsel wordt vergeleken met een vrijwel steriel turf-potgrondmengsel of een ander medium. Een dergelijke opzet is niet helemaal te vergelijken met de praktijk van de grondgebonden teelten want daar wordt compost in een lagere dose¬ring toegepast, is de uitgangsituatie niet steriel en spelen ook langere termijn effecten een rol. Met name van de laatste is veel minder bekend en vaak worden de resultaten van experimenten in het laboratorium of op proefveldjes te gemakkelijk geëxtrapoleerd naar veldomstandigheden. Daarbij is het moeilijk het directe effect van de ziekteonderdrukking in het veld te scheiden van andere effecten van compost, zoals de voedingswaarde, de invloed op de bodemstructuur en andere eigenschappen die ook voor een gezondere plant kunnen zorgen.  
 **Nederlands onderzoek**Onderzoek onder specifiek Nederlandse omstandigheden heeft nog maar sporadisch plaatsgevonden. Door Plant Research International (Wageningen-UR) wordt onder meer gekeken naar de invloed van compost, mest en andere bodemtoevoegingen op onderdrukking van bodemziekten, zoals aaltjes of Rhizoctonia solani in de bloembollenteelt. Bij het LBO (Laboratorium voor Bloembollen Onderzoek, WUR) in Lisse wordt gekeken naar de invloed van composttoediening op Pythium. De leerstoelgroep Biologische Bedrijfssystemen van WUR is bezig met het ontwikkelen van een bio-toets voor ziektewerendheid.  
 **compostextracten**In laboratoriumproeven is de werking aangetoond van compostaftreksels als ziektebestrijder. Mogelijk heeft dit een toekomst als alternatief biologisch bestrijdings/plantversterkingsmiddel. Deze toepassing wordt in dit hoofdstuk niet behandeld omdat er nog te weinig ervaring is met toepassing op praktijkbedrijven. 19  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**Onderzoeksobjecten**  
@@ -1145,22 +713,10 @@ Oorspronkelijk is vooral veel aandacht besteed aan schorscompost. Later zijn all
 ![](../img/154(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **Mechanismen bij ziekteonderdrukking:**  
 Er zijn meerdere oorzaken mogelijk waarom een mest of compost ziektewerend is:• voedselconcurrentie. Het microbiële leven uit de compost gebruikt hetzelfde voedsel als de ziekteverwekkers, waardoor er voor de laatsten minder overblijft.• onderdrukken geur. De sporen van schadelijke schimmels worden minder snel geac¬tiveerd door uitscheidingen van de wortels. Aaltjes, die de geur van worteluitscheidingen 'ruiken', kunnen de wortel minder goed vinden omdat geurstoffen geabsorbeerd worden door de organische stof uit de compost. Een bekend voorbeeld is het Trichodorusaaltje.• parasitisme. Ziekteverwekkers worden geparasiteerd door compostorganismen.• antistoffen. Compostorganismen produceren stoffen die op ziekteverwekkers remmend werken.• weerstandsverhoging. De plant groeit door het gebruik van mest of compost evenwichtiger en krijgt meer weerstand tegen ziekten. Dit is een aan-uit mechanisme dat door een 'trigger', in dit geval een rijk bodemleven, geactiveerd wordt. De plant komt in een staat van verhoogde afweer, hetgeen kan worden aangetoond door enzymanalyses en door proeven waarbij verschillende wortels van dezelfde plant in verschillende omgevingen geplaatst worden. Mogelijk is dit mecha¬nisme gedeeltelijk ook verantwoordelijk voor de werking van compostaftreksels.• milieuverandering. Door verandering van de zuurgraad en de vochthuishouding na toediening van mest of compost worden de omstandigheden voor de ziekteverwekker minder gunstig..**algemeen of specifiek**Bij ziekteonderdrukking kan er sprake zijn van algemene of specifieke ziektewerendheid. Algemene ziektewerendheid is gericht tegen een brede groep van ziekteverwekkers en wordt veroorzaakt door de totale microbiële bodemflora. Specifieke ziektewerendheid is gericht tegen een of enkele verwante ziekteverwekkers (een soort of groep van micro-organismen). Dit betekent dat verschillende composten en bodems, die dezelfde samenstelling hebben en dezelfde behandeling ondergaan hebben, toch ver¬schillende ziekteonderdrukking op een bepaalde ziekteverwekker te zien kunnen geven.  
 **Onderzoeksresultaten**In de VS komt Hoitink tot duidelijke resultaten bij de ziekteonderdrukkende wer¬king van compost uit de schors van grove dennen (zie figuur 5.4.2).   
 ![](../img/156(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 In afbeelding 5.4.2 zijn wortels van poinsettia's in verschillende (geïnfecteerde) opkweekmengels te zien. De bovenste rij is opgekweekt in turfpotgrond zonder ziektewerende eigenschappen, de middelste rij in turfpotgrond met ziektewerende eigenschappen en voor de onderste rij is gecomposteerde schors gebruikt.  
@@ -1171,24 +727,12 @@ In afbeelding 5.4.2 zijn wortels van poinsettia's in verschillende (geïnfecteer
 ![](../img/157(Small)-41627920-1920w.jpg)     
 
 
-
-
-
-
-
-
 caaskop testtekst 2018 **rijpingsperiode**Bij gebruik van compost in potgrond is niet alleen de absolute rijpheid, maar ook de rijpingsperiode na de temperatuurpiek van belang. Door die piek worden niet alleen ziektekiemen, maar ook de meeste andere micro-organismen gedood. De rijpingsperiode moet een paar weken duren, zodat de compost weer gekoloniseerd is met ziektewerend leven.  
 **tijdstip toediening**Dat verse compost eerder ziektes zal veroorzaken dan onderdruk¬ken is met name aangetoond in groeimedia. De werking van compost op het land is onder andere afhankelijk van de tijd tussen toediening van compost en zaaien. Hoe langer deze periode hoe meer kans de compost heeft om zich 'in te werken'. Dit is met name van belang om schade van snel koloniserende bodem ziekteverwekkers (zoals Rhizoctonia solani) te voorkomen. De tijd tussen toediening en zaai zal twee tot vijf maanden moeten bedragen om schade ten gevolge van Rhizoctonia solani te voorkomen, zo bleek uit onderzoek van G. Dijst in Wageningen.57  
 **antagonisten**Sommige bodemziekten hebben specifieke tegenwerkers (antagonisten) nodig. Van Rhizoctonia solani is bekend dat par¬tijen van dezelfde soort compost nogal kunnen verschillen in hun ziekteonderdrukkende werking. Sommige auteurs schrijven dit toe aan het toeval¬lig voorkomen van specifieke soorten bacteriën en schimmels. Voorbeelden zijn Bacillus subtillus, die in GFT een gifstof produceert en een Trichoderma variant in schorscompost die parasiteert op de sporen van Rhizoctonia.56  
 Anderen weerspreken dit specifieke antagonisme tegen Rhizoctonia, onder verwijzing naar bodemziekten als Pythium en Rhizoctonia die goed beperkt kunnen worden door het stimuleren van het algemene antagonisme. Dat kan door met geschikte composten of bodemverrijkers de natuurlijke ziektewerendheid van gronden te verbeteren.57  
 **enten**Compost kan in principe met antagonisten geënt worden. Een procédé hiervoor is gepatenteerd. De ervaringen ermee zijn wisselend. Geënt schorscompost dat rechtstreeks uit het warme deel van de composthoop komt blijkt bijvoorbeeld nog steeds niet onderdrukkend te werken op Rhizoctonia. Een verklaring is dat de geënte Trichoderma-antagonist zich bij voorkeur voedt met afstervende warmteminnende bacteriën en niet met de Rhizoctonia.   
 ![](../img/158(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **Betekenis voor de praktijk**korte en lange termijn Bij de veldtoepassingen gaat het waarschijnlijk om dezelfde soort werkingen als bij potgrond: met name de concurrentie tussen bodemorganismen en verhoogde plantweerstand. Voor een direct effect zijn hoge concentraties compost nodig. Voor veldtoepassingen is het belangrijker om te kijken naar het lange termijneffect: het opbouwen van een gezonde bodem (een bodem met veel en verschillende bacteriën en schimmels) door vol¬doende organische stof.mulchen Bij regelmatige toediening van compost in de tuin¬bouw zou gewerkt kunnen worden met strookmulchen of een andere plaatselijke manier van toedienen om de ziektewerendheid van de plant op korte termijn te verhogen, zonder de mestwetgeving te overtreden.gewaskeuze Het zou voordelig kunnen zijn in de vruchtwisseling de compostgift te concentreren voor een (bodem) ziektegevoelig gewas. Hiervan is geen onderzoek bekend. Overigens spelen met de plaats van de toediening in de vruchtopvolging van de compost ook andere overwegingen een rol: wat is het korte- en lange termijn aanbod aan voedingsstoffen (met name stikstof), en wat is de behoefte van de plant?praktijkervaringen Ervaringen in de praktijk van de biologische landbouw laten zien dat de meeste bodemziekten voor¬komen of onderdrukt kunnen worden door een goede vruchtwisseling toe te passen en te werken aan voldoende organische stofgehalte. Daarmee wordt ook het bodemleven versterkt. Het gebruik van compost in hoge concentraties als snelwerkend preventief of zelfs genezend ziektewerend middel lijkt ons meer geschikt voor de gevoelige, laboratoriumachtige omstandigheden van de opkweekmedia.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
@@ -1206,50 +750,20 @@ Belangrijke metalen wat betreft ophoping in de grond zijn cadmium, lood, zink en
 ![](../img/162a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **Streefwaarden grond**Door deze waarden te vergelijken met de waarde die niet overschreden mag worden om de gehalten in de voedingsgewassen niet te hoog te laten worden wordt de stand van zaken duidelijk. Deze streefwaarden zijn weergegeven in tabel 5.5.2. Bij alle vier weergegeven metalen is op sommige bodemsoorten de streefwaarde al overschreden en bij de andere is het verschil tussen huidige gemiddelde waarde en de streefwaarde niet groot.   
 ![](../img/162b(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **bodemleven**Een andere beoordelingsmogelijkheid van gehalten aan zware metalen is de vraag of het bodemleven negatief wordt beïnvloed door de zware metalen. De waarde waarbij 5% van de bodemdiersoorten onbeschermd is kan als maat gebruikt worden. In tabel 5.5.3 is een overzicht van de verschillende waarden gegeven. Het blijkt dat in veel gronden het bodemleven nu al schade van zware metalen ondervindt.   
 ![](../img/163a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 Om de toekomstige ontwikkeling van de gehalten aan zware metalen in te schatten kan de situatie in de huidige landbouw als uitgangspunt worden aangenomen. Als voorbeeld een tuinbouwbedrijf (tabel 5.5.4).   
 ![](../img/163b(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 Uit tabel 5.5.4 blijkt dat de aanvoer op een tuinbouwbedrijf steeds groter is dan de afvoer, uitgaande van de situatie dat de gewassen relatief lage gehalten aan zware metalen hebben. Het is mogelijk te berekenen na hoeveel jaar op zo'n bedrijf de maximaal toegestane waarde, de streefwaarde bereikt wordt. In tabel 5.5.5 is dit gedaan voor een holocene zandgrond (de schoonste bodemsoort wat betreft zware metalen) en op een rivierkleigrond (de minst schone minerale grond).   
 ![](../img/163c(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 Steeds duurt het vele jaren voordat de streefwaarde bereikt is. Van een duurzame situatie is geen sprake.  
@@ -1257,41 +771,19 @@ In tabel 5.5.6 staan de gehalten aan zware metalen van een aantal mest- en compo
 ![](../img/164a(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 Om de meststoffen ten opzichte van elkaar beter te kunnen vergelijken is ook het gehalte per kg fosfaat berekend (zie tabel 5.5.7). De waarden stammen uit de gangbare landbouw en de toevoeging van zink bij kippenvoer en koper bij varkensvoer komt duidelijk naar voren in de hoge gehalten van deze metalen in vergelijking met het fosfaatgehalte.   
 ![](../img/164b(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
   
 ![](../img/164c(Small)(1)-1920w.jpg)     
 
 
+**5.6 Analysemethoden mest en compost**## Inleiding
 
-
-
-
-
-
-**5.6 Analysemethoden mest en compost****inleiding**De meest gebruikte analyses van mest en compost zijn het droge stofgehalte, het organische stofgehalte, totaalgehalten aan voedingsstoffen en een aantal aanvullende chemische bepalingen waaronder gehalten aan zware metalen. Er zijn meer analyses mogelijk, gericht op de landbouwkundige beoordeling van gunstige eigenschappen, of op negatieve eigenschappen zoals ziekteverwekkers en onkruiden. Veel van die analyses hebben weinig zeggingskracht. In het volgende worden een aantal analysemethoden belicht, die aanvullend bij mest en compost te gebruiken zijn.  
+De meest gebruikte analyses van mest en compost zijn het droge stofgehalte, het organische stofgehalte, totaalgehalten aan voedingsstoffen en een aantal aanvullende chemische bepalingen waaronder gehalten aan zware metalen. Er zijn meer analyses mogelijk, gericht op de landbouwkundige beoordeling van gunstige eigenschappen, of op negatieve eigenschappen zoals ziekteverwekkers en onkruiden. Veel van die analyses hebben weinig zeggingskracht. In het volgende worden een aantal analysemethoden belicht, die aanvullend bij mest en compost te gebruiken zijn.  
 **koolzuurproductie**Met incubatieproeven kan de koolzuurproductie van een mest of compost bepaald worden (zie ook 5.2). Op het Louis Bolk Instituut wordt onder meer de volgende incubatiemethode toegepast. Van gedroogde en gemalen mest of compost wordt 1 gram gemengd met grond en onder een waternevel onder voortdurend schudden bevochtigd tot de eerste kluitvorming optreedt. Dit monster wordt op een schaaltje in een afgesloten vat geplaatst. Onderin het vat bevindt zich 0,1 N KOH. Na een week bij 20oC wordt na toevoeging van fenolftaleïne de kaliloog teruggetitreerd met 0,2 N zoutzuur. De hoeveelheid zoutzuur is een maat voor de koolzuurproductie van het monster na vergelijking met een blanco. Met een simulatiemodel kan uit deze koolzuurproductie ook het stikstofleverend vermogen ingeschat worden (zie 7.2). Meting gedurende langere tijd is dan wenselijk. Hierbij moet wekelijks de kaliloog ververst en getitreerd worden.   
 ![](../img/165(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 **stikstoflevering**In de bovengenoemde geïncubeerde grond kan in principe ook de productie van nitraat en ammonium gemeten worden. Door denitrificatie wordt de productie vaak wel te laag ingeschat.Een snelle indicatie van de stikstoflevering is de extractie met 0,01 M CaCl2. Vijf gram gedroogde, gemalen en gezeefde (2 mm) mest of compost wordt gedurende twee uur geschud in 0,01M CaCl2 bij 20oC. In dit extract wordt nitraat, ammonium en totaal stikstof bepaald. Door de hoeveelheid totaal stikstof te verminderen met de minerale stikstof wordt de hoeveelheid organische stikstof verkregen. Deze hoeveelheid is een globale maat voor het stikstofleverend vermogen van de mest of compost (zie 5.1).  
@@ -1300,21 +792,9 @@ Methode: 5 gram gedroogde, gemalen en gezeefde (2mm) mest of compost wordt aan 5
 ![](../img/166(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 **stabiliteit**Of een compost of mest nog tot actieve processen in staat is of uitgerijpt is kan beoordeeld worden met Duitse ‘Rottegradmethode’.Het verse monster wordt gezeefd op 1 cm. Het vochtgehalte moet zodanig zijn dat bij intensief knijpen net geen vocht vrijkomt. Dit monster wordt gedurende 16 uur bij kamertemperatuur weggezet in een vat van 2 liter onder afdekking met aluminiumfolie. Het monster wordt vervolgens in een Dewar-proefvat gebracht. Op eenderde afstand van de bodem wordt een temperatuurvoeler aangebracht. De starttemperatuur is 20oC. Na 1 uur wordt de temperatuur voor het eerst afgelezen. Het temperatuurmaximum wordt in het algemeen na 2 tot 5 dagen bereikt. De stabiliteit wordt in de volgende klassen uitgedrukt:  
 **Onkruidkiemen**   
 ![](../img/167(Small)-1920w.jpg)     
-
-
-
-
-
-
 
 
 Onderzoek naar onkruidkiemen is niet eenvoudig. Er is een verschil tussen landbouwgewassen en onkruiden wat betreft kieming. Lanbouwgewassen kiemen onder gunstige omstandigheden. Onkruiden doen dit onder gunstige omstandigheden voor een deel, anders zouden ze geen onkruid kunnen zijn. Een kiemproef geeft evenwel wel een indicatie. De test wordt als volgt uitgevoerd. Veenmosveen (Type 3: >15 vol% bij 10 cm zuigkracht, zeeffractie 3-7 mm) wordt gemengd met mest of compost: 75% vol% veenmosveen en 25% vol% mest of compost. Bij 20oC wordt het aantal gekiemde onkruiden bepaald. 
@@ -1348,28 +828,10 @@ Naast de opbouw van organische stof en een goed bodembeheer is de invloed van he
 ![](../img/176(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![](../img/177(Small)-1920w.jpg)     
 
 
-
-
-
-
-
-
 caaskop testtekst 2018
-
-
-
-
-
-
 
 

@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # De geur na regen
 
-
-
 ---
-
-
-
-
 
 
         **De geur na regen**
@@ -26,12 +20,6 @@ JIAOYANG JIANG, XIAOFEI HE, DAVID E. CANE. "Geosmin Biosynthesis. Streptomyces c
 M.T. LISANTI, P. PIOMBINO, A. GAMBUTI, A. GENOVESE, L. MOIO. "Earthy off-flavour in wine: evaluation of remedial treatments for geosmin contamination." Food Chemistry (2014), vol. 154, pp. 171-178. DOI:10.1016/j.foodchem.2013.12.100
 [Home](index.htm#dm)
   
-
-
-
-
-
-
 
 
 

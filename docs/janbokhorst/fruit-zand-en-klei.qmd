@@ -7,7 +7,7 @@ author: Jan Bokhorst
 Er zijn drie belangrijke gebieden met fruitteelt in Nederland. De Betuwe heeft de mooiste gronden. Dan volgt de zeeklei van Zuid-West Nederland. Tenslotte de Flevopolders. Het bodembeheer in de Flevopolders vergt extra aandacht omdat de groei gauw te weelderig wordt wat tot schimmelziekten van blad en vrucht en tot een weinig aromatische smaak leidt.
 
 
-**Inleiding**
+## Inleiding
 
 In de fruitteelt staat de bodemkwaliteit centraal. Met het fruit worden er maar weinig voedingsstoffen afgevoerd en bij een goede verzorging van de kringloop van voedingsstoffen staat de bemesting niet centraal. De kaliumvoorziening vraagt op veel bodemtypen correcties en ook de stikstofvoorziening moet periodiek bijgestuurd worden. Een evenwichtig en actief bodemleven en een goede bodemstructuur doen de rest. De uitgangsbodem is hierbij wel belangrijk. De gronden van de stroomruggen in de Betuwe en en woudeerdgronden in Noord-Holland hebben eigenschappen die ideaal zijn voor de fruitteelt. De overige gronden moeten constant bijgestuurd worden. De wijze en de mate varieert per bodem. Dat er verschillen zijn blijkt al uit de kwaliteit van het fruit. De Betuwe levert het beste en meest smakelijke fruit. Dan komen de zeekleigronden in West-Nederland en de zandgronden en op de jonge gronden van de Flevopolders is het het moeilijkst om fruit met een goede smaak te produceren. Het bodemprofielIn het volgende worden een aantal bodemprofielen nader bekeken.   
 ![bodemprofiel noordoostpolder](../img/flevogrondjpg-1920w.jpg)   
@@ -17,10 +17,6 @@ De grond is poreus en het grondwater staat vrij hoog en daarmee kunnen de wortel
 
  
 
-
-
-
-
   
 ![bodem zeeklei](../img/jongezeekleijpg(Medium)-1920w.jpg)   
 Een zeekleigrond in Zeeuws-Vlaanderen.
@@ -28,10 +24,6 @@ Een zeekleigrond in Zeeuws-Vlaanderen.
 In tegenstelling tot de grond in de Flevopolder is hier al een bouwvoor met een redelijk organischestofgehalte. De laag onder de bouwvoor is nog humusarm en vaak verdicht. Stimulering van regenwormen moet hier centraal staan. Aanvoer van stabiel en verser organisch materiaal is ook hier belangrijk.
 
  
-
-
-
-
 
   
 ![bodem betuwe](../img/bodemprofiel(Medium)-1920w.jpg)   
@@ -41,10 +33,6 @@ Deze grond is diep doorwortelbaar (onder meer door regenwormgangen), rijk aan or
 
  
 
-
-
-
-
   
 ![bodem Limburg loess](../img/profiellicht(Small)(1)-1920w.jpg)   
 Lössbodem in Zuid-Limburg.
@@ -52,10 +40,6 @@ Lössbodem in Zuid-Limburg.
 De gronden zijn diep doorwortelbaar, maar vaak vrij arm aan organische stof. Verzorging van de regenwormen en aanvoer van organisch materiaal is van belang.
 
  
-
-
-
-
 
   
 ![bodem esgrond oud bouwland](../img/enkeerdgrondnbv(1)-1920w.jpg)   
@@ -65,10 +49,6 @@ De grond is diep humushoudend, maar in de praktijk blijken deze gronden toch nie
 
  
 
-
-
-
-
   
 ![bodem heide](../img/podzol-1920w.jpg)   
 Een heidepodzol op de Veluwe.
@@ -76,10 +56,6 @@ Een heidepodzol op de Veluwe.
 Voor fruit niet geschikt, ook niet als er al een humushoudende bouwvoor aanwezig is. Alleen met een diepe bodembewerking en ruime aanvoer van organisch materiaal kan de grond meer geschikt gemaakt worden voor fruit, maar de geschiktheid blijft beperkt.
 
  
-
-
-
-
 
 **Beworteling**  
 Fruitbomen hebben twee soorten wortels: horizontale en verticale.Horizontale wortels: zijn relatief dun en vertakken zich sterk. Ca 80% van het wortelgewicht bestaat uit deze dunne wortels. Opname van vocht en voedingsstoffen gebeurt vooral door deze wortels.Verticale wortels: zijn dikker en steviger dan de horizontale. Reservestoffen en vocht worden ook door deze wortels opgeslagen.Bij planten kunnen schimmels die met de wortels vergroeid zijn het wortelstelsel uitbreiden. Bij fruitbomen gebeurt dit alleen wanneer er een laag bemestingsniveau wordt aangehouden.Wanneer de grond dat toelaat, gaan de wortels zeer diep de grond in. In Limburg op löss is een keer een diepte van 12 meter waargenomen.  
@@ -90,10 +66,6 @@ De wortelgroei wordt verder bepaald door:-Ouderdom van de boom. De wortels kunne
 Fig. Beworteling bij jonge en oude bomen (Bloksma, 1996)
 
  
-
-
-
-
 
   
 ![wortel boom fruiteelt](../img/Kopievanfruit%28Small%29%20%281%29-1920w.jpg)   
@@ -107,10 +79,6 @@ Vochtig voedselrijk lemig zand onder
 
  
 
-
-
-
-
   
 ![wortels ondergroei fruit](../img/grasklaver-a12919b3-1920w.jpg)   
 Beworteling fruitboom en ondergroei (Bloksma 1996)
@@ -118,10 +86,6 @@ Beworteling fruitboom en ondergroei (Bloksma 1996)
 Bij klaver in de grasstrook (onder) is de beworteling zowel in de grasstrook als in de boomstrook beter.
 
  
-
-
-
-
 
 **Maatregelen**  
 **Inhoud:****-Bodemverzorgende grasstrook****-Regenwormen**  
@@ -137,31 +101,17 @@ Bij klaver in de grasstrook (onder) is de beworteling zowel in de grasstrook als
 ![fruitteelt zeeland](../img/boomgaardterLinde2-cdaabbad-1920w.jpg)     
 
 
-
-
-
-
-
-
   
 ![wortels fruitboom](../img/terLinde0-40cm022(Small)-1920w.jpg)   
 Het bodemprofiel laat een ca 30 cm dikke donkere bovengrond zien. Daaronder een 30 cm dikke organischestofhoudende laag. Daaronder is organischestofarm zand.
 
  
 
-
-
-
-
   
 ![bodem wortels fruitboom](../img/terLinde0-40cm027(Small)-ba1eacf3-1920w.jpg)   
 Een kluit van 0-20 cm diepte. Vooral de bovenste 10 cm is rijk aan organische stof, intensief doorworteld en met veel regenwormen. Ook de laag 10-20 cm heeft een mooie structuur en is intensief doorworteld.
 
  
-
-
-
-
 
   
 ![wortel appelboom](../img/terLinde0-40cm005(Small)-1920w.jpg)   
@@ -171,18 +121,8 @@ Deze mooie grond is voor een deel zo mooi geworden doordat tussen de boomstroken
 
  
 
-
-
-
-
 **Literatuur**Bloksma, J., 1996, Mogelijkheden voor de bodemverzorging in de fruitteelt vanuit biologische gezichtspunten. Louis Bolk Instituut, Driebergen.Brouwer, G en B. Timemrmans, 2012. Bemesting biologische fruitteelt. DLV-Plant/Louis Bolk Instituut.  
   
-
-
-
-
-
-
 
 
 

@@ -4,11 +4,7 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-
-
 Bij golfbanen heeft de bodem van de tees de meeste aandacht nodig. Bodemstructuur, voeding en pH zijn van veel belang.
-
-
 
 **1. Inleiding**  
 Een golfbaan bestaat uit tees, fairways en greens. De bodem van de tees en fairways is vergelijkbaar met die van sportvelden. Meer informatie is onder 'sportvelden' te vinden. Hieronder volgt meer over het beheer van greens.  
@@ -20,40 +16,16 @@ Na de aanleg is er aan de onderlaag niet veel meer te doen en komt alles aan op 
 Green met een humushoudende zandbodem en een goede beworteling (foto T.D. Witt)
 
 
-
-
-
-
-
-
 ![golf beworteling green](../img/golf-Custom-1920w.jpg)   
 Green met een verdichte grond en matige beworteling (foto T.D. Witt)
-
-
-
-
-
-
 
 
 ![golf beworteling green](../img/2cmvilt-1920w.jpg)   
 Green met een viltlaag van 2 cm
 
 
-
-
-
-
-
-
 ![golf beworteling green](../img/greenkluit-1920w.jpg)   
 De ideale green (foto Pius Floris)
-
-
-
-
-
-
 
 **3. Verdichting en beworteling**  
 Om de beworteling te kunnen beoordelen en daarmee de mate van verdichting, moet de zode zichtbaar gemaakt worden. Dat kan door met een spade een kluit uit te steken, maar dit geeft een flinke verstoring. Met een gutsboor is een andere methode.  
@@ -68,12 +40,6 @@ Speltechnisch is een geringe hoeveelheid vilt gunstig. Er mogen evenwel geen voe
 **6. Zuurgraad**Een andere factor is de zuurgraad. Deze moet de basis zijn voor een evenwichtig bodemleven. Op zandgrond is de wenselijke pH waarde (pH-KCl of pH-CaCl2) 5,3. Op kalkloze zavel of klei 6,4 en op kalkrijke zavel of klei 6,8. Bij problemen met schimmelziekten op zandgronden is het wenselijk een pH van 4,5 aan te houden.   
 ![zuurgraad bodem golf green](../img/phgendersteyn(1)-1920w.jpg)   
 De relatie tussen de pH en de aantasting door fusarium op de greens van golfbaan Gendersteyn te Veldhoven (Onderzoek Gaia Bodemonderzoek).
-
-
-
-
-
-
 
 **7. Maatregelen**   
 
@@ -95,12 +61,6 @@ Voor een goede beworteling
 - Zorg voor een goede ontwatering.
 - Bezanden kan helpen. Gebruik zand met verteerbare organische stof. GFT-compost is dan gunstiger dan groencompost.
 - te weinig betreden kan sponsviltvorming stimuleren.  
-
-
-
-
-
-
 
 
 

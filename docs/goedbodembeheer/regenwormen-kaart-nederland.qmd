@@ -6,26 +6,14 @@ author: Jan Bokhorst
 
 # regenwormen kaart nederland
 
-
-
 ---
-
-
-
-
 
 
 Overzichtskaart Nederlandse regenwormen
 
-
-
-
-
 ![overzicht regenwormen Nederland](../img/regenwormen%20nederland%20kaart%202%20%28Groot%29-1920w.jpg)
 
 Waarom zijn er zulke grote verschillen in aantallen regenwormen?
-
-
 
 
 Om deze vraag te beantwoorden is het van belang te weten dat er drie groepen regenwormen zijn met uiteenlopende eisen aan de bodem.
@@ -38,13 +26,7 @@ De pendelaars. Leven in een verticale gang. Eten vaak ook strooisel maar kruipen
 Voor alle wormen geldt dat zeer droge grond in de zomer niet wenslijk is.
 
 
-
-
 De kaart. Wat valt op?
-
-
-
-
 
 De zandgronden van Noord- Oost- Midden- en West-Nederland hebben weinig wormen. Het is te droog in zomer en mais levert vrijwel geen voedsel. Bossen en heidevelden op deze zandgronden hebben ook heel weinig wormen. Ze zijn te droog in de zomer en leveren ook weinig voedsel. In beekdalen zijn er meer wormen. De grond is hier vochtiger door hogere grondwaterstanden en is er is vaak gras. Wortels en bladresten van gras geven voedsel. Ook drijfmest stimuleert de wormen, vooral de grauwe.
 
@@ -57,26 +39,10 @@ Hier is veel akkerbouw. Door kunstmest is er veel loof van aardappels en suikerb
 
 Löss in Limburg. De vochtvasthoudende löss is gunstig voor wormen. Ook de pendelaars komen hier veel voor.
 
-
-
 [Meer info over regenwormen](bodemleven.html#ankerregenwormen) 
-
-
-
-
 
 Bron van de kaart: Atlas Natuurlijk Kapitaal  
 Meer info: Science Vol. 366, Issue 6464, 25 Oct 2019)
-
-
-
-
-
-
-
-
-
-
 
 
 

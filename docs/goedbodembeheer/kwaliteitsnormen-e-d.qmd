@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # Meer over kwaliteit
 
-
-
 ---
-
-
-
-
 
 
         
@@ -25,10 +19,6 @@ author: Jan Bokhorst
 
      Hier vindt u globale streefwaarden voor de kwaliteit van landbouwproducten. Literatuur die in dit deel van de website is gebruikt, visie op kwaliteitsbeoordeling en binnenkort nog veel meer.
 
-
-
-
-
    ### inhoud
 
  [Streefwaarden](kwaliteitsnormen-e-d.html#streefwaarden)[Wat is voedingswaarde](kwaliteitsnormen-e-d.html#watisvoedingswaarde)[Geschiedenis kwaliteitsbeoordeling](kwaliteitsnormen-e-d.html#geschiedenis2510)[Literatuur](kwaliteitsnormen-e-d.html#literat2510c) ### Streefwaarden
@@ -39,12 +29,6 @@ Bij kwaliteit gaat het om de dynamiek tussen groei en afrijping. Die is alleen b
 ![](../img/normen-1920w.JPG)     
 
 
-
-
-
-
-
-
 .
 
   
@@ -52,19 +36,11 @@ Bij kwaliteit gaat het om de dynamiek tussen groei en afrijping. Die is alleen b
 
   
 
-
-
 Streefwaaarden voor Brix voor diverse  vruchten en groenten (Wikipedia, 2021)
 
 
   
 ![](../img/Afbeelding1-1920w.png)     
-
-
-
-
-
-
 
 
 ### Wat is voedingswaarde
@@ -79,10 +55,6 @@ Wilde sla kiemt, vorm blad en gaat al snel schieten. Dat wil zeggen bloemknoppen
 
  
 
-
-
-
-
   
 ![](../img/cultuursla-0df19c0b-1920w.jpg)   
 **Cultuursla**
@@ -90,10 +62,6 @@ Wilde sla kiemt, vorm blad en gaat al snel schieten. Dat wil zeggen bloemknoppen
 Wat de wilde sla niet heeft kent de kropsla wel. De wilde plant heeft twee fasen: bladvorming en bloei en  zaadvorming. De kro heeft beide eigenschappen. De krop heeft volume, maar ook kwalitatieve eigenschappen die meer bij de bleom horen: smaak en geur. 
 
  
-
-
-
-
 
   
 Wanneer de teler te weinig bemest wordt er geen krop gevormd en groeit de plant als wilde sla. Bij teveel mest wordt er veel blad gevormd, bij het schieten wordt dit blad vaak door schimmels aangetast en de plant komt vaak niet tot bloei en zaadvorming.Het is de taak van de teler om goed te weten wat bij een plant past en de teeltmaatregelen zo te kiezen dat de plant zich naar zijn eigen aard kan ontwikkelen. Dan krijgt de plant voedingswaarde. ### Geschiedenis kwaliteitsbeoordeling
@@ -144,10 +112,4 @@ Schuphan, W. 1976. Mensch und Nahrungspflanze. Der biologische Wert der Nahrungs
 Schwencke, Y., P. van der Vet en J.D. van Mansvelt, 1978. Orienterend onderzoek naar de ontwikkelingsmorfologie van de suikerbiet. Louis Bolk Instituut.  
 Verkerke, W,. 2007. Claims rond gezondheid en smaak van biologische producten: protocol “in house” smaakpanels op AGF bedrijven – kansen voor biologische AGF producten met specifieke inhoudstoffen. PPO nr. 3242005600.  
 Visser, M., A. de Vries en J.G. Bokhorst, 1979. Springstaarten en bodemvruchtbaarheid. Bolk Instituut, Driebergen.
-
-
-
-
-
-
 

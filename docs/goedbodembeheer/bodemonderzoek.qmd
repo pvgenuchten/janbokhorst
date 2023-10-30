@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # Bodemanalyses
 
-
-
 ---
-
-
-
-
 
 
         
@@ -23,8 +17,6 @@ author: Jan Bokhorst
 
 
    INHOUD[Wat is de plaats van de bodemanalyse](bodemonderzoek.html#plaats)[Naar welk laboratorium opsturen](bodemonderzoek.html#lab)[Welk extractiemiddel](bodemonderzoek.html#extractie)[Historie bodemanalyse Nederland](bodemonderzoek.html#histnl)[Historie bodemanalyse in de Verenigde staten van Amerika](bodemonderzoek.html#historievs)[Chroma’s en Albrecht method](bodemonderzoek.html#chroma)  
-
-
 
    
 
@@ -77,10 +69,6 @@ Het Rijkslandbouwproefstation in Groningen
 
  
 
-
-
-
-
 Als reactie op de toenmalige aanpak van het Blgg werd in 1951 het Centraal Bodemkundig Bureau Rispens opgericht. Dit heet nu Koch Eurolab.  
 In 1981 werd op het Louis Bolk Instituut een bodemlaboratorium opgericht dat zich specifiek richtte op de biologische landbouw. Beschikbaarheid en voorraad aan voedingsstoffen en de biologische activiteit, gemeten met een bodemrespiratietest, staan hier centraal. Dit laboratorium is in 1991 voortgezet als Gaia Bodemonderzoek (www.gaiabodem.nl).  
 Aan het eind van de 20e eeuw nam de onvrede over het Blgg toe vanwege een aanpak die ver van de praktijk af stond en vanwege onduidelijkheid over de nieuwe analysemethoden. Nieuwe laboratoria startten: Laboratorium Zeeuws-Vlaanderen (voornamelijk dezelfde analyses als het Blgg, nu Eurofins/Lab Zeeuws-Vlaanderen), Altic (Spurway, verdund azijnzuur) en Soiltech (Mehlich 3 extract). 
@@ -96,10 +84,6 @@ In de VS waren er aanvankelijk nauwelijks analyselaboratoria en deden de adviseu
 
 ---
 
-
-
-
-
    **Chroma’s en Albrecht methode**
 
 
@@ -114,18 +98,6 @@ Een chroma van een hele mooie rivierkleigrond in de Betuwe
  
 
 
-
-
-
-
-
-
    **De Albrecht-methode**Bij de Albrecht-methode wordt onderscheid gemaakt tussen direct oplosbare voedingsstoffen en aan humus en klei geadsorbeerde voedingsstoffen. Als ideaal wordt gezien dat het adsorptiecomplex voor 68% bezet is met calcium, 12% met magnesium en 2-5% met kalium. De methode wordt ook wel gebruikt om de bodemstructuur te sturen, hoewel Albrecht dit zelf niet heeft gedaan. Albrecht zag de bodem puur als een chemisch reactievat en had geen aandacht voor bodemleven en bodemstructuur. Dit beperkt de waarde van de Albrecht methode.   
 Ook bij de Albrecht-methode geldt dat deze nog per regio ontwikkeld moet worden. Eenzelfde beoordeling voor alle gronden is niet reëel. Dat leidt tot extreme giften aan voedingsstoffen die in de praktijk niet wenselijk zijn.
-
-
-
-
-
-
 

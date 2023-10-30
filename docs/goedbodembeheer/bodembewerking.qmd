@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # Bodembewerking
 
-
-
 ---
-
-
-
-
 
 
         
@@ -34,10 +28,6 @@ I**NHOUD****[Bodembewerking algemeen](bodembewerking.html#ctb)****[Niet Kerende 
 Voorkom onnodige bodembewerking in de herfst. De schade aan de bodemstructuur is vaak groter dan men beseft. Dat zei Coen ter Berg op een studiedag in Dronten en gaf ook nog een mini-cursus grondbewerking. Zie hieronder.
 
  
-
-
-
-
 
   
 - **Blijf in de herfst van de bodem af.** 
@@ -64,22 +54,12 @@ De klassieke ploeg. Levert mooi schoon werk op.
 
  
 
-
-
-
-
   
 ![](../img/Vredepeel086(Small)-1920w.jpg)     
-
-
 
 Een Imants spitmachine. Deze keert de grond deels. De aangedreven rol aan de achterzijde maakt de grond erg fijn, wat de kans op verstuiven vergroot.
 
  
-
-
-
-
 
   
 ![](../img/Vredepeel077(Small)-1920w.jpg)   
@@ -87,19 +67,11 @@ Een tweede Imants spitmachine heeft woelers tussen de spitbladen voor een wat di
 
  
 
-
-
-
-
   
 ![](../img/Vredepeel079(Small)-1920w.jpg)   
 De Dutzi pennenfrees. Dit is de eerste machine die in Nederland voor niet-kerende grondbewerking werd gebruikt. Een combinatie van vleugelscharen die de grond los moeten maken en een frees.
 
  
-
-
-
-
 
   
 ![](../img/Vredepeel101Small-Custom-1920w.jpg)   
@@ -107,22 +79,12 @@ De Dutzi werkt de stoppel niet goed onder.
 
  
 
-
-
-
-
   
 ![](../img/Vredepeel082(Small)-1920w.jpg)     
-
-
 
 De Lemkens Kristall 9. Achtereenvolgens woelen, mengen en tenslotte een aandrukrol. De vele ruimte tussen de onderdelen maakt het onderwerken van gewasresten makkelijker
 
  
-
-
-
-
 
   
 ![](../img/Vredepeel109(Small)-1920w.jpg)   
@@ -130,19 +92,11 @@ De Lemkens Kristall 9 aan het werk.
 
  
 
-
-
-
-
   
 ![](../img/Vredepeel111(Small)-1920w.jpg)   
 De Amazone Cenius 3000-T. Met de smalle beitels kan de grond wat dieper losgemaakt worden. De stoppel wordt evenwel niet goed ondergewerkt en een voorbewerking is nodig. Dit betekent extra rijden en extra verdichten, wat bij niet-kerende grondbewerking een probleem is.
 
  
-
-
-
-
 
   
 ![](../img/Vredepeel115(Small)-1920w.jpg)   
@@ -150,19 +104,11 @@ De Kerner Komet.
 
  
 
-
-
-
-
   
 ![](../img/Vredepeel116(Small)-1920w.jpg)   
 De Kerner Komet heeft sterverdelers die de grond goed egaliseren.
 
  
-
-
-
-
 
 Conclusie: Voor iedere grond en ieder gewas is weer een andere machine nodig. Hoe dat precies zit is nog niet goed bekend. Er is nog veel te ontdekken. Alle varianten hebben wel als nadeel dat er met zware machines wordt gewerkt zodat bodemverdichting op zal treden. Hier valt ook nog het een en ander te ontwikkelen. Bij de aanwezige akkerbouwers was er niet veel animo om met niet-kerende grondbewerking te starten. Hier kan in de toekomst verandering in optreden als bedrijven goede resultaten blijken te hebben en andere factoren zoals stijgende brandstofprijzen niet-kerende grondbewerking aantrekkelijker maken.  
   
@@ -208,10 +154,4 @@ In de praktijk is ploegen de favoriete hoofdgrondbewerking. Spitten en cultivate
 **Nadelen cultivator**Gewasresten aan het oppervlakOnkruidzaden in toplaagMeerdere bewerkingen nodig  
 **Voordelen spitmachine**Goede mengingCombineren met zaaiGeen vorenWeinig structuurbederfOnder natte omstandigheden toe te passenZware grond kan langer bewerkt worden  
 **Nadelen spitmachine**Gewasresten aan het oppervlakOnkruidzaden in toplaagLage capaciteit
-
-
-
-
-
-
 

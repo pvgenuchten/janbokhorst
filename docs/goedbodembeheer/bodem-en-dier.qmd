@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # Bodem en dier
 
-
-
 ---
-
-
-
-
 
 
         
@@ -21,12 +15,6 @@ author: Jan Bokhorst
 
 
  Zonder het dierlijke gaat het niet
-
-
-
-
-
-
 
 
 

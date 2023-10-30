@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # Kwaliteit landbouwproducten
 
-
-
 ---
-
-
-
-
 
 
         
@@ -31,11 +25,5 @@ author: Jan Bokhorst
 [-Gewassen A tot P](per-gewas.html)  
 [-Gewassen R tot Z](gewassen-q-tot-z.html)  
 [-Meer over kwaliteit](kwaliteitsnormen-e-d.html)  
-
-
-
-
-
-
 
 

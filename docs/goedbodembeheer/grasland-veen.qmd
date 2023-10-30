@@ -4,8 +4,6 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-
-
 Vroeger werd op  grond van eeuwenlange ervaring veen met toemaak (mest, slootbagger, stadsafval) bemest. Die toemaak is er niet meer. Het doel van toemaak, verteerbaar voedsel voor het bodemleven, is nog steeds actueel. Op verschillende manieren worden nieuwe oplossingen gevonden. 
 
 
@@ -16,7 +14,7 @@ Vroeger werd op  grond van eeuwenlange ervaring veen met toemaak (mest, slootba
 - [Veen en klimaat](grasland-veen.html#klimaat)
 - [Graslandbeheer en weidevogels](grasland-veen.html#vogels) 
 
-**Inleiding**
+## Inleiding
 
 Veengronden komen voornamelijk voor in Noord- en Zuid-Holland, Friesland en Drenthe. De oppervlakte was vroeger aanzienlijk groter, maar vanwege erosie door zee en rivier, en door afgraven is veel veen verdwenen.Er zijn meerdere soorten veen:   
 ![veenmosveen](../img/meerstal-1920w.jpg)
@@ -86,8 +84,6 @@ Veen op 35 tot 45 cm diepte.
 Tussen de veraarde bovenlaag en de ongerijpte ondergrond bevindt zich een laag die in de winter volledig verzadigd is met water, maar in de zomer deels uitdroogt. In deze laag kunnen in de zomer scheuren optreden, vooral wanneer de grond wat klei bevat. In deze scheuren kan in de zomer ook wat grond uit hogere lagen vallen en wanneer in de winter de grond weer gaat zwellen is er eigenlijk niet voldoende ruimte over en ontstaan glimmende vlakken van samengeperste grond. In het midden van de foto is zo'n glimmend vlak te zien. Ook is te zien dat wortels in de zomer van de scheur gebruik hebben gemaakt om in diepere lagen te komen.
 Voorbeeld van een deels verweerde, deels gerijpte, deels veraarde diepere laag   
 ![veen met goede bodemstructuur](../img/veen1macros95019(Small)-1920w.jpg)     
-
-
 
 Bovenlaag veengrond onder Purmerend met een goede doorworteling tot ruim 20 cm diepte
 

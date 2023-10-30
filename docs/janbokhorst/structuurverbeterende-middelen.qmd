@@ -6,21 +6,13 @@ author: Jan Bokhorst
 
 # Structuurverbeterende middelen
 
-
-
 ---
-
-
-
-
 
 
           
   
   
   
-
-
 
    
 
@@ -46,11 +38,5 @@ De middelen die getoetst worden zijn:
 **Biochar**Biochar ontstaat door verhitting van biomassa onder zuurstofloze omstandigheden. Die biomassa is bermgras, snoeiafval, energiegewassen en reststromen van deverwerkende industrie. Na verhiting blijft er houtskool over dat Biochar wordt genoemd. Het materiaal kan grof of poedervormig zijn. Het idee van Biochar is afgeleid van Terra Preta, organische stofrijke (tot 16%) vruchtbare, zwarte gronden in het Amazonegebied in Brazilië, maar de verkoolde resten van de Nederlandse Biochar zijn hier niet mee te vergelijken.Toediening is 2,5 en 5 ton per ha.  
 **Steenmeel**Steenmeel is een gemalen steenachtig product van deeltjes kleiner dan 0,1 mm van vulkanische oorsprong . Toediening is 15 ton per ha. In 2010 en 2011 konden geen effecten van betekenis worden vastgesteld. Het onderzoek gaat 5 jaar duren. 2015 is het laatste jaar.**Literatuur**  
 Paauw, J.G.M., 2011. Effecten van bodem- en srtructuurverbeteraars. Onderzoek op klei-, zand- en dalgron
-
-
-
-
-
-
 
 

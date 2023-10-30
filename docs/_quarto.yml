@@ -3,19 +3,21 @@ project:
 
 website:
   title: "Goed bodembeheer / Jan Bokhorst"
+  description: Jan Bokhorst maintained a website on soil management practices at janbokhorst.nl, this is a copy of the information in case the site is at some point abandoned.
+  repo-url: https://github.com/pvgenuchten/janbokhorst	
+  repo-subdir: docs
+  repo-actions: edit
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: goedbodembeheer/index.qmd
         text: Goed Bodembeheer
-
       - href: janbokhorst/index.qmd
         text: Jan Bokhorst
-
+    search: true
   sidebar:
     style: "docked"
-    search: true
     contents:
 
       - section: "Bodem"
@@ -60,8 +62,8 @@ website:
           - ./goedbodembeheer/golfbanen.qmd
           - ./goedbodembeheer/sportvelden.qmd
           - ./goedbodembeheer/bodems-wereld.qmd
-      - section: "BODEMBEHEER"
-        contents: MAATREGELEN
+      - section: "MAATREGELEN"
+        contents: 
           - ./goedbodembeheer/mest-en-compost.qmd
           - ./goedbodembeheer/kalk.qmd
           - ./goedbodembeheer/groenbemesters.qmd
@@ -72,8 +74,8 @@ website:
           - ./goedbodembeheer/economie.qmd
           - ./goedbodembeheer/maatregelen-grasland.qmd
           - ./goedbodembeheer/maatregelen-akkerbouw.qmd
-      - section: "BODEMBEHEER"
-        contents: ACHTERGRONDEN
+      - section: "ACHTERGRONDEN"
+        contents: 
           - ./goedbodembeheer/anders-kijken-naar-bodems.qmd
           - ./goedbodembeheer/bodem-en-stoffen.qmd
           - ./goedbodembeheer/bodem-en-plant.qmd
@@ -105,6 +107,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-
 

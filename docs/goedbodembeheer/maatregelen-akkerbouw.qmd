@@ -6,20 +6,12 @@ author: Jan Bokhorst
 
 # Maatregelen akkerbouw
 
-
-
 ---
-
-
-
-
 
 
         
 
  ### maatregelenakkerbouw
-
-
 
 
    Maatregelen in het kort in alfabetische volgorde.
@@ -78,23 +70,15 @@ De volgende onderwerpen worden behandeld:
 -Woelen  
 -Wortelduizendpoot
 
-
-
-
-
    ﻿﻿  
 
 
 W﻿at zie je
 
-
-
  ﻿﻿  
 
 
 W﻿aar op letten
-
-
 
  ﻿﻿  
 
@@ -104,16 +88,8 @@ Hoe uitvoeren
 ﻿﻿  
 
 
-
-
-
-
     BEKALKEN
 ========
-
-
-
-
 
 
    -pH-KCl of pH-CaCl2  lager dan 6,5
@@ -127,8 +103,6 @@ Hoe uitvoeren
 
 -Weinig wormenactiviteitNieuwe alinea
 
-
-
  -Bodemanalyse: pH en CEC bezetting van Ca
 
 -Vertering organisch materiaal
@@ -139,8 +113,6 @@ Hoe uitvoeren
 -Wormenactiviteit
 
 -StructuurNieuwe alinea
-
-
 
  -Bij een lage pH is een reparatie bekalking nodig. Streeftraject van akker/tuinbouw op klei ligt tussen 6 en 7
 
@@ -158,16 +130,8 @@ Hoe uitvoeren
 
 -Onderhouds bekalking om de bodemprocessen te verbeteren: kom regelmatig met een jaarlijkse kleine gift (200-300kg
 
-
-
-
-
     BODEMLEVEN STIMULEREN
 =====================
-
-
-
-
 
 
    -Laag poriënvolume
@@ -183,8 +147,6 @@ Hoe uitvoeren
   
 
 
-
-
  -Bouwplan en vruchtopvolging- Aandeel groenbemesters, rust- en diepwortelende gewassen
 
 -Organische bemesting en verdeling in vruchtopvolging
@@ -192,8 +154,6 @@ Hoe uitvoeren
 -Activiteit van bodemleven (poriën en agregaatvorming)
 
   
-
-
 
 
  -Meer (vlinderbloemige) groenbemesters telen
@@ -218,16 +178,8 @@ Hoe uitvoeren
 
 -Waterhuishouding verbeteren
 
-
-
-
-
     BOUWPLAN INTENSIEF
 ==================
-
-
-
-
 
 
    -Afname bodemstructuur-
@@ -246,8 +198,6 @@ en zandgronden-
   
 
 
-
-
  -Aandeel rustgewasen
 
 -Aandeel laatrooiende gewassen
@@ -259,8 +209,6 @@ en zandgronden-
   
 
 
-
-
  -Aandeel rustgewassen verhogen: b.v. 1 op 3 pootgoed met 2 jaar tarwe + stro en groenbemesters
 
 -Aandeel vroegrooiende gewassen verhogen t.b.v. meer groenbemesters: w.gerst, tulp, plantui etc.
@@ -269,18 +217,8 @@ en zandgronden-
 
 -Bodemleven stimuleren
 
-
-
-
-
-
-
     DRAINAGE
 ========
-
-
-
-
 
 
    -Grondwaterpeil regelmatig boven 60 cm onder maaiveld
@@ -298,8 +236,6 @@ en zandgronden-
   
 
 
-
-
  -Plaats peilbuizen om grondwaterstand te volgen
 
 -Worden de eindbuizen ieder jaar schoon gemaakt
@@ -307,8 +243,6 @@ en zandgronden-
 -Leeftijd en functie bestaande drainage- Bepaal of drainage beter is dan oppervlakkige waterafvoer
 
   
-
-
 
 
  -Bij homogene klei- lössprofielen met doorgaande beworteling en poriën tot dieper dan 60 cm kan sleufloos gedraineerd worden
@@ -326,16 +260,8 @@ en zandgronden-
   
 
 
-
-
-
-
     EGALISATIE
 ==========
-
-
-
-
 
 
    -Ongelijke ligging
@@ -345,8 +271,6 @@ en zandgronden-
 -Hoog opgeploegde kanten
 
   
-
-
 
 
  -Bepaal de noodzaak voor bolle of vlakke ligging
@@ -360,8 +284,6 @@ en zandgronden-
 -Bepaal de kwaliteit van de ondergrond
 
   
-
-
 
 
  -Voer de egalisatie onder droge omstandigheden uit
@@ -381,16 +303,8 @@ en zandgronden-
   
 
 
-
-
-
-
     GROENBEMESTERS
 ==============
-
-
-
-
 
 
    -Vastleggen voedingsstoffen
@@ -412,8 +326,6 @@ en zandgronden-
   
 
 
-
-
  -Bemesting
 
 -Zaaitijdstip
@@ -433,8 +345,6 @@ en zandgronden-
 -Vorstgevoeligheid
 
   
-
-
 
 
  -Het resultaat hangt af van tijdstip van zaaien, de lengte van de groeiperiode
@@ -468,27 +378,15 @@ en zandgronden-
 
 - Aaltjesbestrijding: afrikaantjes en raketblad
 
-
-
-
-
     GROENBEMESTERS ONDER DEKVRUCHT
 ==============================
-
-
-
-
 
 
    Verlenging groeiperiode
 
 Bespaard grondbewerking
 
-
-
  Bepaal lengte en groeiverwachting dekvrucht
-
-
 
  -Voer eerst de onkruidbestrijding in de dekvrucht voldoende uit
 
@@ -500,16 +398,8 @@ Bespaard grondbewerking
 
 -Bemest de dekvrucht niet te zwaar
 
-
-
-
-
     GRONDBEWERKING
 ==============
-
-
-
-
 
 
    -Cultivator
@@ -519,8 +409,6 @@ Bespaard grondbewerking
 -Bouwvoorlichter
 
 -Woeler
-
-
 
  -Timing
 
@@ -532,8 +420,6 @@ Bespaard grondbewerking
 
 -Onkruidontwikkeling en bestrijding
 
-
-
  -NKG houdt meer vocht vast: alleen werken onder voldoende droge omstandigheden
 
 -Bodemleven neemt een deel van het werk over: bewerk de bodem alleen waar nodig
@@ -544,16 +430,8 @@ Bespaard grondbewerking
 
 -Combineer NKG met rijpadensysteem
 
-
-
-
-
     GRONDBEWERKING KEREND
 =====================
-
-
-
-
 
 
    -Ploegen
@@ -562,15 +440,11 @@ Bespaard grondbewerking
 
 -Spitten
 
-
-
  -Ploegdiepte
 
 -Gebruik en afstelling voorschaar
 
 -Onderwerken gewasresten en groenbemesters
-
-
 
  -Voorkom ploegzool: rij bovenover of onder droge omstandigheden
 
@@ -586,21 +460,11 @@ Bespaard grondbewerking
 
 -Ploeg, spit zware kleigronden direct na de oogst﻿
 
-
-
-
-
     INFILTRATIE
 ===========
 
 
-
-
-
-
    -Slootpeil hoog zetten tijdens droge periode
-
-
 
  -Kwaliteit water  
  -Hoogte grondwater in het perceel
@@ -609,8 +473,6 @@ Bespaard grondbewerking
  -Slempgevoeligheid in profiel
 
   
-
-
 
 
  -Gebruik geen stilstaand water met veel algen groei
@@ -623,16 +485,8 @@ Bespaard grondbewerking
 
 -Bewerk de bodem of oogst pas wanneer het vochtgehalte voldoende is afgenomen in de laag 0-50 cm﻿
 
-
-
-
-
     MECHANISATIE
 ============
-
-
-
-
 
 
    -Spoorvorming  
@@ -641,16 +495,12 @@ Bespaard grondbewerking
   
 
 
-
-
  -Keuze machinepark  
  -Bandenkeuze en bandenspanning  
  -Breng eigen mechanisatie en bandendruk in kaart  
  -Ontwatering
 
   
-
-
 
 
  -Voorkom structuurbederf door goede ontwatering
@@ -666,30 +516,18 @@ Bespaard grondbewerking
   
 
 
-
-
-
-
     ONDERWERKEN GROENBEMESTERS
 ==========================
-
-
-
-
 
 
    -Verkrijgen van schoon, zaaiklaar land﻿  
  -Opname en vertering door het bodemleven  
 
 
-
-
  -Menging door de bouwvoor  
  -Diepte onderwerken
 
   
-
-
 
 
  -Verdeel de groenbemester homogeen door de laag 0 tot 20 cm
@@ -708,16 +546,8 @@ Bespaard grondbewerking
 
 -Vorstgevoelige groenbemesters: facelia, mosterd, afrikaantjes, boekweit en raketblad- Groenbemesters met weinig hergroei: facelia, mosterd, rogge﻿
 
-
-
-
-
     ONTWATERING
 ===========
-
-
-
-
 
 
    -Plasvorming die langer blijft staan dan 24 uur
@@ -729,8 +559,6 @@ Bespaard grondbewerking
 -Verdichte laag
 
   
-
-
 
 
  -Zomer en winterpeil
@@ -747,8 +575,6 @@ Bespaard grondbewerking
 -Plaats peilbuizen om grondwaterpeil te volgen﻿﻿  
 
 
-
-
  -Egalisatie
 
 -Onderhoud drainage
@@ -760,16 +586,8 @@ Aanleg nieuwe drainage
   
 
 
-
-
-
-
     ORGANISCHE STOF
 ===============
-
-
-
-
 
 
    -Lage gehalten
@@ -781,8 +599,6 @@ Aanleg nieuwe drainage
 -Laag poriënvolume
 
   
-
-
 
 
  -pH, O.S.% en C:N
@@ -798,8 +614,6 @@ Aanleg nieuwe drainage
 -Organische stof balans
 
   
-
-
 
 
  -Meer groenbemesters
@@ -824,24 +638,14 @@ Aanleg nieuwe drainage
 
 -Bevorder de wortelontwikkeling door goede ontsluiting naar de ondergrond (structuur en waterhuishouding)﻿
 
-
-
-
-
     ORGANISCHE BEMESTING
 ====================
-
-
-
-
 
 
    -Vaste stalmest﻿  
  -Drijfmest﻿  
  -Compost﻿  
  -Groenbemesting
-
-
 
  -Beoordeel kwaliteit als meststof 
 
@@ -861,8 +665,6 @@ Aanleg nieuwe drainage
   
 
 
-
-
  -Gebruik drijfmest hoofdzakelijk als minerale plantenvoeding (voorjaar)
 
 -Drijfmest kan via de ontwikkeling van een groenbemester bodemvoedend worden
@@ -877,16 +679,8 @@ Aanleg nieuwe drainage
 
 -Zet groenbemesters doelgericht in
 
-
-
-
-
     RIJPADEN
 ========
-
-
-
-
 
 
    -Om onbereden teelbedden te realiseren
@@ -897,11 +691,7 @@ Aanleg nieuwe drainage
 
 -Ontstaan van sterk verdichte sporen﻿
 
-
-
  -Afstemming van alle werkzaamheden op GPS
-
-
 
   -Oogst is nog niet goed ontwikkeld op rijpaden
 
@@ -910,16 +700,8 @@ Aanleg nieuwe drainage
   
 
 
-
-
-
-
     VRUCHTOPVOLGING
 ===============
-
-
-
-
 
 
    -Afname productie door te nauwe rotatie
@@ -934,8 +716,6 @@ Aanleg nieuwe drainage
 -Te weinig aanvoer van organische stof en voeding bodemleven
 
 -Afname plantgezondheid en productkwaliteit﻿
-
-
 
  -Beoordeel opbouw en afname bodem conditie in de tijd
 
@@ -954,8 +734,6 @@ Aanleg nieuwe drainage
   
 
 
-
-
  -Vormt basis van de bodemconditie
 
 -Voldoende rustgewassen
@@ -971,16 +749,8 @@ Aanleg nieuwe drainage
   
 
 
-
-
-
-
     WOELEN
 ======
-
-
-
-
 
 
    -Ploegzool  
@@ -992,8 +762,6 @@ Aanleg nieuwe drainage
   
 
 
-
-
  -Bepaal het poriënvolume in de storende laag  
  -Bepaal de mate van verstoring op beworteling en waterhuishouding  
  -Bepaal noodzaak van woelen
@@ -1001,8 +769,6 @@ Aanleg nieuwe drainage
 ﻿
 
   
-
-
 
 
  -Hoe dieper in de bodem hoe meer het herstellend vermogen afneemt
@@ -1019,16 +785,8 @@ Aanleg nieuwe drainage
 
 -Woel bij voorkeur in een grasgroenbemester die al flink ontwikkeld is (circa 15 cm hoogte)﻿
 
-
-
-
-
     WORTELDUIZENDPOOT
 =================
-
-
-
-
 
 
    Wortels van fijnzadige gewassen worden opgegeten (ui, suikerbiet, biet en peen)
@@ -1053,16 +811,12 @@ Aanleg nieuwe drainage
 
 De tekst over de wortelduizendpoot is ontleent aan C. den Herder en L. Janmaat in Ekoland: Wortelduizendpoot,  december 2021
 
-
-
  -Zijn er scheuren (bij zware klei) of poriën en gangen die naar diepere lagen gaan.  
 -is er veel grof organisch materiaal bijvoorbeeld uit vaste mest.
 
 --Wordt er niet kerende grondbewerking toegepast. Deze kan meer hinder geven
 
   
-
-
 
 
  -Verdeel het organische materiaal goed door de bouwvoor  
@@ -1078,10 +832,6 @@ De tekst over de wortelduizendpoot is ontleent aan C. den Herder en L. Janmaat i
 -Geef geen mest voor het inzaaien  
 
 
-
-
-
-
   
 
 
@@ -1089,10 +839,4 @@ De tekst over de wortelduizendpoot is ontleent aan C. den Herder en L. Janmaat i
 
 
   
-
-
-
-
-
-
 

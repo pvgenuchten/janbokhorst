@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # Bodemleven
 
-
-
 ---
-
-
-
-
 
 
         
@@ -22,7 +16,9 @@ author: Jan Bokhorst
  het bodemleven bepaalt zeer veel in de bodem, maar is zeer divers. Het onderzoek naar analyses die een goed beeld geven van het bodemleven en te vertalen zijn naar praktijkmaatregelen heeft nog niet zoveel opgeleverd. Onderstaand een overzicht over het bodemleven en waar mogelijk handvatten voor de praktijk.
 
 
-   **Inleiding**Het bodemleven is van grote invloed op de plantengroei. Uit organische mest, gewasresten en groenbemesters moet het bodemleven de voedingsstoffen vrijmaken die onmisbaar zijn voor de plant. Daarnaast heeft het bodemleven nog diverse andere functies. Te onderscheiden zijn de volgende:- Afbraak van plantenresten, mest en dode bodemorganismen en vrijmaken van voedingsstoffen hieruit (mineralisatie)- Opbouw van organische stof die slechts traag wordt afgebroken (humusopbouw, humificatie)- Opbouw van een goede bodemstructuur- Losmaken van een te dichte grond door het graven van gangen- Vorming van slijmstoffen die de bodemdeeltjes aan elkaar kitten- Mengen van organische en anorganische bodemdelen.- Beperken van te grote aantallen ziekteverwekkende organismen  
+   ## Inleiding
+
+Het bodemleven is van grote invloed op de plantengroei. Uit organische mest, gewasresten en groenbemesters moet het bodemleven de voedingsstoffen vrijmaken die onmisbaar zijn voor de plant. Daarnaast heeft het bodemleven nog diverse andere functies. Te onderscheiden zijn de volgende:- Afbraak van plantenresten, mest en dode bodemorganismen en vrijmaken van voedingsstoffen hieruit (mineralisatie)- Opbouw van organische stof die slechts traag wordt afgebroken (humusopbouw, humificatie)- Opbouw van een goede bodemstructuur- Losmaken van een te dichte grond door het graven van gangen- Vorming van slijmstoffen die de bodemdeeltjes aan elkaar kitten- Mengen van organische en anorganische bodemdelen.- Beperken van te grote aantallen ziekteverwekkende organismen  
 De mate waarin de verschillende soorten aan bovenstaande effecten bijdragen, wisselt sterk per soort. Ook de mate waarin de verschillende soorten in een grond voorkomen, varieert sterk afhankelijk van grondsoort en bodemgebruik.  
 In een vruchtbare grond zijn aanwezig (Stockli, 1950):  
 bacteriën en actinomyceten 10.080 kg per haschimmels 10.000 kg per haprotozoën 379 kg per hanematoden (aaltjes) 50 kg per haspringstaarten 6,5 kg per hamijten 4,4 kg per haenchytraeen 15duizendpoten, insecten, spinnen 67 kg per haregenwormen 4000 kg per hamollen e.a. 1 kg per ha  
@@ -41,20 +37,12 @@ Schimmels in een bodemkluit
 
  
 
-
-
-
-
 **Bacteriën en schimmels in de grond****Vorm en functie**In de bodem komen vele soorten bacteriën voor met de meest uiteenlopende functies:-door omzetting van organische materialen komen voedingsstoffen vrij (vooral stikstof, fosfor en sporenelementen)-door slijmvorming wordt de bodemstructuur beïnvloed-de binding van stikstof door de wortelknolletjesbacteriën is een belangrijke stikstofbron  
 **Landbouwkundig**Er is een duidelijke tendens tot hogere bacterieactiviteit wanneer de grond minder zuur is (een hogere pH). Omdat bacteriën de neiging hebben organisch materiaal af te breken, kan dit tot humusafbraak leiden.Te sterk bekalken kan hierdoor een negatieve invloed op de grond hebben.   
 ![kalk bekalken](../img/bekalken-1920w.jpg)   
 Door bekalken wordt vooral de activiteit van bacterien vergroot
 
  
-
-
-
-
 
 **Stikstofbindende bacteriën****Vorm en functie**Net als bij een stikstofbindingsbedrijf maken de stikstofbindende bacteriën uit de vrije luchtstikstof eerst ammonium. Dit wordt dan weer tot aminozuren en eiwit omgezet. Hoe de stikstofbinding precies in zijn werk gaat is niet bekend maar het sporenelement molybdeen speelt hierbij een belangrijke rol. Van groot belang is dat de stikstofbindende bacteriën veel meer stikstof binden dan voor hun eigen groei nodig is. Het overschot is voor de plant beschikbaar.  
 De stikstofbindende bacteriën komen vrij in de grond voor. Wanneer er een vlinderbloemige wordt gezaaid gaan deze bacteriën door de wortelharen naar binnen, waarbij ze zeer lang worden vergeleken met hun normale staafvormige uiterlijk. De wortelcellen gaan zich na een infectie snel delen en zo ontstaan de wortelknolletjes. De vorm en grootte wisselt per plant. Na enige tijd verlaten de bacteriën de knolletjes weer en gaan de grond in. Knolletjes die stikstof binden hebben een roodachtige kleur. Deze kleur wordt veroorzaakt door een stof die nauw aan de rode bloedkleurstof verwant is.  
@@ -65,10 +53,6 @@ Door de bacteriën kunnen aanzienlijke hoeveelheden stikstof worden gebonden:
 Stikstofbindende bacterien bij erwt op het biologische bedrijf van Joost van Strien in Ens in de Noordoostpolder. De roze kleur geeft aan dat er actief stikstof gebonden wordt.
 
  
-
-
-
-
 
 **Vrij levende stikstofbindende bacteriën****Vorm en functie**Azotobacter chroococcum is de belangrijkste stikstofbindende bacterie die vrij in de grond leeft. Hieronder een 1000 x vergrote afbeelding. Deze bacterie komt over de hele wereld in de grond voor. Een andere stikstofbindende vrij levende bacterie is Clostridium butyricum. Deze komt evenwel veel minder voor. De vrij levende stikstofbindende bacteriën hebben veel koolhydraten nodig om hun substantie op te bouwen, wel 5 keer zo veel als andere bacteriën. Voor deze omzetting en opbouw is veel lucht nodig. Veel lucht en veel koolhydraten zijn omstandigheden die niet veel voorkomen en de stikstofbinding door deze bacteriën stelt daarom niet zoveel voor. Voor de binding van 10 kg stikstof is ca 1000 kg koolhydraten nodig.  
 Wanneer er evenwel wat minder lucht in de grond aanwezig is, wordt de stikstofbinding efficiënter en het is niet uitgesloten dat er in bepaalde situaties toch aanzienlijk meer dan de gebruikelijke 5 kg stikstof per ha kan worden gebonden.  
@@ -81,10 +65,6 @@ Azotobacter chroococcum
 
  
 
-
-
-
-
 **Actinomyceten****Vorm en functie**Actinomyceten zijn niet direct zichtbaar, maar toch kennen we ze wel. Ze zijn in belangrijke mate verantwoordelijk voor de typische geur van grond; de bosgrondgeur. Actinomyceten hebben veel gemeen met bacteriën. Ze onderscheiden zich ervan doordat ze als schimmels in strengen voorkomen. Het is wel zo dat ze alleen daar voorkomen waar voldoende lucht in de grond is. Als afweerstof tegen bacteriën produceren ze antibiotica (bijv. het geslacht Streptomyces produceert streptomycine en aureomycine). In de wortels van Elzen leeft Frankia. Een actinomyceet die vrije luchtstikstof bindt.  
 Actinomyceten breken plantenresten af en zijn ook in luchtige compost zeer actief  
 **Landbouwkundig**Luchtige omstandigheden stimuleren de actinomyceten.   
@@ -92,10 +72,6 @@ Actinomyceten breken plantenresten af en zijn ook in luchtige compost zeer actie
 Actinomyceten hebben wat betreft vorm en functie het midden tussen bacterien en schimmels.
 
  
-
-
-
-
 
 **Mycorrhiza****Vorm en functie**VAM schimmels (Vesiculair Arbusculair Mycorrhiza) leven gedeeltelijk in de plantenwortel en gedeeltelijk in de bodem. De plant voorziet de schimmel van koolhydraten. De schimmel helpt de plant bij de opname van water en voedingsstoffen, maar vooral fosfor. Verder neemt de ziektewerendheid van de wortel toe. Het wortelstelsel wordt als het ware groter. Bij veel landbouwgewasen komen VAM schimmels voor, maar niet bij de kruisbloemigen (kool, mosterd, bladramenas) en bij de ganzevoetfamilie (boekweit, akkermelde). Omdat deze planten goed kunnen groeien zonder VAM, groeien deze het beste op opgespoten terreinen en pas aangelegde bermen en dijken. **Landbouwkundig**Bij hogere gehaltes aan beschikbare stikstof en fosfor neemt de activiteit van de VAM schimmels af. Om deze reden speelt bij de intensieve teelten VAM waarschijnlijk geen grote rol. Bij lagere bemestingsniveaus in de akkerbouw ligt dit anders. Er zijn aanwijzingen dat mycorrhizaschimmels uienplanten weerbaarder maken tegen fusarium. Mycorrhizaschimmels spelen ook een belangrijke rol in het vastleggen van organische stof in de bodem. De schimmels maken glomaline aan. Door deze koolstofrijke glomaline ontstaan stabiele bodemaggregaten. Dit is dan ook gunstig voor de bodemstructuur. Mycorrhizaschimmels hebben het wat moeilijker in een landbouwsysteem waarbij diep geploegd wordt. Door diep te ploegen worden veel mycorrhizasporen (te) diep weggestopt. Daarnaast heeft een bemesting met veel minerale zouten en bijvoorbeeld bespuitingen met koper een sterk negatief effect op deze nuttige schimmels. Tips om de omstandigheden voor mycorrhizaschimmels zo gunstig mogelijk te maken:• Breng diversiteit aan in het bouwplan. Gebruik zoveel mogelijk waardplanten van mycorrhiza en vermijd niet-waardplanten.• Ploeg niet dieper dan nodig.• Introduceer mycorrhiza’s indien nodig. De vraag of het nodig is, is niet makkelijk te beantwoorden. Bij luzerne zijn gunstige effecten gevonden, bij de meeste andere gewassen worden zelden effecten gezien. De meest kansrijke manier om dit te doen is tegelijk met het inzaaien van een diverse groenbemester. Vermijd een bemesting net van te voren. Mycorrhizaschimmels zijn onder andere te koop bij Biomygreen (www.biomygreen.com) en Plant Health Cure (www.phc.eu). Biomygreen specialiseert zich speciaal op mycorrhizaschimmels en levert maatwerk door met analyses te volgen of de toepassing heeft gewerkt en stuurt desnoods bij.
 
@@ -105,10 +81,6 @@ Actinomyceten hebben wat betreft vorm en functie het midden tussen bacterien en 
 VAM schimmels zijn bij uien en granen goed te zien omdat de wortels er geel van worden.
 
  
-
-
-
-
 
   
 **Schimmels**  
@@ -120,22 +92,12 @@ Bodemschimmel
 
  
 
-
-
-
-
 **Protozoën****Vorm en functie**Protozoën zijn eencellige organismen die zich vooral met bacteriën en schimmels voeden. Ze kunnen zich vrij bewegen mits er voldoende vocht in de grond is. Onder droge omstandigheden vormen ze cysten. Protozoën hebben twee belangrijke functies in de grond. enerzijds reguleren ze de ontwikkeling van bacteriën en schimmels en zorgen ervoor dat bepaalde groepen zich niet te extreem kunnen ontwikkelen. Anderzijds maken ze bij het verteren van bacteriën en schimmels voedingsstoffen vrij en spelen daardoor een belangrijke rol bij de plantenvoeding.  
 **Landbouwkundig**Protozoën hebben een vloeistof-film nodig om zich te kunnen bewegen. De grond moet dus vochtig zijn voor een goede groei. Bij het verteren van schimmels en bacteriën komen voedingsstoffen vrij, vooral stikstof en fosfor. Wanneer door regen of beregening een droge grond vochtig wordt, stimuleert dit de groei. Dit is niet alleen het gevolg van een toegenomen beschikbaarheid van vocht, maar ook van een toegenomen beschikbaarheid van voedingsstoffen waar protozoën een belangrijke rol bij spelen.   
 ![protozoën](../img/protozoen-1920w.jpg)   
 Protozoën 
 
  
-
-
-
-
-
-
 
 
      
@@ -146,10 +108,6 @@ Aaltjes
 Aaltjes
 
  
-
-
-
-
 
   
 Mijten  
@@ -162,10 +120,6 @@ Diverse soorten mijten
 
   
  
-
-
-
-
 
   
 Springstaarten  
@@ -180,10 +134,6 @@ De drie groepen springstaarten
 
  
 
-
-
-
-
 **Potwormen****Vorm en functie**Potwormen (Enchytraeen) zijn kleine witte wormen van 4 tot 40 mm lang. Ze kunnen in grote aantallen in grond, strooisellaag of compost voorkomen. Belangrijk zijn hun levensomstandigheden en hun invloed op de bodem.  
 Wat de levensomstandigheden betreft is het van belang dat ze bij een veel lagere pH-waarde kunnen leven dan regenwormen. De rol die regenwormen bij hogere pH-waarden spelen, wordt door de potwormen bij lagere pH-waarden ingenomen.  
 Het voedsel van potwormen bestaat uit weinig of licht voorverteerd voedsel. Het wordt in de mondholte opgenomen en daar enzymatisch voorverteerd. Een dergelijk soort voorvertering vinden we bij regenwormen niet; wel bij loopkevers en spinnen. Het opgeloste voedsel wordt nu opgezogen tezamen met micro-organismen en grond. In de uitwerpselen zijn de bodemdeeltjes en het verteerde voedsel aan elkaar gebonden. Op deze wijze wordt humus aan klei gebonden en de uitwerpselen van de potwormen hebben een veel grotere stabiliteit dan bodemdeeltjes die mechanisch verkleind zijn.  
@@ -193,10 +143,6 @@ Een interessante eigenschap is nog dat wortelcellen die door nematoden zijn aang
 Potworm met op de achergrond een regenworm
 
  
-
-
-
-
 
 **Regenwormen****Vorm en functie**De groep van de regenwormen is een van de belangrijkste groepen dieren in de bodem. In voedselrijke graslanden bereiken de regenwormen de grootste dichtheden tot ca. 300-500 per m2 en hier worden ook de meeste soorten gevonden (Van Rhee, 1970).  
 De grootste soort (Lumbricus terrestris) kan wel 30 cm lang worden. Binnen de regenwormen kunnen drie groepen worden onderscheiden:  
@@ -233,12 +179,6 @@ Verspreiding: 3 tot 5 meter per kolonie per jaar
  
 
 
-
-
-
-
-
-
      
 ![aporectodea caliginosa apporatodea calliginosa](../img/allolocal-1920w.jpg)   
 **Aporectodea caliginosa** is de meest voorkomende worm in Nederland. Hij leeft in de bovenste 40 cm. Doordat hij grond en plantenresten tegelijk eet, is hij een belangrijke structuurverbeteraar en vormer van stabiele, aan klei gebonden humus.
@@ -257,12 +197,6 @@ Diapauze: gaat bij kou en droogte in een soort winterslaap en kan zo overleven; 
 Voedsel: meest al wat voorverteerd voedsel
 
  
-
-
-
-
-
-
 
 
      
@@ -288,10 +222,6 @@ Cocons: 80-110 per jaar per worm
 
  
 
-
-
-
-
   
 ![mestwormen eisenia foetida](../img/eisenia-1920w.jpg)   
 **Eisenia foetida**
@@ -316,10 +246,6 @@ Eieren: 900 per worm per jaar
   
  
 
-
-
-
-
 Amerikaanse wormen
 
 ﻿﻿  
@@ -341,8 +267,6 @@ Wat is er aan de hand? De bossen in het merengebied bij de grens van de VS en Ca
 
 ﻿﻿  
 
-
-
 **Mollen****Vorm en functie**De mol is een insectenetend zoogdier. Het dier leeft het grootste deel van het jaar alleen in een territorium van ongeveer 450 m2. Binnen dit gebied gaat zij dagelijks op zoek naar haar 'portie vlees' van 50 à 100 gram. Op zoek naar eten maakt zij gebruik van een 'vast' gangenstelsel van waaruit ze voortdurend in allerlei richtingen een groot aantal jachtgangen graaft. Al met al kunt u in zo'n territorium wel 100 tot 150 meter gangenstelsel tegenkomen. Door het minimale gezichtsvermogen van de mol leeft zij hoofdzakelijk onder de grond.  
 Alleen in geval van voedselschaarste en noodzakelijke verplaatsingen komen zij ‘s nachts boven de grond. De vrouwtjes werpen in mei 3 tot 4 jongen. Eenmaal uit het nest gekomen jagen ze in moeders gangenstelsel. Tot en met augustus leven ze hier om vervolgens door moeder mol te worden gedumpt. Op zoek naar een nieuw territorium blijken er weinig barrières te zijn, omdat een mol zelfs kan zwemmen. Tijdens het zoeken komen de jonge mollen vaker boven de grond dan normaal en valt een gedeelte ten prooi aan roofvogels, reigers, honden en katten. De overgebleven jonge molletjes kiezen vervolgens nieuwe voedselgebieden.  
 **Landbouwkundig**Op zich heeft de mol een positieve invloed op de bodemstructuur, dit ondanks het feit dat ze veel regenwormen opeet. De mol wordt een probleem wanneer ze jong zaai- of plantgoed vernielt of de oppervlakte van de grond uit ‘model’ brengt. Wat te doen indien de mol overlast veroorzaakt? In hoofdlijnen zijn er twee mogelijkheden. Verjagen of verplaatsen en bestrijden.  
@@ -355,18 +279,8 @@ Mol
 
  
 
-
-
-
-
 **Literatuur**  
 Brown, A.L., 1980, Ecology of soil organisms. Heinemann, London.Dekkers, D., 1994, VAM-schimmel en regenworm in fosfaathuishouding. Ekoland 3 1994, blz 20, 21.Felix, J. e.a., 1972, Thieme’s grote natuurgids, Thieme, Zutphen.Goede, R.G.M. de, Bodembiologie en het belang voor de landbouw, LBI, NMI, 2000.Ingham, E., Soilfoodweb inc USA .Kuntze, H. e.a.,1981, Bodemkunde, Ulmer, Stuttgart.Lechevalier, H.A. and D. Pramer, 1971, The microbes, Lippincott, PhiladelphiaLowenfels, J..en Schlegel, H.G., 1969, Allgemeine Mikrobiologie. Thieme Stuttgart.Topp, W., 1981, Biologie der Bodemorganismen. Quelle & Meywer, Heidelberg.Wold, A., 1993, Soils and the environment.University press, Cambridge.  
   
-
-
-
-
-
-
 
 

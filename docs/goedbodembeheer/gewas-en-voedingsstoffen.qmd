@@ -4,8 +4,6 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-
-
 Een overzicht over welke voedingsstoffen van belang zijn voor een goede groei van gewassen. Verder hoe je aan plant kunt zien of er een tekort aan een bepaalde voedingsstof is.
 
 
@@ -25,7 +23,9 @@ Een overzicht over welke voedingsstoffen van belang zijn voor een goede groei va
 - [Zwavel](#Zwavel)
 - [Mangaan](#Mangaan) 
 
-**Inleiding**  
+## Inleiding
+
+  
 Het droge materiaal van planten komt voornamelijk uit lucht en water. De plant bestaat gemiddeld voor 45% uit zuurstof, 45% uit koolstof en 6% uit waterstof. Dat is 96%. De overige 4 % bestaat uit stoffen die uit de bodem opgenomen worden: 
 
 | % | Stof |
@@ -52,8 +52,6 @@ In het algemeen is de gehele plant licht van kleur en groeit traag. Stikstofover
 ![stikstofgebrek mais](../img/maisngebrek-1920w.jpg)   
 Stikstofgebrek in mais
 
-
-
 ![stikstofgebrek suikerbiet](../img/ngebrekbiet-1920w.jpg)   
 Stikstofgebrek in suikerbiet
 
@@ -71,8 +69,6 @@ Fosforgebrek in suikerbiet
 Kaliumgebrek uit zich in waterige smaak. Het suikergehalte is laag. Stelen zijn vaak zwak en lang. Bladeren blijven klein en misvormd. Fruit valt te vroeg af ben het oudere blad wordt bruin. Maïs krijgt kleine gele bladeren en de planten vallen snel om.   
 ![kaliumgebrek mais](../img/M0689-1920w.jpg)   
 Kaliumgebrek in mais
-
-
 
 ![kaliumgebrek aardappel](../img/M2294-1920w.jpg)   
 Kaliumgebrek in aardappel
@@ -99,8 +95,6 @@ Boriumgebrek vertraagd de groei aan de groeipunten. Planten hebben kleine, gekre
 ![boriumgebrek koolzaad](../img/M1033-1920w.jpg)   
 Boriumgebrek in koolzaad
 
-
-
 ![boriumgebrek mais](../img/k1598_custom-1920w.jpg)   
 Boriumgebrek in mais
 
@@ -111,8 +105,6 @@ Bij gebrek wordt de hele plant licht van kleur. Het gebrek lijkt op dat van stik
 ![zwavelgebrek suikerbiet](../img/K1272-1920w.jpg)   
 Zwavelgebrek in suikerbiet
 
-
-
 ![zwavelgebrek aardappel](../img/M2207-1920w.jpg)   
 Zwavelgebrek in aardappel
 
@@ -121,8 +113,6 @@ Zwavelgebrek in aardappel
 Tekort geeft heeft vergeling tussen de nerven van het jonge blad tot gevolg. De groei wordt geremd.   
 ![mangaangebrek mais](../img/K0433-1920w.jpg)   
 Mangaangebrek in mais
-
-
 
 ![mangaangebrek suikerbiet](../img/K0455-1920w.jpg)   
 Mangaangebrek in suikerbiet

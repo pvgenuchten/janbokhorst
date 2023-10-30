@@ -4,8 +4,6 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-
-
 Een diep wortelende tulp op een humusrijke zavelgrond bij de proeftuin Zwaagdijk. Niet altijd is er zo'n mooie grond beschikbaar voor bollenteelt op zavel en klei.  
 
 
@@ -16,7 +14,7 @@ Een diep wortelende tulp op een humusrijke zavelgrond bij de proeftuin Zwaagdijk
 - Waar op letten bij de keuze van huurland?
 - Literatuur  
   
-**Inleiding**
+## Inleiding
 
 Bollenteelt op zavel- en kleigronden vindt hoofdzakelijk plaats op huurland.Bij teelt op huurland na gescheurd gras heeft de bollenteelt te maken met structuurbederf. Tijdens de graslandperiode worden namelijk steeds zwaardere machines gebruikt bij bemesting en oogst van het gras. In de akkerbouw staat de bodemstructuur onder druk onder meer door intensieve bouwplannen en ook gebruik van zwaardere machines onder ongunstige omstandigheden en minder aanvoer van organische stof.  
   
@@ -27,10 +25,6 @@ De bodem vergt bij de bollenteelt extra aandacht. Hier zijn meerdere redenen voo
 Bollenteelt op huurland in Noord-Holland
 
  
-
-
-
-
 
   
 Op zavel- en kleigronden kan niet met hoge grondwaterstanden worden gewerkt. Er treedt dan luchtgebrek op en ook berijden geeft problemen. De grondwaterstand moet tenminste ca. 70 cm onder maaiveld liggen en op gevoelige gronden met hogere lutum- en organische stofgehalten tenminste 90 cm onder maaiveld. Ook wanneer er fijn zand aanwezig is die interne slemp kan veroorzaken is een goede ontwatering tot 90 cm onder maaiveld belangrijk. Verder moet de waterafvoer tenminste 10 mm per dag bedragen. De capillaire opstijging zou 6 mm per dag moeten bedragen, maar dat is op zavel- en kleigronden vaak niet meer dan 2 mm en beregenen wordt in het groeiseizoen belangrijk. De ondiepe beworteling van bolgewassen speelt een rol bij de grote vochtbehoefte. Er zijn geen wortels die diep gaan en veel vocht uit de ondergrond kunnen halen. Een goede verkruimelbaarheid van de grond was vroeger belangrijk. Grove kluiten tussen de bollen bij de oogst betekent veel handwerk. Door de nettenteelt is dit minder een probleem en kan er ook op zwaardere grond geteeld worden. Lichte gronden met weinig kalk en een laag organische stofgehalte zijn slempgevoelig en een bedekking met stro is hier belangrijk.Omdat bollen een goed doorwortelbare laag onder de boldiepte moeten hebben wordt er vaak vrij diep geploegd. De kans bestaat dat de poriënstructuur naar de ondergrond verbroken wordt en er waterstagnatie optreedt. Tevens wordt het organische stofgehalte lager. Een goede bodemstructuur in de laag onder boldiepte is belangrijk. Vooral op humusarme zwaardere gronden kan bij laat ploegen onder natte omstandigheden schade aan de bodemstructuur aangericht worden.Bodemvruchtbaarheid op zavel- en kleigrondenDe bollenteelt op zavel- en kleigronden betreft dus vooral teelt op huurland. De verzorging van de bodemvruchtbaarheid is daarom vooral een zaak van de verhuurder. Huurder en verhuurder hebben beide belang bij een goede bodem. Vaak wordt er gedurende langere tijd bij eenzelfde verhuurder land gehuurd. Samen naar de juiste bemesting, grondbewerking en gewaskeuze van de hele vruchtwisseling kijken is altijd wenselijk. Van groot belang is de keuze van het juiste perceel. De huurder heeft hierin veel vrijheid wanneer er geen vaste relatie is, maar ook wanneer er wel een gedurende meerdere jaren contact is, is bodemkwaliteit belangrijk. Een oogst van een hakvrucht in een natte herfst kan voor meerdere jaren een perceel minder geschikt maken voor bollenteelt.De belangrijkste principes rond onderhoud en verbetering van de bodemkwaliteit verschillen voor weidebouw en akkerbouw:  
@@ -48,29 +42,17 @@ Rechts tulpen met compost als mulch, links met stro. De groei was sterker bij co
 
  
 
-
-
-
-
   
 ![](../img/bodemgroencIMG_4783(Large)-1920w.jpg)   
 De compost, aangebracht in de herfst bleek in de zomer van het volgende jaar door regenwormen in vrij sterke mate de grond te zijn ingewerkt. Dit betekende een aanzienlijke verbetering van de structuur en de beworteling.
 
  
 
-
-
-
-
 **Onderzoek compost onder in de bouwvoor**   
 ![](../img/IMG_1033rechtopbijgesn(Medium)-1920w.jpg)   
 Om de bollen dichter bij de natuurlijke groei te krijgen is onder in de bouwvoor een laagje groencompost aangebracht.
 
  
-
-
-
-
 
   
 ![](../img/bolfeb08002bijgesne(Medium)-1920w.jpg)   
@@ -79,10 +61,6 @@ Bij gebruik van compost bleek de groei van de wortels direct na uitlopen beter b
 De verdere groei van de bollen kon niet onderzocht worden. Nader onder onderzoek moet dit uitwijzen.
 
  
-
-
-
-
 
   
   
@@ -93,19 +71,11 @@ Zwaagdijk. Een woudeerdgrond met een dikke donkere bovenlaag
 
  
 
-
-
-
-
   
 ![](../img/opentulpendag4juni2008012(Medium)-1920w.jpg)   
 De humusrijke bovenlaag van 35 cm dik is geheel doorworteld
 
  
-
-
-
-
 
   
 ![](../img/opentulpendag4juni2008017(Medium)(1)-1920w.jpg)   
@@ -113,19 +83,11 @@ Door verticale wormgangen is ook de ondergrond doorworteld
 
  
 
-
-
-
-
 **2 Grasland aan de Zeugweg in de Wieringermeer**   
 ![](../img/proefveldhermusenzeugweg048(Small)rechtop-1920w.jpg)   
 Het plan is deze grond voor bollenteelt te gebruiken. In het verleden hebben er aardappelen, tarwe en suikerbieten op gestaan. 20% slib en 1,5% organische stof. Het is een organischestofarme grond dus, maar de bodemstructur is goed door een zorgvuldig beheer. Onderin zijn wel blauwe, anaerobe plekken zichtbaar.
 
  
-
-
-
-
 
   
 ![](../img/proefveldhermusenzeugweg045(Small)-1920w.jpg)   
@@ -135,17 +97,15 @@ Deze grond is zeer gevoelig voor een verkeerd beheer. Hoewel nu in de nazomer mo
 
  
 
-
-
-
-
   
 **Groenbemesters**Groenbemesters worden onder meer geteeld om uitspoeling van voedingsstoffen tegen te gaan, om organische stof te leveren en om verstuiving tegen te gaan. De belangrijkste eigenschap is evenwel verbetering van de bodemstructuur. De vers ondergeploegde groene massa verbetert de bodemstructuur maar beperkt en kan onder natte omstandigheden ook een negatief effect op de bodemstructuur hebben doordat er luchtgebrek ontstaat. Het zijn vooral de wortels die de bodemdeeltjes bijeen houden en de structuur verbeteren.Verder is bij de teelt van groenbemesters van belang dat de gebruiksruimte van stikstof groter wordt, dat het inzaaien en onderwerken kosten met zich meebrengt en dat aaltjes zich kunnen vermeerderen tijdens de teelt.  
 **Grondbewerking zavel- en kleigronden**De teelt van bollen op zavel- en kleigronden vindt voornamelijk op huurland plaats. Het is vooral een zaak van de verhuurder om een optimale inzet van groenbemesters te verwezenlijken. De negatieve of positieve rol die groenbemesters bij schade door aaltjes kunnen hebben speelt in de bollenteelt op zavel- en kleigronden aanzienlijk minder dan op zandgronden. Aaltjesonderzoek van de grond voorafgaand aan de teelt is alleen nodig wanneer aardappels in de rotatie zijn opgenomen in verband met een AM-vrij verklaring. Bij een langdurig contact met een verhuurder kan een gesprek rond optimaal bodembeheer zinvol zijn. Bij groenbemesters zijn dan aandachtspunten die de keuze kunnen beïnvloeden:- vriest de groenbemester dood in de winter;- past de groenbemester in de vruchtwisseling;- vermeerdert de groenbemester geen aaltjes;- wat zijn de bewortelingseigenschappen van de groenbemester;- kan stimulering van slakken een probleem zijn.Een nieuwe ontwikkeling rond de teelt van groenbemesters is het zaaien van een mengsel. Hierdoor kunnen de positieve eigenschappen van meerdere groenbemesters gecombineerd worden. Een mogelijkheid is om een structuurverbeterende en een stikstofbindende groenbemester te combineren. Ook is het mogelijk om een groenbemester die snel kiemt en onkruid onderdrukt te combineren met een groenbemesters die vooral de bodemstructuur verbetert. Een voorbeeld van de eerste combinatie is haver met wikke. Van de tweede bladrammenas met Engels raaigras.  
   
 **Waar op letten bij de keuze van huurland?**  
 **Inhoud****-De geschiedenis van een perceel****-Ziekten en voorvrucht****-Bodemanalyse****-Aaltjes****-Start al eerder****-Het contact met de verhuurder**  
-**Inleiding**De groei van bollen wordt sterk bepaald door de bodemkwaliteit. De meeste bollen hebben een zwak wortelstelsel en wanneer de structuur verdicht is, wordt de wortelgroei sterk belemmert. Hierdoor neemt de ziektegevoeligheid toe en wordt de opbrengst lager. Verder moet er vaker bemest en beregend worden. Ook een slechte ontwatering, een verkeerde zuurgraad of tekortkomingen bij de voedingsstoffenlevering kunnen redenen zijn om een perceel niet te kiezen. Om tot een goede keuze te komen en de juiste maatregelen te nemen zijn van belang:-de geschiedenis van een perceel-de bodemanalyse-de bodemconditieDeze worden achtereenvolgens behandeld.  
+## Inleiding
+
+De groei van bollen wordt sterk bepaald door de bodemkwaliteit. De meeste bollen hebben een zwak wortelstelsel en wanneer de structuur verdicht is, wordt de wortelgroei sterk belemmert. Hierdoor neemt de ziektegevoeligheid toe en wordt de opbrengst lager. Verder moet er vaker bemest en beregend worden. Ook een slechte ontwatering, een verkeerde zuurgraad of tekortkomingen bij de voedingsstoffenlevering kunnen redenen zijn om een perceel niet te kiezen. Om tot een goede keuze te komen en de juiste maatregelen te nemen zijn van belang:-de geschiedenis van een perceel-de bodemanalyse-de bodemconditieDeze worden achtereenvolgens behandeld.  
 **De geschiedenis van een perceel**Bij de keuze van huurland moet gelet worden op het gewas in het voorgaande jaar in verband met de bodemstructuur en op voorvruchten langer geleden in verband met het optreden van ziekten en plagen. Een aantal veel voorkomende voorvruchten worden behandeld:GraslandGrasland is voor bollen het meest populair. De graswortels binden de bodemdeeltjes aan elkaar en geven een goede samenhangende bodemstructuur. De vertering van gras en wortels geven ook een nalevering van stikstof. De reden dat een perceel grasland is kan soms ook zijn dat de grond eigenlijk ongeschikt is voor andere teelten. De grond is te zuur, te zwaar of het organischestofgehalte is te hoog. Ook voor bollenteelt is een dergelijk perceel dan minder geschikt. Grasland wordt de laatste jaren steeds intensiever bereden en bij bemesting en grasoogst wordt steeds zwaardere apparatuur gebruikt. Ook wordt vaak onder te natte omstandigheden gewerkt. De bodemstructuur beoordelen alvorens aan de slag te gaan, is bij grasland steeds belangrijker. Informatie over de wijze waarop de bodem beoordeeld kan worden, staat onder 'De bodem', envervolgens onder 'Bodembeoordeling'. Een grasland dat voor bollenteelt wordt gebruikt moet tenminste 5 jaar oud zijn. Gras van 8 tot 10 jaar is ideaal. Dergelijk land wordt dan vers land genoemd, hoewel de term eigenlijk bedoeld is voor land waar nog nooit bollen hebben gestaan.Grasland op kleigrond mag alleen tussen 1 februari en 15 september worden gescheurd. Er moet dan direct aansluitend een relatief stikstofbehoeftig gewas worden ingezaaid. Het kan ook van 16 september tot 30 november wanneer tulp, krokus, iris of muscari (blauwe druif) worden geplant. Plant het gewas direct na omwerken van de graszode.  
 **Tarwe**In de akkerbouw is tarwe als voorvrucht aantrekkelijk. Tarwe wordt in het algemeen onder relatief droge omstandigheden geoogst en de kans op bodemverdichting bij de oogst is dan kleiner. Tevens levert tarwe via wortels en stro verse organische stof. Een nadeel van tarwe is wel dat de grond vaak vast en kluiterig is. De voorvrucht voor tarwe is vaak aardappel. Bij de ruggenopbouw voor aardappel wordt de grond fijngefreesd en verdwijnen de stabiele structuurelementen. Bij de oogst van de aardappel kan verdere structuurachteruitgang optreden. Vervolgens wordt tarwe gezaaid en ligt de grond nog lang open en kan bij regen verdere verdichting optreden. De bodemstructuur na tarwe valt om deze redenen soms tegen. Het ophalen van de strobalen na de oogst kan ook tot diepe sporen leiden.  
 **Suikerbiet en andere rooivruchten**Gewassen die laat onder natte omstandigheden geoogst worden kunnen meerdere jaren tot een slechte bodemstructuur leiden. Suikerbiet is berucht. Bij suikerbiet wordt vrijwel onafhankelijk van het weer gerooid. Bollen telen na suikerbieten is daarom riskant. Toch worden bollen wel na suikerbieten geteeld. De reden is dat de bodemstructuur van bietenland erg mooi kan zijn wanneer onder voldoende droge omstandigheden is geoogst. De bodemstructuur is dan beter dan na aardappels en tarwe.De bodemstructuur is na aardappels vaak niet mooi door structuurschade bij de ruggenbouw en natte omstandigheden bij de oogst.Groentegewassen zoals peen zijn vaak minder aantrekkelijk door het late oogsttijdstip en het verdichten van de bodem tijdens de oogst.  
@@ -159,12 +119,6 @@ Deze grond is zeer gevoelig voor een verkeerd beheer. Hoewel nu in de nazomer mo
 **Het contact met de verhuurder**De bollenteler gebruikt het land maar een jaar en fundamentele verbeteringen van de bodemkwaliteit liggen dan niet voor de hand of zijn niet mogelijk. De verhuurder heeft evenwel ook belang bij een goede bodemkwaliteit. Wanneer gedurende langere tijd grond gehuurd wordt is bodemkwaliteit een gemeenschappelijk belang. Ga in overleg met de verhuurder en bespreek de maatregelen rond bodemvruchtbaarheid.  
 **Literatuur**  
 Berge, H.F.M. ten, 2007. Mestbeleid en bodemvruchtbaarheid in de Duin- en Bollenstreek. Werkdocument 47 WONM WUR Wageningen.Bodemkaart van Nederland 1965, 1987, 1992, 1996: 9W, 14WO, 15W, 19WO, 20W, 24W, 25W, 25O. Stiboka, Wageningen.Dam, A. van e.a., 2001. Mangaan in tulp: soms een opbrengsteffect. Bloembollencultuur nr. 7.Dam, A. van e.a., 2003. Koubont de baas met ijzer: hoe doe je dat. Bloembollenvisie nr. 18.Dam, A. van e.a., 2004. Adviesbasis voor de bemesting van Bloembolgewassen. PPO sector bloembollen, Wageningen, rapport 708.Dam, A. van en G. Braam, 2005. Mest- en mineralenkennis voor de praktijk. Bemestingsstrategie voor de bloembollenteelt. WUR/DLV blad 6 DWK-398-I,II,II.Groenewoud C., 2007. Compensatie bollengrond. Aanvullend onderzoek. Arcadis Hoofddorp 2007.Kater, L.J.M. e.a., 2004. Kosteneffectieve maatregelen-pakketten bij mineralenbeleid verdergaand dan Minas. PPO Bloembollen rapport nr 714.Knaap, W.C.A. van der, 1984. Bodemgeschiktheid voor de bloembollenteelt. Bedrijfsontwikkeling 15, 12.Schreuder, R. e.a., 2000. Consequenties Minas en mestbeleid voor de bollenteelt op sectorniveau. Laboratorium voor Bloembollenonderzoek, Lisse, Rapport 123.Smeding, F. en N. Reijers, 2006. Bedrijfskaart biodiverse bloementeelt. PPO, LBI en CLM.  
-
-
-
-
-
-
 
 
 

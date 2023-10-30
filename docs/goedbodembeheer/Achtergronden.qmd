@@ -5,21 +5,20 @@ author: Jan Bokhorst
 ---
 
 # ACHTERGRONDEN
-
-
-
----
-
-
-
-
-
+)
+- [Anders kijken naar bodem](./goedbodembeheer/anders-kijken-naar-bodems.qmd)
+- [Bodem en stoffen](./goedbodembeheer/bodem-en-stoffen.qmd)
+- [Bodem en plant](./goedbodembeheer/bodem-en-plant.qmd)
+- [Bodem en dier](./goedbodembeheer/bodem-en-dier.qmd)
+- [Bodem en landschap](./goedbodembeheer/bodem-en-landschap.qmd)
+- [Bodemontwikkeling](./goedbodembeheer/bodemontwikkeling.qmd)
+- [Bodem en biodynamisch](./goedbodembeheer/bodem-en-biodynamisch.qmd)
+- [Wortel kindjes](./goedbodembeheer/sibyle-von-olfers-de-wortellkindertjes.qmd)
+- [Jan Ligthart de eegenworm](./goedbodembeheer/jan-ligthart-de-regenworm.qmd)
+- [Kleine volkje](./goedbodembeheer/het-kleine-volkje.qmd)
+- [Reis door de bodem](./goedbodembeheer/een-reis-door-de-bodem.qmd)
+- [Bodem en kunst](./goedbodembeheer/bodem-en-kunst.qmd) 
+- [Van Gogh](./goedbodembeheer/boomwortels-van-vincent-van-gogh.qmd)
 
        
-
-
-
-
-
-
 

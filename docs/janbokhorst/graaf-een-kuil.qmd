@@ -30,10 +30,6 @@ Een scherpblokkig element is hoekig en er groeien geen wortels in
   
  
 
-
-
-
-
 2. Regenwormen  
 Aantal regenwormen in een kluit van 20 x 20 x 20 cm  
 0 punten: 0  
@@ -46,10 +42,6 @@ Het tellen van wormen gaat het beste na  een periode waarin de bodem langere ti
 
  
 
-
-
-
-
 **3. Beworteling**  
 Maximale diepte van de beworteling  
 0 punten: 0 wortels per 100 cm2 op 40 cm diepte1 punt: 1wortel per 100 cm2 op 40 cm diepte2 punten: 2 wortels per 100 cm2 op 40 cm diepte3 punten: 3 of meer wortels per 100 cm2 op 40 cm diepte   
@@ -57,12 +49,6 @@ Maximale diepte van de beworteling
 Veel bodems zijn na 25 cm diepte door verdichting slecht doorwortelbaar. Voor de vochtvoorziening en de voorziening van voedingststoffen is een diepere beworteling van belang.
 
  
-
-
-
-
-
-
 
 
    **Tel de scores bij elkaar op****totaal 0 punten: zeer slechte bodemkwaliteit****totaal 10 punten: zeer goede bodemkwaliteit** 
@@ -94,12 +80,6 @@ Voor plantengroei is dit de mooiste structuur
  
 
 
-
-
-
-
-
-
      
 ![](../img/4d9b5db7-6575-4d38-884e-e83c81c320ab-1920w.jpg)   
 **Afgerond blokkige structuur**
@@ -108,10 +88,6 @@ Deze structuurelementen zijn wat meer afgerond en niet hoekig. Er zijn veel pori
 
  
 
-
-
-
-
   
 ![scherpblokkige structuur](../img/0eec3ac2-53b5-4662-b394-633134dfbb65-1920w.jpg)   
 **Scherpblokkige structuur**
@@ -119,10 +95,6 @@ Deze structuurelementen zijn wat meer afgerond en niet hoekig. Er zijn veel pori
 De kluiten zijn hoekig en er kunnen in het algemeen geen wortels in doordringen. Soms zitter er wel wortels in. Dat is bijvoorbeeld het geval wanneer jonge planten in losgemaakte grond zijn geplant en de wortels eerst in de grond kunnen doordringen maar later zakt de grond volledig in tot een scherpblokkige structuur. 
 
  
-
-
-
-
 
 **Het verkrijgen van een kluit op een spade**  
 Om de bodemstructuur te beoordelen is het nodig om een ongestoorde kluit van de laag 0-25 cm diepte en van de laag 25-50 cm diepte vrij te krijgen. Dit kan met een normale spade gebeuren. Wel moet zo gewerkt worden dat de te beoordelen grond niet verstoord wordt.  
@@ -184,12 +156,6 @@ Schrijf uw onderschrift hier
 
 Knop
 
-
-
-
-
-
-
    
 
 ---
@@ -211,12 +177,6 @@ De bovenkant is rood en de onderkant grauw. Ze leven vooral in de strooisellaag 
  
 
 
-
-
-
-
-
-
      
 ![](../img/302grouwIMG_2273(Medium)-1920w.jpg)   
 Groep 2: Bodembewoners
@@ -225,12 +185,6 @@ Deze wormen hebben aan bovenzijde en onderzijde eenzelfde grauwe kleur. Ze eten 
 
   
  
-
-
-
-
-
-
 
 
      
@@ -245,27 +199,13 @@ Deze wormen leven hun hele leven in eenzelfde verticale gang. Die gang kan dan d
  
 
 
-
-
-
-
-
-
    ![](../img/3groepen-1920w.jpg)
 
-
-
    **De drie groepen regenwormen naast elkaar.**  
-
-
 
    
 
 ---
-
-
-
-
 
    **Meer over de visuele beoordeling van de beworteling**
 
@@ -280,31 +220,17 @@ Veel wortels en veel kleine wortels geven aan dat er goede bewortelingsmogelijkh
 
  
 
-
-
-
-
   
 ![](../img/Img6254-1920w.jpg)   
 Weinig wortels die vaak dik en kronkelig zijn met hier en daar een zijwortel die ook weer kronkelig is geeft aan dat er structuurproblemen zijn.
 
  
 
-
-
-
-
   
 ![](../img/DSCN1317-1920w.jpg)   
 Wortels zijn te tellen. Op een horizontaal vlak op een oppervlak van 10x10 cm is een mogelijkheid. Dieptes van 20 en 40 cm zijn belangrijk.
 
  
-
-
-
-
-
-
 
 ---
 
@@ -339,11 +265,5 @@ McGarry, D., 2004. A Methodology of a Visual Soil – Field Assessment Tool – 
 McKenzie, D.C., 2013. Visual soil examination techniques as part of a soil appraisal framework for farm evaluation in Australia. Soil Tillage Res. 127, 26–33. http://dx.doi. org/10.1016/j.still.2012.05.004.  
 Mueller,L.,Kay,B.D.,Hu,C.,Li,Y.,Schindler,U.,Behrendt,A.,Shepherd,T.G.,Ball,B.C., 2009. Visual assessment of soil structure: evaluation of methodologies on sites in Canada, China and Germany. Part I: Comparing visual methods and linking them with soil physical data and grain yield of cereals. Soil Tillage Res. 103, 178–187. http://dx.doi.org/10.1016/j.still.2008.12.015.  
 Newell-Price, J.P., Whittingham, M.J., Chambers, B.J., Peel, S., 2013. Visual soil evaluation in relation to measured soil physical properties in a survey of grassland soil compactioninEnglandandWales.SoilTillageRes.127,65–73.http://dx.doi.org/10. 1016/j.still.2012.03.003.
-
-
-
-
-
-
 
 

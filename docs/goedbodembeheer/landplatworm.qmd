@@ -6,13 +6,7 @@ author: Jan Bokhorst
 
 # landplatworm
 
-
-
 ---
-
-
-
-
 
 
         Wat zijn platwormen?
@@ -39,15 +33,7 @@ De EU heeft de Nieuw-Zeelandse landplatworm (Arthurdendyus triangulatus) vanwege
 
   
 
-
-
  ![](../img/nieuw%20zl%20platworm-1920w.jpg)
-
-
-
-
-
-
 
 
 
