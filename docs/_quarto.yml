@@ -1,0 +1,110 @@
+project:
+  type: website
+
+website:
+  title: "Goed bodembeheer / Jan Bokhorst"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: goedbodembeheer/index.qmd
+        text: Goed Bodembeheer
+
+      - href: janbokhorst/index.qmd
+        text: Jan Bokhorst
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+
+      - section: "Bodem"
+        contents:
+          - ./goedbodembeheer/graaf-een-kuil.qmd
+          - ./goedbodembeheer/bodemonderzoek.qmd
+          - ./goedbodembeheer/bodemleven.qmd
+          - ./goedbodembeheer/bodemstructuur1.qmd
+          - ./goedbodembeheer/beworteling.qmd
+          - ./goedbodembeheer/water-in-de-grond.qmd
+          - ./goedbodembeheer/organische-stof.qmd
+          - ./goedbodembeheer/bodem-en-voedingsstoffen.qmd
+          - ./goedbodembeheer/gewas-en-voedingsstoffen.qmd
+          - ./goedbodembeheer/bodem-en-ziektewerendheid.qmd
+          - ./goedbodembeheer/bodem-en-klimaat.qmd
+          - ./goedbodembeheer/bodem-en-kringlooplandbouw.qmd
+
+      - section: "BODEMBEHEER"
+        contents:
+          - ./goedbodembeheer/nederland-per-bodemtype.qmd
+          - ./goedbodembeheer/akkerbouw-flevoland.qmd
+          - ./goedbodembeheer/akkerbouw-zeeklei.qmd
+          - ./goedbodembeheer/akkerbouw-kalkarme-klei.qmd
+          - ./goedbodembeheer/akkerbouw-loess.qmd
+          - ./goedbodembeheer/akkerbouw-veenkolonien.qmd
+          - ./goedbodembeheer/grasland-veen.qmd
+          - ./goedbodembeheer/grasland-zand.qmd
+          - ./goedbodembeheer/grasland-zavel-en-klei.qmd
+          - ./goedbodembeheer/groenteteelt-noord-holland.qmd
+          - ./goedbodembeheer/groenteteelt-zand.qmd
+          - ./goedbodembeheer/bollenteelt-zand.qmd
+          - ./goedbodembeheer/bollenteelt-zavel-en-klei.qmd
+          - ./goedbodembeheer/boomkwekerij.qmd
+          - ./goedbodembeheer/druiven.qmd
+          - ./goedbodembeheer/fruit-zand-en-klei.qmd
+          - ./goedbodembeheer/kasteelt.qmd
+          - ./goedbodembeheer/kasteelt-zand-en-klei.qmd
+          - ./goedbodembeheer/moestuin-stadslandbouw.qmd
+          - ./goedbodembeheer/moestuin.qmd
+          - ./goedbodembeheer/stadslandbouw.qmd
+          - ./goedbodembeheer/sport.qmd
+          - ./goedbodembeheer/golfbanen.qmd
+          - ./goedbodembeheer/sportvelden.qmd
+          - ./goedbodembeheer/bodems-wereld.qmd
+      - section: "BODEMBEHEER"
+        contents: MAATREGELEN
+          - ./goedbodembeheer/mest-en-compost.qmd
+          - ./goedbodembeheer/kalk.qmd
+          - ./goedbodembeheer/groenbemesters.qmd
+          - ./goedbodembeheer/bodembewerking.qmd
+          - ./goedbodembeheer/draineren.qmd
+          - ./goedbodembeheer/bandendruk.qmd
+          - ./goedbodembeheer/structuurverbeterende-middelen.qmd
+          - ./goedbodembeheer/economie.qmd
+          - ./goedbodembeheer/maatregelen-grasland.qmd
+          - ./goedbodembeheer/maatregelen-akkerbouw.qmd
+      - section: "BODEMBEHEER"
+        contents: ACHTERGRONDEN
+          - ./goedbodembeheer/anders-kijken-naar-bodems.qmd
+          - ./goedbodembeheer/bodem-en-stoffen.qmd
+          - ./goedbodembeheer/bodem-en-plant.qmd
+          - ./goedbodembeheer/bodem-en-dier.qmd
+          - ./goedbodembeheer/bodem-en-landschap.qmd
+          - ./goedbodembeheer/bodemontwikkeling.qmd
+          - ./goedbodembeheer/bodem-en-biodynamisch.qmd
+          - ./goedbodembeheer/sibyle-von-olfers-de-wortellkindertjes.qmd
+          - ./goedbodembeheer/jan-ligthart-de-regenworm.qmd
+          - ./goedbodembeheer/het-kleine-volkje.qmd
+          - ./goedbodembeheer/een-reis-door-de-bodem.qmd
+          - ./goedbodembeheer/bodem-en-kunst.qmd
+          - ./goedbodembeheer/boomwortels-van-vincent-van-gogh.qmd
+      - section: "Kwaliteit landbouwproducten"
+        contents: 
+          - ./goedbodembeheer/lekker-en-gezond.qmd
+          - ./goedbodembeheer/bodem-en-productkwaliteit.qmd
+          - ./goedbodembeheer/per-gewas.qmd
+          - ./goedbodembeheer/gewassen-q-tot-z.qmd
+          - ./goedbodembeheer/kwaliteitsnormen-e-d.qmd
+          - ./goedbodembeheer/bodem-en-opvoeding.qmd
+      - section: PUBLICATIES
+        contents: 
+          - ./goedbodembeheer/Publicatie.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
