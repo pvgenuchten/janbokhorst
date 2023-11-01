@@ -7,23 +7,44 @@ author: Jan Bokhorst
 Met het veranderende klimaat wordt water in de grond steeds belangrijker. Teveel en te weinig. Beide komen vaker voor. 
 
 
-**Water in de grond**   
+## Water in de grond  
 
 De porien in de grond die voor de plant beschikbaar water vasthouden zijn klein en kun je niet met het blote oog zien. Bij meer organische stof en meer klei kan de bodem meer water vasthouden. Teveel klei is evenwel niet gunstig.  
 Water in de bodem is belangrijk voor:-de verdamping door planten-het bodemleven en daarmee voor de vrijmaking van voedingsstoffen uit de bodemorganische stof, mest en compost  
 Water wordt in de grond vastgehouden in de kleinere poriën. Des te meer klei en des te meer organische stof een grond bevat, des te meer kleinere poriën er zijn en des te meer water de grond kan vasthouden. Een goede verzorging van het humusgehalte door gebruik van mest, compost en de teelt van gewassen die veel organisch materiaal achterlaten, is mede vanwege de vochtvoorziening van belang.
 
-**Begrippen**  
+## Begrippen
 
-**Verzadigd** Een waterverzadigde grond is een grond waarbij alle poriën met water zijn gevuld.  
+**Verzadigd** 
 
-**Veldcapaciteit** Aan het eind van de winter of in andere delen van het jaar ongeveer 24 uur na veel regen, dus op het moment dat er geen water meer uit de grond zakt, is de grond op veldcapaciteit. In deze situatie zijn alleen de poriën kleiner dan 0,03 mm met water gevuld. Dit zijn poriën die je niet met het blote oog kunt zien. De grotere poriën die je wel kunt zien zijn van belang voor de luchttoetreding, de beworteling of de snelle afvoer van veel water, maar niet voor de vochtvoorziening van de gewassen.**Verwelkingspunt**Wanneer de gewassen in toenemende mate vocht aan de grond onttrekken, treedt tenslotte verwelking op. De poriën waar dan nog vocht in zit, zijn zeer klein. Kleiner dan 0,0003 mm. Het moment waarop verwelking optreedt, is voor de meeste gewassen ongeveer gelijk.Er is wel enig verschil. Erwten en bonen verwelken vrij snel. Gerst en vooral zonnebloemen trager.**Beschikbaar water**Het vocht in de grond tussen veldcapaciteit en verwelkingspunt is de hoeveelheid beschikbaar water. Wel is het zo dat des te dichter het vochtgehalte bij het verwelkingspunt ligt, des te moeilijker de planten het vocht kunnen onttrekken. Er treedt al groeivertraging op voordat het verwelkingspunt wordt bereikt.  
+Een waterverzadigde grond is een grond waarbij alle poriën met water zijn gevuld.  
+
+**Veldcapaciteit** 
+
+Aan het eind van de winter of in andere delen van het jaar ongeveer 24 uur na veel regen, dus op het moment dat er geen water meer uit de grond zakt, is de grond op veldcapaciteit. In deze situatie zijn alleen de poriën kleiner dan 0,03 mm met water gevuld. Dit zijn poriën die je niet met het blote oog kunt zien. De grotere poriën die je wel kunt zien zijn van belang voor de luchttoetreding, de beworteling of de snelle afvoer van veel water, maar niet voor de vochtvoorziening van de gewassen.
+
+**Verwelkingspunt**
+
+Wanneer de gewassen in toenemende mate vocht aan de grond onttrekken, treedt tenslotte verwelking op. De poriën waar dan nog vocht in zit, zijn zeer klein. Kleiner dan 0,0003 mm. Het moment waarop verwelking optreedt, is voor de meeste gewassen ongeveer gelijk.Er is wel enig verschil. Erwten en bonen verwelken vrij snel. Gerst en vooral zonnebloemen trager.
+
+**Beschikbaar water**
+
+Het vocht in de grond tussen veldcapaciteit en verwelkingspunt is de hoeveelheid beschikbaar water. Wel is het zo dat des te dichter het vochtgehalte bij het verwelkingspunt ligt, des te moeilijker de planten het vocht kunnen onttrekken. Er treedt al groeivertraging op voordat het verwelkingspunt wordt bereikt.  
 De hoeveelheid voor de plant beschikbaar vocht is het verschil tussen veldcapaciteit en verwelkingspunt.  
 
-**Beschikbaar bodemvocht per 10 cm:**  
-humusarm zand 5 mmhumusrijk zand 12 mmzavelgrond 21 mmzware klei 15 mm  
+**Beschikbaar bodemvocht per 10 cm:** 
+
+| type | beschikbaar |
+| --- | --- |
+| humusarm zand | 5 mm |
+| humusrijk zand | 12 mm |
+| zavelgrond | 21 mm | 
+| zware klei |  15 mm |  
+
 Wat in bovenstaande tabel opvalt is dat een zware klei minder vocht kan leveren dan een lichte. Dit komt omdat de klei het water sterk bindt. Een zware klei waar de planten al op verwelken bevat nog 34 volumeprocenten vocht.Een hulpmiddel om de waarden te beoordelen is het gegeven dat een goed groeiend gewas ca 4 mm water per dag verbruikt. Een behoorlijke regenbui in de zomer van 8 mm geeft dus maar voor twee dagen water. Een humusarme zandgrond die tot 40 cm diepte doorwortelbaar is, kan de planten 20 mm water geven (40 cm maal 5mm per 10cm = 20 mm). Het moet dan om de 20/4 = 5 dagen 20 mm regenen, want anders treedt groeivertraging op. Bij een zavelgrond die 40 cm doorwortelbaar is de hoeveelheid beschikbaar vocht 40/10 x 21mm = 84 mm, dus goed voor 84/4 is 21 dagen groei.Een en ander geeft aan hoe groot het belang van het vochthoudend vermogen is voor de waarde van een grond. Op humusarme zandgronden is hierdoor vaak geen landbouw meer mogelijk en vind je bijv. bos of heide.Gewassen gebruiken gemiddeld zo'n 500 mm water (125 dagen is ruim 4 maanden 4 mm per dag). In het groeiseizoen valt er gemiddeld 400 mm regen. dus een tekort van 100 mm. Om ook in een drogere periode een goede groei te hebben moet de bodem 150 tot 220 mm beschikbaar vocht hebben. Het zal duidelijk zijn dat veel gronden niet voldoende vocht kunnen leveren.  
 Naast de regen en het beschikbare vocht in de grond speelt ook nog een andere factor bij veel gronden een rol, namelijk de capillaire opstijging. Wanneer het grondwater niet te diep staat, kunnen de wortels water aan het grondwater onttrekken.Hierbij kunnen de volgende waarden aangehouden worden: er kan tenminste 2 mm water per 24 uur uit de ondergrond aangevoerd worden wanneer de afstand tussen de diepste wortel en het grondwater in de zomer kleiner is dan 65 cm bij klei, 100 cm bij zavel en 80 cm bij zand.Met deze gegevens kan de hoeveelheid beschikbaar bodemvocht uitgerekend worden.  
 
-**Rekenvoorbeeld beschikbaar vocht op een zavelgrond**-zomergrondwaterstand 150 cm onder maaiveld-doorwortelbare diepte 70 cmDe doorwortelbare laag levert 70/10 x 21 = 147 mm waterDe afstand tussen diepste wortels en het grondwater is 150 -70 = 80 cm, maar mag bij een zavelgrond 100 cm zijn. Er is dus een capillaire opstijging van 2 mm per etmaal mogelijk en er kan bij een groei periode van 90 dagen 90 x 2 = 180 mm nageleverd worden. De totale beschikbaarheid is147 + 180 = 327 mm. Nodig is 150 tot 220 mm en op deze grond zijndus geen vochtproblemen te verwachten.
+**Rekenvoorbeeld beschikbaar vocht op een zavelgrond**
+
+- zomergrondwaterstand 150 cm onder maaiveld-doorwortelbare diepte 70 cmDe doorwortelbare laag levert 70/10 x 21 = 147 mm waterDe afstand tussen diepste wortels en het grondwater is 150 -70 = 80 cm, maar mag bij een zavelgrond 100 cm zijn. Er is dus een capillaire opstijging van 2 mm per etmaal mogelijk en er kan bij een groei periode van 90 dagen 90 x 2 = 180 mm nageleverd worden. De totale beschikbaarheid is147 + 180 = 327 mm. Nodig is 150 tot 220 mm en op deze grond zijndus geen vochtproblemen te verwachten.
 
