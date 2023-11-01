@@ -2,29 +2,44 @@
 title: 'Nederland per bodemtype'
 date: 2023-10-28
 author: Jan Bokhorst
----
 
-# Nederland per bodemtype
-
----
-
-
-        
-
- ### nederland per bodemtype
 
  Zo ziet Nederland net onder de oppervlakte er uit.Per deel van Nederland de bodemeigenschappen, het landschap en de beheermogelijkheden van bodems.
 
+:::: {.columns}
 
-   ![](../img/Nederland%20met%20bruinkoolnr-1920w.jpg)
+::: {.column width="70%"}
+![](../img/Nederland%20met%20bruinkoolnr-1920w.jpg)
+:::
+
+::: {.column width="30%"}
+- [1. Flevoland](#Flevoland)
+- [2. Zeeklei overig](/undefined#zeeklei)
+- [3. Kalkloze klei en loss](#oude_klei_loss)
+- [4. Veenkoloniën](#veenkol4)
+- [5. Bruinkoolwinningsgebied (D)](#bruinkool)
+- [6. Zware kalkloze klei](#graszwkl)
+- [7. Zand in beekdalen](#zandbeekdal)
+- [8. Heideontginningen](#heideontginning)
+- [9. Esgronden (oude akkers)](#es)
+- [10. Veen](#veen)
+- [11. Rivierklei](#fruit)
+- [12. Duin- en zeezand](#bollen)
+:::
+
+::::
+
   
-**[1. Flevoland](nederland-per-bodemtype.html#Flevoland2019)****[2. Zeeklei overig](/undefined#zeeklei2)****[3. Kalkloze klei en loss](nederland-per-bodemtype.html#oudekleiloss3)****[4. Veenkoloniën](nederland-per-bodemtype.html#veenkol4)****[5. Bruinkoolwinningsgebied (D)](nederland-per-bodemtype.html#bruinkool5)****[6. Zware kalkloze klei](nederland-per-bodemtype.html#graszwkl6)****[7. Zand in beekdalen](nederland-per-bodemtype.html#zandbeekdal)****[8. Heideontginningen](nederland-per-bodemtype.html#heideontginning)****[9. Esgronden (oude akkers)](nederland-per-bodemtype.html#es)****[10. Veen](nederland-per-bodemtype.html#veen)****[11. Rivierklei](nederland-per-bodemtype.html#fruit)****[12. Duin- en zeezand](nederland-per-bodemtype.html#bollen)** Per bodem wordt ingegaan op het ontstaan, de eigenschappen van het bodemprofiel, het landschap en de landbouw met zijn bodembeheer. De onderstaande informatie vindt u ook in een pdf: [Bodems Nederland (5mb)](../files/bodemvruchtbaarheid_per_bodemtype%20%281%29.pdf).    
-
----
 
 
- **1. Flevoland**   
+Per bodem wordt ingegaan op het ontstaan, de eigenschappen van het bodemprofiel, het landschap en de landbouw met zijn bodembeheer. De onderstaande informatie vindt u ook in een pdf: [Bodems Nederland (5mb)](../files/bodemvruchtbaarheid_per_bodemtype%20%281%29.pdf).    
+
+
+
+## 1. Flevoland
+
 ![](../img/kaart%20flevo-1920w.jpg)   
+
 **Belangrijke aandachtspunten**
 
 Bodemprofiel: Organische stofgehalten zijn te laag. Compost, vaste mest gebruiken en granen en grassen telen. Laag onder bouwvoor niet woelen, tenzij er een duidelijk storende laag is zonder gangen. Diepploegen: Alleen met deskundige begeleiding. 
@@ -37,10 +52,9 @@ Vaste rijpaden: doen.
 
 Niet kerende grondbewerking: Nog even wachten. Nu alleen op extensieve bedrijven zonder aardappels en peen. 
 
-  
- 
+**Ontstaan** 
 
-**Ontstaan** Lang geleden was er op de plaats van de huidige Flevopolders een veengebied. Vanuit het noorden is vooral na het begin van de jaartelling het veen weggeslagen en werden in het meer dat ontstond afwisselend meer zandige en meer kleiige lagen afgezet. Het materiaal werd aangevoerd vanuit de IJssel. Later drong vanuit noorden het zoute water meer op en werd vanuit zee materiaal afgezet. Deze bovenlaag is te herkennen aan het voorkomen van schelpen.   
+Lang geleden was er op de plaats van de huidige Flevopolders een veengebied. Vanuit het noorden is vooral na het begin van de jaartelling het veen weggeslagen en werden in het meer dat ontstond afwisselend meer zandige en meer kleiige lagen afgezet. Het materiaal werd aangevoerd vanuit de IJssel. Later drong vanuit noorden het zoute water meer op en werd vanuit zee materiaal afgezet. Deze bovenlaag is te herkennen aan het voorkomen van schelpen.   
 ![](../img/flevoland%20romeinse%20tijd-1920w.jpg)   
 Het Flevogebied in de Romeinse tijd. Er was toen al veen weggeslagen, waardoor het Flevomeer ontstond. 
 
@@ -74,7 +88,8 @@ Deze wortels kunnen heel diep de grond in via wormengangen. Bij de overweging of
 
  
 
-**Bodemprofiel**   
+**Bodemprofiel**  
+
 ![](../img/bodemprofiel%20ens-1920w.jpg)   
 Bodem bij Ens in de Noordoostpolder.
 
@@ -237,7 +252,8 @@ Met behulp van GPS steeds hetzelfde rijpad gebruiken. Ideaal voor behoud van een
 ---
 
 
-**2. Zeeklei (overig)**   
+## Zeeklei
+
 ![](../img/kaart%20polderveeg%20zeeklei-1920w.jpg)   
 Belangrijke aandachtspunten
 
@@ -382,7 +398,8 @@ Bouwvoor met zeer goede bodemstructuur op een akkerbouwbedrijf in de Hoeksche Wa
 ---
 
 
-**3. Oude klei en löss**   
+## Oude klei en löss
+
 ![](../img/brikkrt-1920w.jpg)   
 **Belangrijke aandachtspunten**
 
@@ -496,7 +513,8 @@ Bij een slechte structuur is het niet mogelijk een mooi zaaibed te krijgen (Mont
 ---
 
 
-**4. Veenkoloniën**   
+## Veenkoloniën
+
 ![](../img/kaart%20veenkolonien-1920w.png)   
 **Belangrijke aandachtspunten**
 
@@ -643,14 +661,12 @@ Eenzijdige zwarte smerende humus aanvullen met bodemleven voedende organische st
 Hoofdgrondbewerking. Spitten (foto) en vaste tand cultivator zijn nu populair. Of op lange termijn ploegen toch beter is, is nu nog onduidelijk. 
 
  
-
 ---
 
 
----
+## Bodemopbouw na de bruinkoolwinning
 
-
-**5. Bodemopbouw na de bruinkoolwinning** Rekultivierung bij de bruinkoolgroevenVoorbeeld van een geïntegreerde meerjarige aanpak  
+Rekultivierung bij de bruinkoolgroevenVoorbeeld van een geïntegreerde meerjarige aanpak  
    
 ![](../img/kaart%20bruinkool-1920w.jpg)   
 Belangrijke aandachtspunten
@@ -703,7 +719,11 @@ Een grauwe worm.
 ---
 
 
-**6. Zware kalkloze klei** **Ontstaan**Door stijgen van de zeespiegel en dalen van de landoppervlakte is er vooral tussen 250 en 600 na Chr. veel zware klei afgezet. Dat gebeurde in rietmoerassen en elzen- en wilgenbossen. Wanneer de klei afgezet werd in brak water met riet kreeg de klei ongunstige eigenschappen. Ze wordt knipklei genoemd.  
+## Zware kalkloze klei 
+
+**Ontstaan**
+
+Door stijgen van de zeespiegel en dalen van de landoppervlakte is er vooral tussen 250 en 600 na Chr. veel zware klei afgezet. Dat gebeurde in rietmoerassen en elzen- en wilgenbossen. Wanneer de klei afgezet werd in brak water met riet kreeg de klei ongunstige eigenschappen. Ze wordt knipklei genoemd.  
    
 ![](../img/kaart%20gras%20zware%20klei-1920w.png)   
 **Belangrijke aandachtspunten**
@@ -988,7 +1008,7 @@ Dezelfde plek in het vroege voorjaar na een winter met stevige vorst. Wordt deze
 ---
 
 
-**7. Beekdalen**  
+## Beekdalen  
   
    
 ![](../img/beekeerdgrond-1920w.jpg)   
@@ -1109,7 +1129,7 @@ IJhorst op de grens van Drenthe en Overijssel. Grondwater in het voorjaar op 60 
   
   
   
-**8. Heideontginningen**  
+## Heideontginningen  
    
 ![](../img/beekeerdgrond-af648905-1920w.jpg)   
 **Belangrijke aandachtspunten**
@@ -1279,7 +1299,8 @@ Grasland Overijssel. Een omgekeerde kluit laat zien hoeveel wortels er zijn. Per
 ---
 
 
-**9. Oude akkers (Enkeerdgronden)**   
+## Oude akkers (Enkeerdgronden)
+
 ![](../img/kaart%20paint%20enkerd-1920w.jpg)   
 **Belangrijke aandachtspunten**
 
@@ -1304,7 +1325,9 @@ Plaggensteken bij Dalfsen begin 19e eeuw
 
   
   
-**Bodemprofiel** Het bodemprofiel van de oude akkers is zeer uiteenlopend en specifieke richtlijnen voor bodembeheer zijn daarom eigenlijk niet te geven. Twee voorbeelden:   
+**Bodemprofiel** 
+
+Het bodemprofiel van de oude akkers is zeer uiteenlopend en specifieke richtlijnen voor bodembeheer zijn daarom eigenlijk niet te geven. Twee voorbeelden:   
 ![](../img/enkeerd-1920w.jpg)   
 Oude akker opgehoogd met grond van de heide met veel zwarte heidehumus. 
 
@@ -1317,7 +1340,8 @@ Oude akker opgehoogd met grond uit een lemig beekdal met bruine organische stof
  
 
   
-**Landschap**   
+**Landschap** 
+
 ![](../img/hoge%20enk-1920w.jpg)   
 Oude akker in Overijssel aan de rand van een beekdal. Duidelijk is te zien dat de akker aanzienlijk hoger ligt dan de omgeving. 
 
@@ -1325,14 +1349,17 @@ Oude akker in Overijssel aan de rand van een beekdal. Duidelijk is te zien dat d
 
   
   
-**Landbouw**Oude akkers met zwarte humus kunnen een sterk verdichte laag onder de bouwvoor hebben en zijn dan vergelijkbaar met heideontginningsgronden. Is de organische stof afkomstig uit een bos of beekdal dan is de humus bruiner en veel makkelijker te bewerken. Komt er via het beekdal ook nog wat leem bij dan kunnen het zeer mooie diep doorwortelbare gronden zijn.De oude akkers met zwarte humus neigen sterk tot verdichting en woelen tot bijvoorbeeld 60 cm diepte kan periodiek nodig zijn. Vooral op deze gronden is aanvoer van een wat rijkere organische van belang. Dir kan van gewassen komen, bijvoorbeeld van gras/klaver. Verder van groenbemesters. Inzaai van wat rijkere groenbemestermengsels onder of na mais is van belang. Indien verkrojgbaar is stalmest van veel waarde op deze gronden. 
+**Landbouw**
+
+Oude akkers met zwarte humus kunnen een sterk verdichte laag onder de bouwvoor hebben en zijn dan vergelijkbaar met heideontginningsgronden. Is de organische stof afkomstig uit een bos of beekdal dan is de humus bruiner en veel makkelijker te bewerken. Komt er via het beekdal ook nog wat leem bij dan kunnen het zeer mooie diep doorwortelbare gronden zijn.De oude akkers met zwarte humus neigen sterk tot verdichting en woelen tot bijvoorbeeld 60 cm diepte kan periodiek nodig zijn. Vooral op deze gronden is aanvoer van een wat rijkere organische van belang. Dir kan van gewassen komen, bijvoorbeeld van gras/klaver. Verder van groenbemesters. Inzaai van wat rijkere groenbemestermengsels onder of na mais is van belang. Indien verkrojgbaar is stalmest van veel waarde op deze gronden. 
   
  
 
 ---
 
 
-**10. Veengronden**   
+## Veengronden  
+
 ![](../img/kaart%20veengrond-1920w.jpg)   
 **Belangrijke aandachtspunten**
 
@@ -1351,7 +1378,9 @@ Oude akker in Overijssel aan de rand van een beekdal. Duidelijk is te zien dat d
 
   
   
-**Ontstaan** Veengronden zijn er al heel lang in Nederland. Zo’n 6000 jaar geleden begon de veenvorming in verschillende delen van Nederland. Veel veen is door de oprukkende zee weer weggeslagen, door klei bedekt of afgegraven. Er zijn meerdere soorten veen: veenmosveen, zeggeveen, elzenbroekbosveen en rietveen.   
+**Ontstaan** 
+
+Veengronden zijn er al heel lang in Nederland. Zo’n 6000 jaar geleden begon de veenvorming in verschillende delen van Nederland. Veel veen is door de oprukkende zee weer weggeslagen, door klei bedekt of afgegraven. Er zijn meerdere soorten veen: veenmosveen, zeggeveen, elzenbroekbosveen en rietveen.   
 ![](../img/veen-1920w.jpg)   
 Veenmosveen. Het water werd alleen via de regen aangevoerd.
 
@@ -1526,7 +1555,8 @@ Onderwaterdrainage met een hoog slootpeil in Zuid-Holland
 
   
   
-**11. Rivierklei**   
+## Rivierklei
+
 ![](../img/ooivaag-1920w.jpg)   
 **Belangrijke aandachtspunten**
 
@@ -1631,9 +1661,10 @@ Veel gronden danken hun goede kwaliteit aan eeuwenlange fruitteelt. Stikstof via
 
   
   
-**12. Duin- en zeezand (bollenteelt)**  
+## Duin- en zeezand  
    
 ![](../img/bollen-1920w.jpg)   
+
 **Belangrijke aandachtspunten**
 
 -Streef naar een organische stofgehalte van 1,2% of wat hoger.
