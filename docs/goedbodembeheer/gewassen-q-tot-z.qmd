@@ -7,17 +7,6 @@ author: Jan Bokhorst
 Telen richting kwaliteit per gewas of product nader bekeken.  
 
 
-**INHOUD**
-
-- [Rode biet](#Rode_biet)
-- [Sla](#Sla)
-- [Suikerbiet](#Suikerbiet)
-- [Tarwe](#Tarwe)  
-- [Tomaat](#Tomaat)
-- [Winterpeen](#Winterpeen)  
-- [Witte kool](#Witte_kool)  
-
-
 ## Rode biet
 
 **Bemesting rode biet**
@@ -81,9 +70,9 @@ kiemt, vormt een krop en gaat dan pas bloeien en zaad vormen. De krop heeft ken
 ![](../img/shietsla%20landje-1920w.jpg)   
 Links licht bemeste sla, rechts zwaar bemeste sla. Bij de zwaar bemeste sla gaar het blad rotten tijdens het schieten. Er is te zwaar bemest.
 
+ 
+## Suikerbiet
 
-[Naar inhoudsopgave](#inh2)  
-**Suikerbiet**   
 ![](../img/bladreeks%20suikerbiet-1920w.JPG)     
 
 **Ontwikkeling van het blad van de suikerbiet inclusief de fase van doorschieten**
@@ -99,8 +88,9 @@ Onderstaand grafiek laat zien hoe met een stikstofbemesting het evenwicht tussen
 
 ![](../img/430-97782NITROGEN%200-1920w.png)     
 
-[Naar inhoudsopgave](#inh2)  
-**Tarwe**   
+
+## Tarwe
+
 ![](../img/arm%20en%20rijk-1920w.JPG)     
 
 **Twee tarweplanten op het biologisch-dynamische bedrijf Loverendale (Projectgroep tarwe, 1982).**  
@@ -166,7 +156,7 @@ Licht en zwaar bemeste tomaat
 
 ![](../img/Afbeelding1kopie-0573c1a3-1920w.jpg)     
 
-[Naar inhoudsopgave](#inh2)  
+ 
 
 ## Winterpeen
 

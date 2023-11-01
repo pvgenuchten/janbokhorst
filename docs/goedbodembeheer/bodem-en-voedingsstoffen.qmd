@@ -7,19 +7,6 @@ author: Jan Bokhorst
  
 De verschillende voedingsstoffen hebben steeds weer een heel ander gedrag in de bodem. Bij sommige (stikstof, fosfor, zwavel en veel sporenelementen) bepaalt het bodemleven sterk de beschikbaarheid.   
 
-## INHOUD
-
-- [Stikstof](#)
-- [Fosfor](#Fosfor)
-- [Kalium](#Kalium)
-- [Magnesium](#Magnesium)
-- [Calcium](#Calcium)
-- [IJzer](#IJzer)
-- [Mangaan](#Mangaan)
-- [Borium](#Borium)
-- [Zink](#Zink)
-- [Koper](#Koper)
-- [Molybdeen](#Molybdeen) 
 
 ## Stikstof
 

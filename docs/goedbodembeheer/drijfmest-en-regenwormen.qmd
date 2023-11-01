@@ -4,26 +4,12 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-# drijfmest en regenwormen
 
----
-
-
-        Drijfmest lijkt heel schadelijk voor regenwormen en is dat soms ook. Wanneer goed toegepast stimuleert drijfmest juist de regenwormen.   
-
- De invloed van drijfmest op regenwormen
-=======================================
-
-INHOUD
-
- 1. Grasland
-2. Akkerbouw en groenteteelt
-3. Drijfmest en de verschillende soorten regenwormen
-
-  
+Drijfmest lijkt heel schadelijk voor regenwormen en is dat soms ook. Wanneer goed toegepast stimuleert drijfmest juist de regenwormen.   
 
 
-1﻿. Grasland
+
+## Grasland
 
   
 
@@ -87,7 +73,7 @@ Naast de voedende kant van drijfmesttoediening zijn er ook andere factoren die o
 
   
 
-Gras voor weidevogels
+## Gras voor weidevogels
 
 Stalmest die over de oppervlakte wordt uitgereden stimuleert de rode regenwormen (de strooiseleters en de pendelaars. (van Eekerene.a., 2009). Deze leven boven in de grond en komen ’s nachts ook boven de grond. Kieviten eten ’s nachts deze wormen. Uit onderzoek blijkt dat ze veel meer rode dan grauwe wormen eten dan de verhouding tussen rode en grauwe wormen in de bodem zou doen verwachten. Weidevogels met langere snavels zouden kunnen profiteren van de grauwe wormen die wat dieper in de bodem leven en door drijfmest gestimuleerd worden. Dit lijkt toch beperkt het geval. Onderzoek hiernaar ontbreekt.
 
@@ -105,7 +91,7 @@ De zodenbemester maakt bij gras een snede in de grond waarin de drijfmest vloeit
   
 
 
-2. Akkerbouw en groenteteelt
+## Akkerbouw en groenteteelt
 
   
 
@@ -140,7 +126,7 @@ Op de zavel en klei van Noord-, Midden- en West-Nederland komt het merkwaardige 
   
 
 
-3. Drijfmest en de verschillende soorten regenwormen
+## Drijfmest en de verschillende soorten regenwormen
 
 
   

@@ -7,22 +7,6 @@ author: Jan Bokhorst
 Een overzicht over welke voedingsstoffen van belang zijn voor een goede groei van gewassen. Verder hoe je aan plant kunt zien of er een tekort aan een bepaalde voedingsstof is.
 
 
-**Gewas en voedingsstoffen**   
-
-**Inhoud**  
-
-- [Stikstof](#Stikstof)
-- [Fosfor](#Fosfor)
-- [Kalium](#Kalium)
-- [Calcium](#Calcium)
-- [Magnesium](#Magnesium)
-- [IJzer](#IJzer)
-- [Zink](#Zink)
-- [Borium](#Borium)
-- [Koper](#Koper)
-- [Zwavel](#Zwavel)
-- [Mangaan](#Mangaan) 
-
 ## Inleiding
 
   

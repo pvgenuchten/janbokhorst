@@ -4,22 +4,14 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-## INHOUD
-
-1. Inleiding
-2. Ontstaan  
-3. Zeeklei  
-4. Rivierklei
-5. Maatregelen op zware klei
-6. Muizenplaag in Friesland
 
 
-1. Inleiding
+## Inleiding
 
 Het meeste grasland op klei ligt op zware klei. Zavel en lichte klei worden meestal voor bouwland gebruikt. Zware zeeklei en zware rivierklei zijn onder verschillende omstandigheden ontstaan en hebben verschillende eigenschappen. Zeeklei wordt vaak gevormd in rietmoerassen onder invloed van eb en vloed. Rivierklei door overstroming van lage delen in de winter. Ook in een vegetatie; vaak in een elzenbroekbos. Zware klei heeft vaak een vegetatie nodig om stilstaand water te krijgen waarin de zeer kleine kleideeltjes kunnen bezinken.  
 
 
-2. Ontstaan
+## Ontstaan
 
 
 Door stijgen van de zeespiegel en dalen van de landoppervlakte is er vooral tussen 250 en 600 na Chr. veel zware klei afgezet. Dat gebeurde in rietmoerassen en elzen- en wilgenbossen. Wanneer de klei afgezet werd in brak water met riet kreeg de klei ongunstige eigenschappen. Ze wordt knipklei genoemd.
@@ -39,7 +31,7 @@ In een dergelijke vegetatie (riet en elzen, hier in de westelijke Betuwe) is de 
 Zware klei kan alleen bezinken wanneer het water vrijwel stil staat en dat kan alleen bij een dichte vegetatie. Die dichte vegetatie geeft veel zure stoffen en die lossen de kalk op. Zware klei is daarom altijd zuur.  
 
 
-3. Zeeklei
+## Zeeklei
 
 
 Landschap

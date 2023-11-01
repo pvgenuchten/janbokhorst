@@ -16,12 +16,8 @@ author: Jan Bokhorst
  Goede landbouwproducten telen vergt een geheel andere blikrichting dan telen naar een maximale opbrengst.Goede landbouwproducten hebben een goede smaak, zijn gezond en het gewas heeft veel weerstand tegen ziekten.In het volgende worden de belangrijkste maatregelen besproken die genomen kunnen worden om dit te bereiken en worden verschillende beoordelingsmethoden kort behandeld.
 
 
-   .
 
-
-   **INHOUD**  
 [-De teelt](bodem-en-productkwaliteit.html)  
-  
 [-Gewassen A tot P](per-gewas.html)  
 [-Gewassen R tot Z](gewassen-q-tot-z.html)  
 [-Meer over kwaliteit](kwaliteitsnormen-e-d.html)  
