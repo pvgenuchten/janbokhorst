@@ -1,6 +1,6 @@
 ---
 title: 'Stadslandbouw'
-date: 2023-10-28
+date: 2023-09-15
 author: Jan Bokhorst
 ---
 
@@ -54,7 +54,7 @@ grondsoort vocht beschikbaar voor boomhumusarm zand 5 mmhumusrijk zand 12 mmzave
 *2. Lucht*
 
 De luchtvoorziening is bij stadsbomen vaak een groot probleem. Ook hier kan een visuele bodembeoordeling meer inzicht geven. De poriën die vocht vasthouden zijn zo klein dat ze met het blote oog niet te zien zijn. Poriën die lucht aanvoeren zijn wel zichtbaar. Ook wortels geven aan dat er poriën zijn die lucht aanvoeren. Lagen die anaeroob zijn kenmerken zich door een grijze of blauwe kleur en een specifieke geur. 
- 
+
 *3. Voedingsstoffen*
 
 De beschikbaarheid aan voedingsstoffen moet middels een bodemanalyse beoordeeld worden. Mocht de grond op het gebied van water, vocht en voedingsstoffen tekortkomingen vertonen dan zijn maatregelen nodig. Wanneer grondwater potentieel beschikbaar is, is losmaken tot de noodzakelijke diepte (zie boven) wenselijk. Bij verdichting van de bovenlaag van 40 cm is losmaken en aanvoer van compost tot een organischestofgehalte van 3 tot 5% nodig. Bij zeer hoge grondwaterstanden is verhogen van het organischestofgehlate in de laag 20 cm boven het grondwater tot ca 20% wenselijk.  

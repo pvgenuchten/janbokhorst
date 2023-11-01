@@ -1,6 +1,6 @@
 ---
 title: 'Fruit zand en klei'
-date: 2023-10-28
+date: 2023-09-15
 author: Jan Bokhorst
 ---
 
