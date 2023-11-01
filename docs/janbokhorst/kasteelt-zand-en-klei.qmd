@@ -4,35 +4,27 @@ date: 2023-10-28
 author: Jan Bokhorst
 ---
 
-# Zand en klei
-
----
 
 
-          
-  
-  
-  
-
-   
-
- ### KASTEELT
-
- Enkele voorbeelden van biologische teelt in grond en een voorbeeld van gangbare teelt van chrysant in grond.
+Enkele voorbeelden van biologische teelt in grond en een voorbeeld van gangbare teelt van chrysant in grond.
 
 
-   **Inhoud**  
-**1. Inleiding****2. Groenteteelt in de kas****2.1. Twee bedrijven op de Zuid-Hollandse eilanden****2.2. Een bedrijf op zandgrond in de Achterhoek****3. Sierteelt in de kas**  
-  
 **1. Inleiding**  
+
 De bodem in de kasteelt verkeert in geheel andere omstandigheden dan die in de volle grond. Deels zijn de omstandigheden gunstiger, deels minder gunstig:  
 Gunstig voor een goede bodemkwaliteit:  
--Er wordt niet met zware machines over te natte grond gereden-Zware regen kan de bodem niet dichtslaan  
+
+- Er wordt niet met zware machines over te natte grond gereden-Zware regen kan de bodem niet dichtslaan  
+
 Ongunstig voor een goede bodemkwaliteit:  
--De intensieve teelten laten weinig plantenresten als voer voor het bodemleven achter-Hogere temperaturen geven een snelle afbraak van de organische stof-Wanneer er gestoomd wordt is dit ongunstig voor een evenwichtig bodemleven  
+- De intensieve teelten laten weinig plantenresten als voer voor het bodemleven achter-Hogere temperaturen geven een snelle afbraak van de organische stof-Wanneer er gestoomd wordt is dit ongunstig voor een evenwichtig bodemleven  
+
 De verzorging van de bodem gebeurt dus niet door de gewassen zelf, maar is sterk afhankelijk van de aandacht die de teler hier aan geeft. Dat verschilt per bedrijf. Veel stomen en weinig mest of compost geven niet voldoende verteerbaar organisch materiaal. Dat is een grote tegenstelling met weinig of niet stomen en een goede mest en compost. Enkele voorbeelden volgen hieronder.  
   
-**2. Groenteteelt in de kas****2.1. Twee bedrijven op de Zuid-Hollandse eilanden**   
+**2. Groenteteelt in de kas**
+
+**2.1. Twee bedrijven op de Zuid-Hollandse eilanden**   
+
 ![compost in de kasteeelt](../img/DSCN9920(Medium)-1920w.jpg)   
 Deze zavelgrond op de Zuid-Hollandse eilanden heeft een ruim organischestofgehalte, er wordt ruim met compost gewerkt, maar toch gaan de wortels bij dit tomatengewas niet dieper dan 14 cm. Naast stomen speelt ook de watergift en de concentratie van voedingsstoffen door te ruim gebruik van hulpmeststoffen hier een rol.
 
@@ -49,6 +41,7 @@ Een ander bedrijf op de Zuid-Hollandse eilanden. Ook hier vrijwel geen wortels v
  
 
 **2.2. Een bedrijf op zandgrond in de Achterhoek**   
+
 ![bodembeheer tomaat](../img/DSCN9951(Medium)-1920w.jpg)   
 Op 20 cm diepte zijn hier nog volop wortels. De wortels gaan tot 45 cm diepte. Gebruik van vaste mest en een groot aantal regenwormen maakt hier een diepe beworteling mogelijk.
 
@@ -60,7 +53,9 @@ In de bovengrond zijn regenwormen (hier aporrectodea caliginosa) actief en maken
 
  
 
-**3. Sierteelt in de kas**In het volgende een impressie van chrysantenteelt op grond.   
+**3. Sierteelt in de kas**
+
+In het volgende een impressie van chrysantenteelt op grond.   
 ![chrysanten in grond](../img/IMG_1102(Small)-1920w.jpg)   
 Chrysanten zijn moeilijk op substraat te telen en op grond is daarom de gebruikelijke teeltwijze.
 

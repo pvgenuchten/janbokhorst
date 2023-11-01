@@ -8,15 +8,6 @@ author: Jan Bokhorst
 Telen richting kwaliteit per gewas of product nader bekeken.  
 Gewassen A tot P
 
-## INHOUD
-
-- [Appel](per-gewas.html#Appel)
-- [Aardappel](per-gewas.html#Aardappel)
-- [Knolselderij](per-gewas.html#Knolselderij)
-- [Melk](per-gewas.html#Melk)
-- [Pompoen](per-gewas.html#Pompoen)
-- [prei](per-gewas.html#Prei)  
-
 ## Appel
 
 ### Appel, licht en schaduw

@@ -8,15 +8,7 @@ author: Jan Bokhorst
 Over een andere kijk op stoffen.
 
 
-**INHOUD**  
-[1. Inleiding](index.htm)
-[2. Stikstof en koolstof](bodem-en-stoffen.html#cenn)
-[3. Fosfor](bodem-en-stoffen.html#fos)  
-[4. Kalium](bodem-en-stoffen.html#kal)
-[5. Magnesium](bodem-en-stoffen.html#mag)
-[6.Zwavel](bodem-en-stoffen.html#zwavel)
-[7. Zuurstof](bodem-en-stoffen.html#zuurst)
-[8. Zuur en basisch](bodem-en-stoffen.html#zuur) 
+
 
 **1. Inleiding**  
   

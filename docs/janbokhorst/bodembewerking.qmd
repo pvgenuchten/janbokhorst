@@ -7,13 +7,7 @@ author: Jan Bokhorst
 Het zijn de machines met hoge aslasten en brede banden die de grootste schade aan bodemkwaliteit toebrengen. Een overzicht van mogelijkheden om deze schade te beperken.
 
 
-     
-## INHOUD
 
-- [Niet Kerende Grondbewerking](bodembewerking.html#nkg)
-- [Ondieper ploegen of cultivateren](bodembewerking.html#ondieper)  
-- [Ploegen, spitten en cultivateren](bodembewerking.html#psc) 
-  
  **Niet Kerende Grondbewerking**
  
  Niet kerende grondbewerking (NKG) is prachtig voor een goede bodemkwaliteit. Op het moment evenwel op heel weing situaties mogelijk. Vooral op extensieve bedrijven zijn er wel mogelijkheden..   

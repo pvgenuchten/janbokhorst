@@ -6,12 +6,7 @@ author: Jan Bokhorst
 
 Het is niet niet altijd eenvoudig om de bodemstructuur objectief te beoordelen. Kijk ook bij Bodem > Graaf een kuil. De bodemstructuur is wel een van de belangrijkste eigenschappen van een bodem.
 
-**De bodemstructuur**  
-  
-**INHOUD**
 
-[Inleiding](bodemstructuur1.html#inleiding)
-[De bodemstructuur](bodemstructuur1.html#structuur)[Geschiedenis van de visuele waarneming van de bodem](bodemstructuur1.html#geschiedenis)  
 
 ## Inleiding
 

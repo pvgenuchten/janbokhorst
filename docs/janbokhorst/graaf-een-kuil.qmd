@@ -7,51 +7,56 @@ author: Jan Bokhorst
 Door op verschillende plekken in de bodem te kijken zie je dat de bodem iedere keer weer anders is. Leer op deze wijze ook waarom dat zo is. Door vaker te graven wordt bodembeoordeling steeds interessanter en bodembeheer steeds beter.   
 
 
-## INHOUD GRAAF EEN KUIL
 
-- [Een eenvoudige bodembeoordeling](graaf-een-kuil.html#Eenvoudigvisueel)[Meer over de visuele beoordeling van de bodemstructuur](graaf-een-kuil.html#meerstructuur)[Meer over de visuele beoordeling van het bodemleven](graaf-een-kuil.html#bodemleven)[Meer over de visuele beoordeling van de beworteling](graaf-een-kuil.html#wortels)[Diverse methoden van visuele bodembeoordeling](graaf-een-kuil.html#divmethoden)  
- 
-
----
 
 
 **Een eenvoudige bodembeoordeling**  
+
 Een eenvoudige bodembeoordeling waarmee de bodem snel een cijfer van 0 tot 10 gegeven kan worden.  
 Om bodems te vergelijken of om meer inzicht te krijgen in tekortkomingen van bodems kunnen een aantal belangrijke eigenschappen gekwantificeerd worden. Hiertoe zijn meerdere systemen ontwikkeld. Een snelle eenvoudige methode is de SSQR-methode (Smart Soil Quality Rating). De bodem krijgt een cijfer tussen 0 en 10:  
-Beoordeeld worden:**structuurelementen, regenwormen en beworteling.****1. Structuurelementen**  
+Beoordeeld worden:
+
+**structuurelementen, regenwormen en beworteling.**
+
+**1. Structuurelementen** 
+
 Percentage scherpblokkige structuurelementen in de laag 0-25 cm  
 0 punten: meer dan 50% is scherpblokkig  
 2 punten: 25-50% is scherpblokkig  
 4 punten: minder dan 25% is scherpblokkig  
-   
+  
 ![scherpblokkige kluist](../img/scherpblokkig-1920w.jpg)   
 Een scherpblokkig element is hoekig en er groeien geen wortels in
 
-  
- 
 
-2. Regenwormen  
+
+
+## Regenwormen  
 Aantal regenwormen in een kluit van 20 x 20 x 20 cm  
 0 punten: 0  
 1 punt: 1  
 2 punt: 2  
 3 punten: 3 of meer  
-   
+  
 ![Regenworm in rust](../img/2015-07-0812_56_59bijgesneden(Large)-1920w.jpg)   
 Het tellen van wormen gaat het beste na  een periode waarin de bodem langere tijd voldoende vochtig is. Bijvoorbeeld een natte periode in de zomer of in de herfst. 
 
- 
 
-**3. Beworteling**  
+
+## 3. Beworteling 
 Maximale diepte van de beworteling  
 0 punten: 0 wortels per 100 cm2 op 40 cm diepte1 punt: 1wortel per 100 cm2 op 40 cm diepte2 punten: 2 wortels per 100 cm2 op 40 cm diepte3 punten: 3 of meer wortels per 100 cm2 op 40 cm diepte   
 ![diepere beworteling](../img/2015-07-0813_13_36(Medium)-1920w.jpg)   
 Veel bodems zijn na 25 cm diepte door verdichting slecht doorwortelbaar. Voor de vochtvoorziening en de voorziening van voedingststoffen is een diepere beworteling van belang.
 
- 
 
 
-   **Tel de scores bij elkaar op****totaal 0 punten: zeer slechte bodemkwaliteit****totaal 10 punten: zeer goede bodemkwaliteit** 
+
+**Tel de scores bij elkaar op**
+
+**totaal 0 punten: zeer slechte bodemkwaliteit**
+
+**totaal 10 punten: zeer goede bodemkwaliteit** 
 
 ---
 
@@ -59,42 +64,52 @@ Veel bodems zijn na 25 cm diepte door verdichting slecht doorwortelbaar. Voor de
 Meer over de visuele beoordeling van de bodemstructuur
 
 
-   **Voorzichtig de grond open breken. Wat is er dan te zien?**  
+**Voorzichtig de grond open breken. Wat is er dan te zien?**
+
 Voor de plant is het van belang dat er voldoende vocht en lucht in de bodem zit en dat voedingsstoffen goed bereikbaar zijn. De bodemstructuur speelt hierbij een belangrijke rol. Bij een verdichte grond blijft de groei van de gewassen al snel achter. Wanneer dit alleen plaatselijk is, valt het op. Wanneer het gehele perceel geen optimale structuur heeft, valt dit vaak minder op. Een structuurbepaling kan dan meer duidelijkheid geven. Om de bodemstructuur te beoordelen is een visuele beoordeling het beste. U heeft hier alleen een spade en een mes voor nodig. In het volgende wordt aangegeven hoe ieder dit zelf kan doen.  
+
 **De structuurelementen**  
-Belangrijke structuurelementen in de grond zijn (zie ook de foto's onderaan deze pagina):  
-**1. Kruimels.**Dit zijn losse kruimels van 0,3 tot 1 cm groot. Wortels kunnen gemakkelijk in deze kruimels en tussen deze kruimels doorgroeien.  
-  
-**2. Afgerond blokkige structuurelementen.**Dit zijn blokjes grond van wisselende grootte, van 1 tot wel 10 cm groot. De zijkanten zijn niet vlak, de hoeken zijn rond. Bij doorbreken heeft het breukvlak vaak een andere glans of kleur dan de buitenkant. Bij een enigszins ruwe behandeling kunnen ze vaak makkelijk in kruimels overgaan. Let er goed op of dit in de grond ook zo was of dat het werkelijk grotere elementen zijn.  
-  
-**3. Scherpblokkige structuurelementen.**Deze zijn hoekig en compact. De wanden zijn glad.  
-  
+
+Belangrijke structuurelementen in de grond zijn (zie ook de foto's onderaan deze pagina):
+
+**1. Kruimels.**
+
+Dit zijn losse kruimels van 0,3 tot 1 cm groot. Wortels kunnen gemakkelijk in deze kruimels en tussen deze kruimels doorgroeien.  
+
+**2. Afgerond blokkige structuurelementen.**
+
+Dit zijn blokjes grond van wisselende grootte, van 1 tot wel 10 cm groot. De zijkanten zijn niet vlak, de hoeken zijn rond. Bij doorbreken heeft het breukvlak vaak een andere glans of kleur dan de buitenkant. Bij een enigszins ruwe behandeling kunnen ze vaak makkelijk in kruimels overgaan. Let er goed op of dit in de grond ook zo was of dat het werkelijk grotere elementen zijn.  
+
+**3. Scherpblokkige structuurelementen.**
+
+Deze zijn hoekig en compact. De wanden zijn glad.  
+
 Het is mogelijk de gewichts- of volumeverdeling van de verschillende soorten structuurelementen in te schatten. Verschillende percelen kunnen dan vergeleken worden.  
+
   
-   
 ![kruimelstructuur](../img/b4ad723c-0abc-4d34-9622-f7c919c57c60-1920w.jpg)   
 **Kruimelige structuur**
 
 Voor plantengroei is dit de mooiste structuur
 
- 
 
 
-     
+
+    
 ![](../img/4d9b5db7-6575-4d38-884e-e83c81c320ab-1920w.jpg)   
 **Afgerond blokkige structuur**
 
 Deze structuurelementen zijn wat meer afgerond en niet hoekig. Er zijn veel porien. Wortels kunnen er makkelijk doorheen. Bij licht erop drukken worden het vaak kruimels en zijn dan minder goed te onderscheiden van de kruimelige structuurelementen.
 
- 
 
-  
+
+
 ![scherpblokkige structuur](../img/0eec3ac2-53b5-4662-b394-633134dfbb65-1920w.jpg)   
 **Scherpblokkige structuur**
 
 De kluiten zijn hoekig en er kunnen in het algemeen geen wortels in doordringen. Soms zitter er wel wortels in. Dat is bijvoorbeeld het geval wanneer jonge planten in losgemaakte grond zijn geplant en de wortels eerst in de grond kunnen doordringen maar later zakt de grond volledig in tot een scherpblokkige structuur. 
 
- 
+
 
 **Het verkrijgen van een kluit op een spade**  
 Om de bodemstructuur te beoordelen is het nodig om een ongestoorde kluit van de laag 0-25 cm diepte en van de laag 25-50 cm diepte vrij te krijgen. Dit kan met een normale spade gebeuren. Wel moet zo gewerkt worden dat de te beoordelen grond niet verstoord wordt.  
@@ -102,92 +117,91 @@ Om een ongestoorde kluit te krijgen wordt eerst een kleine kuil gegraven. Zonder
 De kluit wordt uit de grond gehaald en bij voorkeur op een verhoging voor verdere beoordeling gelegd.  
 Wanneer er op de kluit een plant staat kan ook de beworteling beoordeeld worden.  
 Bekijk ook onderstaande animatie hieronder, klik op de foto.   * ![](../img/2-1920w.jpg) 
-  ### Titel dia
+### Titel dia
 
 
 Schrijf uw onderschrift hier
 
-  
+
 
 Knop
 * ![](../img/3-1920w.jpg) 
-  ### Titel dia
+### Titel dia
 
 
 Schrijf uw onderschrift hier
 
-  
+
 
 Knop
 * ![](../img/4-1920w.jpg) 
-  ### Titel dia
+### Titel dia
 
 
 Schrijf uw onderschrift hier
 
-  
+
 
 Knop
 * ![](../img/2-1920w.jpg) 
-  ### Titel dia
+### Titel dia
 
 
 Schrijf uw onderschrift hier
 
-  
+
 
 Knop
 * ![](../img/6-1920w.jpg) 
-  ### Titel dia
+### Titel dia
 
 
 Schrijf uw onderschrift hier
 
-  
+
 
 Knop
 * ![kluitbeoordeling bij een bodem. Bodemkwaliteit](../img/7%20%281%29-1920w.jpg) 
-  ### Titel dia
+### Titel dia
 
 
 Schrijf uw onderschrift hier
 
-  
+
 
 Knop
 
-   
+  
 
 ---
 
 
 **Meer over de visuele beoordeling van het bodemleven**
 
+Kijk naar regenwormen. Het bodemleven is zeer divers en het grootste deel zo klein dat het niet te zien is. Regenwormen zijn duidelijk te zien en geven een goede indicatie over de bodemkwaliteit.In de bodem zijn er 3 groepen regenwormen te onderscheiden. Dit onderscheid is van belang, omdat de invloed van de worm op de bodem per groep varieert.
 
-   Kijk naar regenwormen. Het bodemleven is zeer divers en het grootste deel zo klein dat het niet te zien is. Regenwormen zijn duidelijk te zien en geven een goede indicatie over de bodemkwaliteit.In de bodem zijn er 3 groepen regenwormen te onderscheiden. Dit onderscheid is van belang, omdat de invloed van de worm op de bodem per groep varieert.
 
-
-     
+    
 ![](../img/301lumrubellusIMG_2583(Medium)-1920w.jpg)   
 Groep 1: Strooiselbewoners
 
 De bovenkant is rood en de onderkant grauw. Ze leven vooral in de strooisellaag en komen ook aan de oppervlakte om plantenresten te verzamelen.
 
-  
- 
 
 
-     
+
+
+    
 ![](../img/302grouwIMG_2273(Medium)-1920w.jpg)   
 Groep 2: Bodembewoners
 
 Deze wormen hebben aan bovenzijde en onderzijde eenzelfde grauwe kleur. Ze eten ook grond en zijn belangrijk voor de bodemstructuur en de binding van humus aan kleideeltjes.
 
-  
- 
 
 
-     
+
+
+    
 ![](../img/303lumterrestrisIMG_2303(Medium)-1920w.jpg)   
 Groep 3: Pendelaars
 
@@ -195,42 +209,43 @@ Ook deze wormen zijn aan de bovenkant rood en aan de onderkant grauw. Ze zijn gr
 
 Deze wormen leven hun hele leven in eenzelfde verticale gang. Die gang kan dan dienen als afvoer van overtollig regenwater, aanvoer van lucht en op de wanden van de gang ontwikkelt zich een actief bodemleven.
 
+
+
+
+
+![](../img/3groepen-1920w.jpg)
+
   
- 
+**De drie groepen regenwormen naast elkaar.**  
 
-
-   ![](../img/3groepen-1920w.jpg)
-
-   **De drie groepen regenwormen naast elkaar.**  
-
-   
+  
 
 ---
 
-   **Meer over de visuele beoordeling van de beworteling**
+**Meer over de visuele beoordeling van de beworteling**
 
 
-   BewortelingWat vindt de plant van de bodem? Voor een antwoord op deze vraag kijk onder meer naar de beworteling.  
+BewortelingWat vindt de plant van de bodem? Voor een antwoord op deze vraag kijk onder meer naar de beworteling.  
 De wortels van de planten zeggen veel over de bodem. 
 
 
-     
+    
 ![](../img/6f3ac50c-796c-475b-97ae-05a61fc942cd-1920w.jpg)   
 Veel wortels en veel kleine wortels geven aan dat er goede bewortelingsmogelijkheden zijn:
 
- 
 
-  
+
+
 ![](../img/Img6254-1920w.jpg)   
 Weinig wortels die vaak dik en kronkelig zijn met hier en daar een zijwortel die ook weer kronkelig is geeft aan dat er structuurproblemen zijn.
 
- 
 
-  
+
+
 ![](../img/DSCN1317-1920w.jpg)   
 Wortels zijn te tellen. Op een horizontaal vlak op een oppervlak van 10x10 cm is een mogelijkheid. Dieptes van 20 en 40 cm zijn belangrijk.
 
- 
+
 
 ---
 
@@ -251,7 +266,7 @@ Een belangrijk voordeel van de Bodemconditiescore is dat deze internationaal al 
 De belangrijke bodemeigenschappen zijn er in opgenomen, maar een nadeel is dat zuurgraad en organische stof niet in het veld beoordeeld kunnen worden en de score dus niet in het veld afgerond kan worden. Verder is de bedekking een moeilijk thema. Die wisselt door het jaar of is altijd 100% (gras). Beworteling en bodemstructuur worden heel algemeen beoordeeld en passen nog niet bij een specifieke vorm van bodemgebruik. Dit laatste is bij de Bodemscan al wel het geval.  
 **Literatuur**Er is de laatste jaren veel werk gedaan aan objectivering van de methode. Vindt hier recente wetenschappelijke literatuur.  
 Leeuwen, M. van e.a. Visual soil evaluation: reproducibility and correlation with standard measurements. Soil Tillage and research vol. 178, may 2018. p 167-178. https://www.sciencedirect.com/science/article/pii/S0167198717302131?via%3Dihub  
-  
+
 Ball, B.C., Batey, T., Munkholm, L.J., 2007. Field assessment of soil structural quality –a development of the Peerlkamp test. Soil Use Manag. 23, 329–337. http://dx.doi.org/ 10.1111/j.1473-2743.2007.00102.x.  
 Ball, B.C., Batey, T., Munkholm, L.J., Guimarães, R.M.L., Boizard, H., McKenzie, D.C., Peigné, J., Tormena, C.A., Hargreaves, P., 2015. The numeric visual evaluation of subsoil structure (SubVESS) under agricultural production. Soil Tillage Res. 148, 85–96. http://dx.doi.org/10.1016/j.still.2014.12.005.  
 Ball, B.C., Guimarães, R.M.L., Cloy, J.M., Hargreaves, P.R., Shepherd, T.G., McKenzie, B.M., 2017. Visual soil evaluation: a summary of some applications and potential developments for agriculture. Soil Tillage Res. 173, 114–124. http://dx.doi.org/10. 1016/j.still.2016.07.006.  
