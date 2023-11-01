@@ -6,59 +6,44 @@ author: Jan Bokhorst
 
 Veel kleigronden worden kalkhoudend afgezet. De vegetatie die op een bodem groeit werkt zuur en lost de kalk op. Voor gebruik in de akkerbouw zijn de kalkloze kleigronden niet de makelijkste gronden.  
 
-1. Inleiding
-2. Voorbeelden
-2.1. Oude rivierklei bij Montferland
-2.2. Kalkarme zavelgrond langs de IJssel bij Brummen
-2.3. Zware kalkarme komklei in de Betuwe  
 
-**1. Inleiding**
+## Inleiding
 
 Kalkarme zavel- en kleigronden treffen we aan bij de Maas, de Rijn, de Oude IJssel in de Achterhoek en ook verder verspreid in Nederland. De wat lichtere gronden worden voor akkerbouw gebruikt, de wat zwaardere vooral voor weidebouw. Op de wat zwaardere wordt wel wat maïs en soms suikerbieten verbouwd. Dat de zwaardere gronden weinig akkerbouw kennen, hangt samen met de structuurproblemen. Ook de wat lichtere zijn niet altijd makkelijk te bewerken en vergen veel aandacht. Het klaarmaken van het zaaibed in het voorjaar, de onkruidbestrijding in de zomer en de oogst in de herfst zijn, vooral bij ongunstige weersomstandigheden niet altijd makkelijk.  
 
-**2. Voorbeelden**
+## Voorbeelden
 
 1. Oude rivierklei bij Montferland
 2. Jonge kalkarme rivierklei langs de IJssel
 3. Zware kalkarme komklei in de Betuwe 
 
-**2.1. Oude rivierklei bij Montferland**
+### Oude rivierklei bij Montferland
 
 Het typische voor de gronden bij Montferland is dat het brikgronden zijn. Bij brikgronden is klei uit de bovengrond naar een wat diepere laag vlak onder de bouwvoor gespoeld. Deze laag verdicht gemakkelijk. Een van de problemen die daar uit voorkomt, is wateroverlast.  
 
 ![bodemverdichting met wateroverlast](../img/kerk(Small)-1920w.jpg)   
 Wateroverlast bij Drempt in de Achterhoek.
 
-  
 ![slemp verslempte grond mais](../img/slemp(Small)-1920w.jpg)   
 Doordat de kleideeltjes deels zijn weggespoeld, is de bovengrond lichter geworden en ook instabiel. De gevoeligheid voor verslemping wordt hierdoor versterkt.
 
-  
 ![slecht zaaibed door slechte bodemtructuur](../img/6_5grotebrokken(Small)-96c4ec09-1920w.jpg)   
 De vorming van een goed zaaibed in het voorjaar is bij ongunstige omstandigheden een probleem.
 
- 
-
-  
 ![grondbewerking voorjaar slecht zaaibed](../img/mais(Small)-1920w.jpg)   
 De lastige voorjaarsgrondbewerking geeft een slecht zaaibed. Teelt van maïs die wat later gezaaid wordt en een minder fijn zaaibed vereist, is dan een mogelijkheid.
 
- 
-
-  
 ![woelen van kleigrond](../img/losmakenonderg(Small)-1920w.jpg)   
 Een van de oplossingen om de verdichte laag onder de bouwvoor los te krijgen is woelen.
 
- 
-
-**2.2. Kalkarme zavelgrond langs de IJssel bij Brummen** 
+### Kalkarme zavelgrond langs de IJssel bij Brummen
 
 De zavelgronden langs de IJssel zijn nog niet zo oud. De IJssel stroomt hier pas sinds ca 1100. In 1400 werd de bedijking afgesloten en in de tijd tussen 1100 en 1400 zijn kalkrijke materialen afgezet. Op wat nattere plekken zijn ze al ontkalkt en op een perceel bij Brummen wordt akkerbouw bedreven met granen, aardappel en gras/klaver.  
 Het perceel is een lichte zavelgrond met een pH-KCL van 4,9 en een organische stofgehalte van 1,9%.   
 ![verdichting op rivierklei](../img/meanderbrummen002(Small)-1920w.jpg)   
 Na gerst zien we het volgende:
 
-Bodemstructuur
+#### Bodemstructuur
 
 De laag 0-5 cm is los en bewerkt.
 
@@ -70,37 +55,23 @@ De laag 34-43 is bruin gekleurd en poreus.
 
 Dieper dan 43 cm bevindt zich organischestofarm dekzand.
 
-Beworteling
+#### Beworteling
 
 Wortels zien we vrijwel alleen in de laag 0-20 cm. Daaronder enkele in wormgangen
 
- 
-
-  
 ![verdichte ondergrond](../img/meanderbrummen004(Small)-1920w.jpg)   
 De laag 5-40 cm is sterk verdicht.
 
- 
-
-  
 ![regenworm maakt in verdichte kluit een gang](../img/meanderbrummen008(Small)-1920w.jpg)   
 Laag 20-30 cm, volledig verdicht met uitzonderingen van de wormgangen.
 
- 
-
-  
 ![wormengang met wortels](../img/meanderbrummen009(Small)-1920w.jpg)   
 Wormgang met enkele wortels van de gerst in de zandlaag onder de zavel op ca 45 cm diepte. Zavelbekleding van de wand van de gang. Waarschijnlijk is dit een gang van Lumbricus terrestris.
 
- 
-
-**2.3. Zware kalkarme komklei in de Betuwe**   
+###  Zware kalkarme komklei in de Betuwe   
 ![komklei voor het ploegen](../img/3_2geplogdekomklei606-354dff76-1920w.jpg)   
 Na het ploegen in de late herfst.
 
- 
-
-  
 ![komklei na het ploegen](../img/3_3komklievoorjaarImg0949(Small)-1920w.jpg)   
 Op dezelfde plek in het voorjaar. In de winter heeft het flink gevroren en zijn er ijslensjes ontstaan. Na de dooi bleven er kleine hoekige kruimels over. Die drogen snel uit en het wordt dan mogelijk een goed zaaibed te maken. Door de vorst in de winter wordt deze lastige, zeer zware grond bewerkbaar.
 
