@@ -11,46 +11,35 @@ Van de voor de landbouw belangrijkste bodemtypen:-Verspreiding-Landschap en bode
 
 In een tijd dat optimale voedselproductie steeds belangrijker wordt bestaat er nog geen overzicht over hoe van de boer uit naar het beheer van de verschillende bodems van de wereld gekeken kan worden. Het volgende is een beknopte aanzet tot zoiets. Een verdere uitwerking is van belang.Het zijn de boeren die de voedingsgewassen moeten verbouwen. Schaars is de literatuur waarbij vanuit de boerenblik naar bodems wordt gekeken, maar nog schaarser zijn pogingen vanuit samenhangen naar de problematiek te kijken. In hoofdstuk 3 en 4 een poging dit wel te doen. Het doel is dus niet om tot in detail per situatie een gedetailleerd overzicht te geven, het doel is veel meer aandacht te vragen voor een blikrichting, waarbij het hele bodemprofiel centraal staat en de maatregelen per bodemtype in een grotere samenhang staan en daardoor gerichter kunnen worden toegepast.  
 
-**De bodemvruchtbaarheid staat in grote delen van de wereld onder druk:**
+## De bodemvruchtbaarheid staat in grote delen van de wereld onder druk:
 
-**-Verenigde Staten**: 
+### Verenigde Staten
 
 teelt van gewassen die weinig plantenresten achterlaten zoals mais en soja. Gewasresten van mais worden gebruikt voor dierenvoedsel en energiewinning**-Noord-west Europa:** 
 akkerbouw met steeds minder granen en grassen. Teelt van snijmais met te geringe organische stofaanvoer.
 
-**-Oost-Europa:** 
+### Oost-Europa
 
 dalende organische stofgehalten door te intensief gebruik.
 
-**-Azie en ZuidAmerika:** 
+### Azie en ZuidAmerika 
 
 kappen van regenwoud en teelt van soja die de bodem niet voldoende verzorgd. Slecht 15% van de palmolie wordt verantwoord geteeld.
 
-**-Afrika:** 
+### Afrika 
 
 te intensieve begrazing. Teelt van gewassen die de bodem niet voldoende onderhouden.     
 Animatie Bodems van de Wereld   
 
-
-
-##  Sterk verweerde tropische bodems (Acrisol) 
-
-  
-
+## Sterk verweerde tropische bodems (Acrisol) 
 
 Het belangrijkste bodemtype van de vochtige tropen en subtropen is de Acrisol. Het komt voor in gebieden met een glooiend tot heuvelachtig reliëf. Acrisols zijn gevormd op zuur gesteente. Er is een miljard hectare Acrisol op de wereld. Hiervan is de helft (500 miljoen hectare) geschikt voor teelt op akkers.
 
 In de wat vlakkere gebieden komen Acrisols veel voor naast de vergelijkbare Ferralsols, die zijn gevormd op basisch gesteente. Er is 700 miljoen hectare Ferralsol op de wereld, waarvan 300 miljoen hectare geschikt is voor teelt op akkers. De eveneens vergelijkbare Lixisols zijn erosiegevoelige gronden met kleiuitspoeling. Hiervan is 435 miljoen hectare op de wereld, waarvan 150 miljoen hectare geschikt is voor teelt op akkers.
 
-  
-
-
 ### Vorming
 
 Acrisolen zijn gevormd uit zure gesteenten, zoals graniet. Onder bos en zijn ze onder natte omstandigheden sterk verweerd. Een deel van de Acrisols ligt in droge gebieden en stam nog uit een vochtiger periode lang geleden.
-
-  
-
 
 ### Eigenschappen
 
@@ -60,10 +49,7 @@ Het belangrijkste kleimineraal in Acrisolen is kaoliniet. Dit heeft een aanzienl
 
 Het bodemprofiel is homogeen van opbouw, er zijn geen duidelijke lagen. Aluminiumtoxiciteit komt veel voor op deze gronden. Verder is fosfaatvastlegging een probleem.
 
-  
 
-
-   
 ![](../img/1%20kaart%20acrisol-1920w.jpg)     
 
 
@@ -77,17 +63,7 @@ Landschap van een rode Acrisol in noordoost Thailand.
 ![](../img/3%20acrisol%20bodem-1920w.jpg)   
 Bodemprofiel van een rode Acrisol in noordoost Thailand
 
- 
-
-  
-
-
-  
-
-
 ## Zandige bodems met weinig organische stof (Arenosol) 
-
-  
 
 
 Arenosols zijn zandgronden die voorkomen in zeer koude tot zeer warme gebieden, zowel onder droge als natte omstandigheden. De bodems kunnen ontwikkeld zijn in recent afgezette zanden, in oudere verweerde zanden of in oud kwartsrijk materiaal. Ook de zandgronden van woestijnen en kusten behoren tot de Arenosols.
@@ -124,14 +100,6 @@ De Kalahari woestijn in Namibie. Foto LUH.
 ![](../img/7%20arenosol-1920w.jpg)   
 Bodemprofiel in de Kalahari woestijn. Foto LUH
 
- 
-
-  
-
-
-  
-
-
 ## Jonge rivier- en zeeafzettingen (Fluvisol) 
 
 Fluvisols komen over de hele wereld voor in periodiek overstroomde gebieden van alluviale vlaktes, rivierwaaiers, valleien en kwelders.
@@ -148,8 +116,6 @@ Fluvisols zijn jonge gronden met een geringe mate van bodemvorming. In het midde
 
 Gebieden met Fluvisols zijn op grote schaal in gebruik voor de landbouw. De helft van de wereldbevolking leeft langs rivieren en kusten. Eenjarige gewassen, fruit en grasland komen voor. Bescherming tegen overstromen en drainage is gewoonlijk nodig. Sommige Fluvisols zijn extreem zuur en hebben hoge concentraties van toxisch aluminium. Vaak zijn ze evenwel kalkrijk en belemmert een sterke mineralisatie van organisch materiaal een goede humusopbouw. Koolstofrijke gewasresten van granen en grassen en koolstofrijke compost zijn essentieel voor een duurzame bodemvruchtbaarheid op deze basische gronden.
   
-
-   
 ![](../img/8%20kaart%20fluvisol-1920w.jpg)     
 
 
@@ -161,13 +127,6 @@ Gebieden met Fluvisols zijn op grote schaal in gebruik voor de landbouw. De helf
 ![](../img/10%20bodem%20fluvisol-1920w.jpg)   
 Bodemprofiel fluvisol in West Canada. Foto Agpal
 
- 
-
-  
-
-
-  
-
 
 ## Bruine bodems met wat meer organische stof (Cambisol) 
 
@@ -178,24 +137,16 @@ Cambisols zijn bruine gronden met beperkte bodemvorming. In Europa liggen ze voo
 
 Bij Cambisols heeft nog geen langdurige bodemvorming plaatsgevonden. Het moedermateriaal is matig tot licht verweerd. De organische stof is homogeen verdeeld over een redelijk dikke laag. 
 
-  
-
-
 ### Eigenschappen
 
 Omdat storende lagen meestal ontbreken en een wat dikkere organische-stof-houdende laag aanwezig is, zijn ze voor de landbouw redelijk tot goed te gebruiken. De meeste hebben een goede structuurstabiliteit, een goed watervasthoudend vermogen en goede mogelijkheden voor waterafvoer.
-
-  
 
 
 ### Landbouwkundig gebruik
 
 Het landbouwkundig gebruik is sterk afhankelijk van het klimaat. De Cambisols van de gematigde zone kunnen zeer productief zijn. Bij steile hellingen komen graasweiden en houtteelt vaak voor. In droge gebieden worden ze na irrigatie veel gebruikt voor akkerbouw en oliehoudende gewassen. In tropische gebieden zijn Cambisols (een midden bodem) wat rijker dan de Acrisols en Ferralsols (jonge bodems).
 
-  
 
-
-   
 ![](../img/12%20landschap%20cambisol-1920w.jpg)   
 Landschap cambisol in Maryland USA
 
@@ -206,18 +157,6 @@ Landschap cambisol in Maryland USA
 Cambisol in Maryland USA.
 
  
-
-  
-
-
-  
-
-
-  
-
-
-  
-
 
 ## Bodems met een dikke laag met organische stof (Zwarte aarde, chernozem) 
 
@@ -279,10 +218,6 @@ Een **bruine chernozem** met een donkere laag van 80 cm. De chernozems liggen t
 Een **kastanozem.** De donkere laag is  bruin tot bruinrood en veel dunner dan bij de chernozems. Deze chernozems liggen meer naar het zuiden waar het droger en warmer is. Korte ijle grassen die in de droge zomer verdroogden bouwden de humuslaag op. 
 
  
-
-  
-
-
 ### Profielkenmerken
 
 De zwarte chernozem met een dikke humuslaag
@@ -435,17 +370,10 @@ Berkenbos op podzol in Canada
 ![](../img/20%20bodem%20podzol-1920w.jpg)   
 Podzolprofiel onder berkenbos in Canada
 
- 
-
-  
-
-
-  
-
 
 ## Veenbodems (Histosol) 
 
- Histosols zijn veengronden die vooral voorkomen in koude streken rond de Noordpool, maar ook in gematigde streken en in de tropen. In koude gebieden is het vooral veenmosveen. In gematigde streken vooral riet-zeggeveen en in de vochtige tropen mangrove- en moerasbosveen. De meeste veengronden liggen in het laagland, maar ook in bergachtige gebieden worden ze aangetroffen. 
+Histosols zijn veengronden die vooral voorkomen in koude streken rond de Noordpool, maar ook in gematigde streken en in de tropen. In koude gebieden is het vooral veenmosveen. In gematigde streken vooral riet-zeggeveen en in de vochtige tropen mangrove- en moerasbosveen. De meeste veengronden liggen in het laagland, maar ook in bergachtige gebieden worden ze aangetroffen. 
 
   
 ### Vorming
@@ -497,11 +425,6 @@ Histosol in Noord Europa
 
 
 ## Donkere oude tropische cultuurgronden in Zuid-Amerika (Anthrosol, Terra Preta)
-
-     
-
-
-  
 
 
 Tussen 18.000 en 15.000 jaar geleden trokken mensen uit Siberië  via Alaska Amerika binnen. Tussen 13.000 en 11.000 jaar werd het Amazonegebied bereikt. Men leefde lange tijd van jacht en verzamelen van plantaardig materiaal. Tot recent werd aangenomen dat landbouw ongeveer 2000 jaar geleden zijn intrede deed. Dit blijkt al 8000 jaar eerder het geval te zijn, dus ca. 10.000 jaar geleden.
@@ -563,15 +486,13 @@ Houtskool is ontstaan uit natuurlijk organisch materiaal dat gedehydrateerd is e
 
 ## Literatuur
 
-Los primeros humanos en el Amazonas crearon miles de 'islas de bosque' en los Llanos de Moxos de Beni.
-
-https://www.raibolivia.org/los-primeros-humanos-en-el-amazonas-crearon-miles-de-islas-de-bosques/?fbclid=IwAR0cReeq2aS7nBPWzJfIN6M99QhqVsltsxY2092oCewJJc3aoAHSgGRdPmQ
+[Los primeros humanos en el Amazonas crearon miles de 'islas de bosque' en los Llanos de Moxos de Beni.](https://www.raibolivia.org/los-primeros-humanos-en-el-amazonas-crearon-miles-de-islas-de-bosques)
 
 
 Zuidmeer, E.P., 2021. Het regenwoud als eetbaar bos. Archeologie magazine 02-2021 p. 57-59.
 
 
-Wikipedia EN, 2012: Terras Preta.
+Wikipedia EN, 2012: [Terra Preta](https://en.wikipedia.org/wiki/Terra_preta).
 
 
 
