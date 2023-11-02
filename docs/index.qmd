@@ -5,7 +5,7 @@ title: Goed bodem beheer - by Jan Bokhorst †
 
 Jan Bokhorst † hield 2 websites bij met informatie over bodembeheer op [janbokhorst.nl](janbokhorst.nl) en [goedbodembeheer.nl](goedbodembeheer.nl).
 Deze repository is een kopie van deze informatie, om te voorkomen dat informatie verloren gaat in het geval de website zelf op enig moment ophoudt te bestaan. 
-Ook al is veel van deze content ook vindbaar via [internet archive](https://web.archive.org/web/20230000000000*/goedbodembeheer.nl).
+Ook al is veel van deze content ook vindbaar via [internet archive](https://web.archive.org/web/sitemap/goedbodembeheer.nl).
 
 
 - [Goed bodembeheer](goedbodembeheer)
