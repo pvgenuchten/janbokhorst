@@ -1,10 +1,11 @@
 ---
-title: Index
+title: Goed bodem beheer - by Jan Bokhorst †
 ---
 
-# Jan Bokhorst
-Jan Bokhorst hield 2 websites bij met informatie over bodembeheer op janbokhorst.nl en goedbodembeheer.nl.
-Deze repository is een kopie van deze informatie, in het geval de website zelf op enig moment verlaten wordt.
+
+Jan Bokhorst † hield 2 websites bij met informatie over bodembeheer op janbokhorst.nl en goedbodembeheer.nl.
+Deze repository is een kopie van deze informatie, in het geval de website zelf op enig moment ophoudt te bestaan.
+Mogelijk een plek om met de community verder te bouwen op zijn ideeën.
 
 - [Goed bodembeheer](goedbodembeheer)
 - [Jan Bokhorst](janbokhorst)
