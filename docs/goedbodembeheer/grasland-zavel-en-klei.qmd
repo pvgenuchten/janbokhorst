@@ -19,7 +19,7 @@ Door stijgen van de zeespiegel en dalen van de landoppervlakte is er vooral tuss
 
 ![Overzicht zware kleigronden in Nederland](../img/kaart%20gras%20zware%20klei-17f2cc96-1920w.png "Zware klei in Nederland")
 
-Zware klei in Nederland
+### Zware klei in Nederland
 
 
 ![](../img/natuur-ad8ef274-1920w.jpg)
@@ -34,7 +34,7 @@ Zware klei kan alleen bezinken wanneer het water vrijwel stil staat en dat kan a
 ## Zeeklei
 
 
-Landschap
+### Landschap
 
 
 Het landschap in gebieden met zware klei is meestal open. De moeilijke bewerkbaarheid van de meestal kalkloze klei betekent dat er vrijwel alleen gras kan worden verbouwd.
@@ -45,13 +45,13 @@ Zware klei in Zeeland. De toren van Middelburg op de achtergrond.
 
 ![Landschap knipklei Friesland](../img/greppels%20knipklei-1920w.jpg "knipklei met greppel")
 
-Zware klei met greppels voor de ontwatering in Friesland
+### Zware klei met greppels voor de ontwatering in Friesland
 
 
 Zware kleigronden vergen veel aandacht. Gaat er iets mis dan is dat niet snel te herstellen. Een goede ontwatering is belangrijk (greppels, drains). Berijden onder natte omstandigheden moet zo veel mogelijk vermeden worden. Verzorg de regenwormen (Vlinderbloemigen in het grasmengsel, koeien in de wei, goede zuurgraad,) en de rest van het bodemleven. Beperk opnieuw inzaaien. 
 
 
-**De bodem**
+### De bodem
 
 
 -Dikte van de zode  
@@ -139,11 +139,11 @@ Van boven naar beneden: de zode, de laag met roestvlekken en tenslotte de laag w
 Bodemprofiel met blauwgekleurde klei onderin. Duidt op organische stofhoudende klei.
 
 
-4. Rivierklei
+## Rivierklei
 
 Hoewel zware rivierklei in een bos is ontstaan is het landschap net als bij zeeklei zeer open. De open vlakte van het landbouwgebied wordt plaatselijk onderbroken door populieren- en wilgenteelt, oude eendenkooien en natuurgebieden.
 
-Landschap
+### Landschap
 
 
 Hoewel zware rivierklei in een bos is ontstaan is het landschap net als bij zeeklei zeer open. De open vlakte van het landbouwgebied wordt plaatselijk onderbroken door populieren- en wilgenteelt, oude eendenkooien en natuurgebieden.![Zware klei bij Culemborg in de Betuwe](../img/ls%20culemborg%202-70c27f28-1920w.jpg "Zware klei bij Culemborg in de Betuwe")
@@ -151,7 +151,7 @@ Hoewel zware rivierklei in een bos is ontstaan is het landschap net als bij zeek
 Zware rivierklei bij Benschop in West-Utrecht
 
 
-De bodem
+### De bodem
 
 
 ![Zware klei in de Betuwe](../img/komklei%20stiboka-bc7706cb-1920w.jpg "Zware klei in de Betuwe")
@@ -188,7 +188,7 @@ Mais is vanwege de rijkdom aan vezels een goede aanvulling op gras bij de voedin
 In de winter heeft het flink gevroren en hebben ijsnaalden de dichte kluiten losser gemaakt. Na opdrogen is er een losse grond die goed te bewerken is.
 
 
-5. Maatregelen op zware klei
+## Maatregelen op zware klei
 
 Belangrijke aandachtspunten:
 
@@ -211,9 +211,8 @@ Belangrijke aandachtspunten:
 - Beregen minder frequent.
 - Voorkom droogtestress.
 
-Zie ook de publicatie: Goud van Oud Grasland. Louis Bolk Instituut 2016-011 LbD
 
-**6. Muizenplaag in Friesland**  
+## Muizenplaag in Friesland  
 
 De muizenplaag in Friesland is niet het gevolg van slecht bodembeheer.Aanvankelijk werd gedacht dat de schade die het huidige bodembeheer bij grasland op zware klei aan de bodemstructuur toebrengt, samenhangt met de muizenplaag. Het intensieve berijden, ook onder natte omstandigheden, leidt tot een sterk verdichte bovengrond. Hierdoor is beworteling in de bovengrond maar beperkt mogelijk en de wortels vormen een dichte zode boven op de verdichte grond (zie afbeelding). Een paradijs voor muizen ontstaat zo. Dat werd wel gezegd, maar nader onderzoek geeft aan dat dat niet zo is.  
 
@@ -228,3 +227,10 @@ Uitbreiding van de schade bij Terzool in Friesland eind 2014 (Onderzoek WUR)
 
 ![woelmuis](../img/veldmuis(1)-1920w.jpg)   
 Het aardige beest dat dit allemaal veroorzaakt. Eigenlijk geen gewone muis, maar een woelmuis. Woelmuizen houden geen winterslaap, maar trekken in de winter juist rond en dat is een onderdeel van het probleem. Omdat ze de wortels van het gras eten sterft het gras af.
+
+## Literatuur
+
+Nick van Eekeren, N. van, Iepema, G., Domhof, D.
+[Goud van Oud Grasland; Bodemkwaliteit onder jong en oud grasland op klei](https://louisbolk.nl/sites/default/files/publication/pdf/3115.pdf) 2016, Luis Bolk
+
+ 
