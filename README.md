@@ -1,5 +1,5 @@
-# Jan Bokhorst
-Jan Bokhorst maintained a website on soil management practices at janbokhorst.nl, this is a copy of the information in case the site is at some point abandoned.
+# Goed Bodem Beheer 
+Jan Bokhorst onderhield een website over bodembeheer op goedbodembeheer.nl, deze repository bevat een kopie van de informatie op die website, voor het geval de website op enig moment niet meer beschikbaar is.
 
 ## In memoriam Jan Bokhorst: onderzoeker en pionier
 Source: [louisbolk.nl](https://www.louisbolk.nl/actueel/memoriam-jan-bokhorst-onderzoeker-en-pionier)
