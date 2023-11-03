@@ -1,18 +1,23 @@
 ---
 title: 'Wie zijn wij'
-date: 2023-10-28
+date: 2023-09-28
 author: Jan Bokhorst
 ---
 
-Deze website is samengesteld door Jan Bokhorst. Hij heeft in Wageningen Bodemkunde en Bemestingsleer gestudeerd. In 1977 was hij mede-initiatiefnemer van de start van de landbouwafdeling van het Louis Bolk Instituut te Driebergen en werkte 34 jaar op dit instituut. Sinds 1991 heeft hij de leiding bij Gaia Bodemonderzoek. Jan Bokhorst is auteur van het boek Bodem onder het Landschap en mede auteur van het Handboek Mest en Compost en Bodemsignalen Grasland.
-
-  
-
+Deze website is samengesteld door Jan Bokhorst. Hij heeft in Wageningen Bodemkunde en Bemestingsleer gestudeerd. In 1977 was hij mede-initiatiefnemer van de start van de landbouwafdeling van het Louis Bolk Instituut te Driebergen en werkte 34 jaar op dit instituut. Sinds 1991 had hij de leiding bij Gaia Bodemonderzoek. Jan Bokhorst is auteur van het boek [Bodem onder het Landschap]() en mede auteur van het [Handboek Mest en Compost en Bodemsignalen Grasland]().
 
 Aan deze website werkten mee: Joke Beekman, Coen ter Berg, Pieter Geluk, Arne Jens Kraaij, Gerard Oomen, Huibert Stolker en Ellen Winkel.
 
+## Overlijdensbericht Jan Bokhorst
 
-  
+Zondag 15 oktober is op 76-jarige leeftijd Jan Bokhorst overleden. Hij werd gezien als een groot pionier in de biologische landbouw.
+
+![](../img/Rouwkaart%20Jan%20Bokhorst-1920w.png)
+
+## Een inhoudelijke kopie op github
+
+Na het overlijden van Jan is dit initiatief op github gestart om de inhoud van zijn websites te waarborgen, mocht de website zelf op enig moment verdwijnen.
+
 
 
 
